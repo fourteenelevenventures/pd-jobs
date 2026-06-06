@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Designer Jobs — India</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #222536;
+      --border: #2e3148;
+      --accent: #7c6af7;
+      --accent2: #a78bfa;
+      --text: #e2e4f0;
+      --muted: #8b8fa8;
+      --green: #34d399;
+      --yellow: #fbbf24;
+      --red: #f87171;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    /* Header */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .header-left h1 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--accent2);
+      letter-spacing: -0.3px;
+    }
+    .header-left p {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .last-updated {
+      font-size: 12px;
+      color: var(--muted);
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      padding: 4px 10px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+    .dot {
+      display: inline-block;
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: var(--green);
+      margin-right: 6px;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    /* Filters */
+    .filters {
+      padding: 16px 24px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+    }
+    .filter-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 5px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    #search {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      outline: none;
+      width: 200px;
+    }
+    #search::placeholder { color: var(--muted); }
+    #search:focus { border-color: var(--accent); }
+
+    /* Content */
+    main { max-width: 1100px; margin: 0 auto; padding: 24px; }
+
+    /* Run section */
+    .run-section {
+      margin-bottom: 32px;
+    }
+    .run-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .run-date {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent2);
+      background: rgba(124, 106, 247, 0.12);
+      padding: 3px 10px;
+      border-radius: 4px;
+    }
+    .run-note {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .new-badge {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      background: var(--green);
+      color: #0f1117;
+      padding: 2px 7px;
+      border-radius: 4px;
+    }
+
+    /* Job cards */
+    .jobs-grid {
+      display: grid;
+      gap: 12px;
+    }
+    .job-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 20px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: start;
+      transition: border-color 0.15s, transform 0.1s;
+    }
+    .job-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-1px);
+    }
+    .job-card.hidden { display: none; }
+    .job-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .job-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 6px;
+    }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--muted);
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      padding: 2px 9px;
+      border-radius: 4px;
+    }
+    .tag.company { color: var(--accent2); border-color: rgba(124,106,247,0.3); background: rgba(124,106,247,0.08); }
+    .tag.salary { color: var(--green); border-color: rgba(52,211,153,0.3); background: rgba(52,211,153,0.08); }
+    .tag.exp { color: var(--yellow); border-color: rgba(251,191,36,0.3); background: rgba(251,191,36,0.08); }
+    .company-desc {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 7px;
+      line-height: 1.5;
+    }
+    .apply-btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      padding: 7px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      white-space: nowrap;
+      transition: opacity 0.15s;
+    }
+    .apply-btn:hover { opacity: 0.85; }
+
+    /* Source label */
+    .source-label {
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin: 20px 0 8px;
+      font-weight: 600;
+    }
+
+    /* Stats bar */
+    .stats-bar {
+      display: flex;
+      gap: 20px;
+      padding: 14px 24px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+    .stat { font-size: 13px; color: var(--muted); }
+    .stat strong { color: var(--text); font-weight: 600; }
+
+    /* Index links */
+    .index-section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+    }
+    .index-section h3 {
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+    }
+    .index-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 8px;
+    }
+    .index-link {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 8px 12px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 13px;
+      color: var(--text);
+      transition: border-color 0.15s;
+    }
+    .index-link:hover { border-color: var(--accent); color: var(--accent2); }
+    .index-link .count { font-size: 11px; color: var(--muted); }
+
+    /* Empty state */
+    #empty-state {
+      text-align: center;
+      padding: 48px;
+      color: var(--muted);
+      display: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: var(--muted);
+      font-size: 12px;
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>🎨 Product Designer Jobs — India</h1>
+    <p>Hyderabad · Pune · Bengaluru · Gurugram · Noida · Remote</p>
+  </div>
+  <div class="last-updated" id="last-updated">
+    <span class="dot"></span>Auto-updated by scheduler
+  </div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat">Total listings: <strong id="stat-total">—</strong></div>
+  <div class="stat">Sources: <strong>Wellfound · Cutshort · LinkedIn · Naukri · Instahyre</strong></div>
+  <div class="stat">Last run: <strong id="stat-lastrun">—</strong></div>
+</div>
+
+<div class="filters">
+  <input type="text" id="search" placeholder="Search jobs, companies…" oninput="filterJobs()" />
+  <button class="filter-btn active" onclick="filterByLocation('all', this)">All</button>
+  <button class="filter-btn" onclick="filterByLocation('Hyderabad', this)">Hyderabad</button>
+  <button class="filter-btn" onclick="filterByLocation('Pune', this)">Pune</button>
+  <button class="filter-btn" onclick="filterByLocation('Bengaluru', this)">Bengaluru</button>
+  <button class="filter-btn" onclick="filterByLocation('Gurugram', this)">Gurugram</button>
+  <button class="filter-btn" onclick="filterByLocation('Noida', this)">Noida</button>
+  <button class="filter-btn" onclick="filterByLocation('Remote', this)">Remote</button>
+</div>
+
+<main>
+  <div id="jobs-container"></div>
+  <div id="empty-state">No jobs match your filter. Try a different city or clear the search.</div>
+  <div class="index-section">
+    <h3>Browse all listings by platform</h3>
+    <div class="index-grid">
+      <a href="https://in.linkedin.com/jobs/product-designer-jobs-hyderabad" target="_blank" class="index-link">LinkedIn — Hyderabad <span class="count">432+</span></a>
+      <a href="https://in.linkedin.com/jobs/product-designer-jobs-bengaluru" target="_blank" class="index-link">LinkedIn — Bengaluru <span class="count">1000+</span></a>
+      <a href="https://in.linkedin.com/jobs/product-designer-jobs-pune" target="_blank" class="index-link">LinkedIn — Pune <span class="count">468+</span></a>
+      <a href="https://in.linkedin.com/jobs/product-designer-jobs-gurugram" target="_blank" class="index-link">LinkedIn — Gurugram <span class="count">1000+</span></a>
+      <a href="https://in.linkedin.com/jobs/product-designer-jobs-noida" target="_blank" class="index-link">LinkedIn — Noida <span class="count">819+</span></a>
+      <a href="https://in.linkedin.com/jobs/remote-product-designer-jobs" target="_blank" class="index-link">LinkedIn — Remote <span class="count">320+</span></a>
+      <a href="https://wellfound.com/role/l/product-designer/india" target="_blank" class="index-link">Wellfound — India <span class="count">193+</span></a>
+      <a href="https://cutshort.io/jobs/product-design-jobs" target="_blank" class="index-link">Cutshort — India <span class="count">50+</span></a>
+      <a href="https://www.naukri.com/product-designer-jobs-in-hyderabad-secunderabad" target="_blank" class="index-link">Naukri — Hyderabad <span class="count">Many</span></a>
+      <a href="https://www.naukri.com/product-designer-jobs-in-bengaluru-bangalore" target="_blank" class="index-link">Naukri — Bengaluru <span class="count">Many</span></a>
+      <a href="https://www.naukri.com/product-designer-jobs-in-pune" target="_blank" class="index-link">Naukri — Pune <span class="count">Many</span></a>
+      <a href="https://www.glassdoor.com/Job/india-product-designer-jobs-SRCH_IL.0,5_IN115_KO6,22.htm" target="_blank" class="index-link">Glassdoor — India <span class="count">7962+</span></a>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Auto-updated by Claude scheduler · Data from Wellfound, Cutshort, LinkedIn, Naukri, Instahyre
+</footer>
+
+<script>
+// ─── Job Data ───────────────────────────────────────────────────────────────
+// This array is rewritten by the scheduler on each run.
+// Format: { title, company, location, exp, salary, link, desc, source, date }
+const JOBS = [
+  // === June 6, 2026 — 10:00 PM IST ===
+  {
+    title: "Sr. Product Designer",
+    company: "Futuristic Labs",
+    location: "Hyderabad",
+    exp: "3–5 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/Sr-Product-Designer-Hyderabad-Futuristic-Labs-O29MnmsY",
+    desc: "Hardware & consumer product design studio. Full design cycle: research → wireframes → pixel-perfect screens → dev handoff. Known for RIKU (AI-assisted rice maker).",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  {
+    title: "Product Designer",
+    company: "FPL Technologies (OneCard)",
+    location: "Pune",
+    exp: "2–3 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/Product-Designer-Pune-FPL-Technologies-Pvt-Ltd-2iQcpMzz",
+    desc: "Fintech building credit cards & spend tools. Role: improve core mobile product flows and architecture. Onsite in Aundh, Pune with WFH flex.",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  {
+    title: "Product Designer",
+    company: "Zocket",
+    location: "Noida",
+    exp: "2 yrs",
+    salary: "₹8L–₹18L",
+    link: "https://wellfound.com/company/zockettechnologies/jobs",
+    desc: "Digital marketing platform for small businesses. Founded by IIM alumni post-exit. Top 5% response rate on Wellfound.",
+    source: "Wellfound",
+    date: "2026-06-06"
+  },
+  {
+    title: "Product Designer",
+    company: "Pagarbook",
+    location: "Bengaluru",
+    exp: "3–7 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/Product-designer-Bengaluru-Bangalore-Anzy-iKZgJprD",
+    desc: "HRMS platform for SMEs, backed by top VCs. Remote-friendly from Bengaluru. IIT/NIT alumni team.",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  // === June 6, 2026 — Gurugram & Noida ===
+  {
+    title: "UI/UX Designer",
+    company: "Maxtron Services",
+    location: "Noida",
+    exp: "2 yrs",
+    salary: "₹2.5L–₹7L",
+    link: "https://wellfound.com/jobs/4165163-ui-ux-designer",
+    desc: "Business tech solutions (11–50 employees). Full-time in-office Noida role.",
+    source: "Wellfound",
+    date: "2026-06-06"
+  },
+  {
+    title: "Lead Designer (UI/UX)",
+    company: "Luna Ring",
+    location: "Gurugram",
+    exp: "8 yrs",
+    salary: "",
+    link: "https://wellfound.com/jobs/3834040-lead-designer-ui-ux-top-d2c-consumer-electronics-company",
+    desc: "World's first AI-powered smart ring. D2C consumer electronics startup (11–50). Senior/lead level.",
+    source: "Wellfound",
+    date: "2026-06-06"
+  },
+  {
+    title: "Product Designer",
+    company: "Unnati (Edtech)",
+    location: "Gurugram",
+    exp: "2–6 yrs",
+    salary: "₹12L–₹20L",
+    link: "https://cutshort.io/job/Product-Designer-Gurugram-Unnati-5oMDbMTO",
+    desc: "Preschool edtech startup. End-to-end product design role in Gurugram.",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  {
+    title: "UX Designer",
+    company: "MyGlamm (Good Glamm Group)",
+    location: "Gurugram",
+    exp: "2–4 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/UX-Designer-Mumbai-Bengaluru-Bangalore-Noida-Gurugram-The-Good-Glamm-Group-8JUgz2dJ",
+    desc: "D2C beauty & content company. UX for consumer-facing digital products. Flexible remote/Noida/Gurugram.",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  {
+    title: "Senior Product Designer",
+    company: "Peak Hire Solutions",
+    location: "Noida",
+    exp: "4–6 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/Senior-Product-Designer-Noida-Peak-Hire-Solutions-aZP6mX0B",
+    desc: "Media & entertainment industry client (via recruiter). Design journeys for millions of users in a startup-style environment.",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  {
+    title: "Product Design Lead",
+    company: "Toffee Insurance",
+    location: "Gurugram",
+    exp: "8–12 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/Toffee-Insurance-Product-Design-Lead-NCR-Delhi-Gurgaon-Noida-Toffee-Insurance-dTmn7AgC",
+    desc: "Insurtech startup. Lead-level role, onsite Gurgaon. ESOP component. Strong portfolio required.",
+    source: "Cutshort",
+    date: "2026-06-06"
+  },
+  // === June 5, 2026 — Evening ===
+  {
+    title: "Product Designer",
+    company: "Silverlabs India (Rizzle/Rumbl)",
+    location: "Hyderabad",
+    exp: "1–4 yrs",
+    salary: "₹5L–₹20L",
+    link: "https://cutshort.io/job/Product-Designer-Hyderabad-Silverlabs-India-Private-Limited-qpHeQETi",
+    desc: "Short-video/social platform (100–500 employees, funded). Dual HQ in SF and Hyderabad. End-to-end design across content creation and navigation.",
+    source: "Cutshort",
+    date: "2026-06-05"
+  },
+  {
+    title: "Product Designer",
+    company: "Eloelo",
+    location: "Bengaluru",
+    exp: "2–3 yrs",
+    salary: "",
+    link: "https://cutshort.io/job/Product-Designer-Bengaluru-Bangalore-Eloelo-j08MdtM4",
+    desc: "Live streaming & short-video social platform. Design end-to-end user journeys for creator and viewer experiences.",
+    source: "Cutshort",
+    date: "2026-06-05"
+  },
+  // === June 5, 2026 — 12:00 PM ===
+  {
+    title: "Product Designer",
+    company: "Atlys",
+    location: "Bengaluru",
+    exp: "2 yrs",
+    salary: "₹30L–₹80L",
+    link: "https://wellfound.com/jobs/4144519-product-designer",
+    desc: "Travel-tech startup (201–500 employees). Onsite or remote, Bengaluru. Top 5% response rate.",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Product Designer",
+    company: "Staple",
+    location: "Remote",
+    exp: "5 yrs",
+    salary: "₹23.75L–₹35L",
+    link: "https://wellfound.com/jobs/4174532-product-designer",
+    desc: "AI data capture for businesses (51–200 employees). Fully remote across India.",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Senior Product Designer",
+    company: "Unosecur",
+    location: "Bengaluru",
+    exp: "6 yrs",
+    salary: "₹30L–₹40L",
+    link: "https://wellfound.com/jobs/4173505-senior-product-designer",
+    desc: "Cloud Identity Threat Detection & Response. Top 1% responder, responds within a day.",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Senior Product Designer",
+    company: "Get My Parking",
+    location: "Bengaluru",
+    exp: "5 yrs",
+    salary: "₹15L–₹20L",
+    link: "https://wellfound.com/jobs/747214-senior-product-designer",
+    desc: "AI-powered parking platform (51–200, growth stage).",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Product Designer",
+    company: "The Product Highway",
+    location: "Bengaluru",
+    exp: "3 yrs",
+    salary: "₹15L–₹18L",
+    link: "https://wellfound.com/jobs/4133760-product-designer-mobile",
+    desc: "AI-native product development studio (11–50). Mobile-focused role.",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Product Designer",
+    company: "Scalio",
+    location: "Bengaluru",
+    exp: "1 yr",
+    salary: "₹15L–₹25L",
+    link: "https://wellfound.com/jobs/4084250-product-designer",
+    desc: "AI marketing tool (1–10 employees).",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Product Designer",
+    company: "Staple",
+    location: "Remote",
+    exp: "2 yrs",
+    salary: "₹3.6L–₹7L",
+    link: "https://wellfound.com/jobs/4013019-product-designer",
+    desc: "Simulation-based career game startup. Fully remote worldwide.",
+    source: "Wellfound",
+    date: "2026-06-05"
+  },
+  {
+    title: "Digital Product Designer",
+    company: "Adagrad AI",
+    location: "Pune",
+    exp: "2–4 yrs",
+    salary: "",
+    link: "https://www.instahyre.com/job-342772-digital-product-designer-at-adagrad-ai-pune/",
+    desc: "Computer vision AI startup (10–50, founded 2018). Figma, Illustrator, Adobe Campaign, Visual Design.",
+    source: "Instahyre",
+    date: "2026-06-05"
+  }
+];
+
+// ─── State ───────────────────────────────────────────────────────────────────
+let activeLocation = 'all';
+
+// ─── Render ──────────────────────────────────────────────────────────────────
+function render() {
+  const container = document.getElementById('jobs-container');
+  const search = document.getElementById('search').value.toLowerCase();
+
+  const filtered = JOBS.filter(j => {
+    const locMatch = activeLocation === 'all' || j.location.toLowerCase().includes(activeLocation.toLowerCase());
+    const searchMatch = !search ||
+      j.title.toLowerCase().includes(search) ||
+      j.company.toLowerCase().includes(search) ||
+      j.location.toLowerCase().includes(search) ||
+      (j.desc || '').toLowerCase().includes(search);
+    return locMatch && searchMatch;
+  });
+
+  // Group by date
+  const byDate = {};
+  filtered.forEach(j => {
+    if (!byDate[j.date]) byDate[j.date] = [];
+    byDate[j.date].push(j);
+  });
+
+  const dates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
+
+  if (dates.length === 0) {
+    container.innerHTML = '';
+    document.getElementById('empty-state').style.display = 'block';
+    document.getElementById('stat-total').textContent = '0';
+    return;
+  }
+  document.getElementById('empty-state').style.display = 'none';
+
+  container.innerHTML = dates.map((date, i) => {
+    const jobs = byDate[date];
+    const label = formatDate(date);
+    const isNewest = i === 0;
+    return `
+      <div class="run-section">
+        <div class="run-header">
+          <span class="run-date">${label}</span>
+          ${isNewest ? '<span class="new-badge">Latest</span>' : ''}
+          <span class="run-note">${jobs.length} listing${jobs.length !== 1 ? 's' : ''}</span>
+        </div>
+        <div class="jobs-grid">
+          ${jobs.map(jobCard).join('')}
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  document.getElementById('stat-total').textContent = filtered.length;
+  document.getElementById('stat-lastrun').textContent = formatDate(dates[0]);
+  document.getElementById('last-updated').innerHTML = `<span class="dot"></span>Last updated ${formatDate(dates[0])}`;
+}
+
+function jobCard(j) {
+  return `
+    <div class="job-card" data-location="${j.location}" data-date="${j.date}">
+      <div>
+        <div class="job-title">${j.title}</div>
+        <div class="job-meta">
+          <span class="tag company">🏢 ${j.company}</span>
+          <span class="tag">📍 ${j.location}</span>
+          ${j.exp ? `<span class="tag exp">⏱ ${j.exp}</span>` : ''}
+          ${j.salary ? `<span class="tag salary">💰 ${j.salary}</span>` : ''}
+          <span class="tag">${j.source}</span>
+        </div>
+        ${j.desc ? `<div class="company-desc">${j.desc}</div>` : ''}
+      </div>
+      <a href="${j.link}" target="_blank" class="apply-btn">Apply →</a>
+    </div>
+  `;
+}
+
+function formatDate(d) {
+  const dt = new Date(d + 'T00:00:00');
+  return dt.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+function filterByLocation(loc, btn) {
+  activeLocation = loc;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function filterJobs() { render(); }
+
+// Initial render
+render();
+</script>
+</body>
+</html>
