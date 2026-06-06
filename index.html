@@ -296,6 +296,51 @@
     font-size: 13px;
     padding: 12px 0;
   }
+
+  /* Best Matches */
+  .best-matches-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 28px 0 4px;
+  }
+  .best-matches-header .section-label { margin: 0; flex: 1; }
+  .resume-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: #6e6e73;
+    background: #f5f5f7;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    padding: 3px 10px;
+  }
+  .match-card {
+    border-color: #d4e8ff;
+    background: linear-gradient(to bottom right, #fff, #f0f7ff);
+  }
+  .match-score-bar {
+    height: 5px;
+    background: #e8e8ed;
+    border-radius: 10px;
+    position: relative;
+    overflow: visible;
+    margin: 2px 0 4px;
+  }
+  .match-score-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #34c759, #0071e3);
+    border-radius: 10px;
+    transition: width 0.6s ease;
+  }
+  .match-score-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #0071e3;
+    margin-top: 4px;
+    display: block;
+  }
 </style>
 </head>
 <body>
@@ -341,7 +386,7 @@
   <!-- Sections rendered by JS -->
   <div class="empty-state" id="emptyState">No listings match your filters.</div>
 
-  <div class="section-label" style="margin-top:28px">Browse job boards directly</div>
+  <div class="section-label" id="board-section-label" style="margin-top:28px">Browse job boards directly</div>
   <div class="board-links">
     <h3>Large volumes of listings — filter by "Date Posted" on each platform</h3>
     <div class="board-grid">
@@ -542,12 +587,22 @@ function render() {
   const sortedKeys = Object.keys(byDateSrc).sort((a, b) => b.localeCompare(a));
 
   const main = document.getElementById('main-content');
-  const boardLinks = main.querySelector('.board-links').parentElement;
+  const insertionAnchor = document.getElementById('board-section-label');
 
   // Clear dynamic sections
   main.querySelectorAll('.dynamic-section').forEach(el => el.remove());
 
   let html = '';
+
+  // Best Matches — always based on full JOBS list (not filtered), top 6
+  const bestMatches = getBestMatches(JOBS, 6);
+  html += `<div class="dynamic-section">
+    <div class="best-matches-header">
+      <div class="section-label" style="margin:0;flex:1">⭐ Best Matches for Tulsi <span class="count-badge">${bestMatches.length}</span></div>
+      <span class="resume-chip">👤 Tulsi Patel · 4 yrs · Fintech / Consumer / Remote</span>
+    </div>
+    <div class="grid" style="margin-top:12px">${bestMatches.map(buildMatchCard).join('')}</div>
+  </div>`;
 
   if (newItems.length) {
     const latestDate = newItems.map(j => j.date).sort().reverse()[0];
@@ -568,8 +623,7 @@ function render() {
   });
 
   // Insert before board links section label
-  const boardSectionLabel = main.querySelector('.section-label:last-of-type');
-  boardSectionLabel.insertAdjacentHTML('beforebegin', html);
+  insertionAnchor.insertAdjacentHTML('beforebegin', html);
 
   // Update header subtitle
   const latestDate = getLatestDate();
@@ -583,6 +637,100 @@ function render() {
 }
 
 function filterJobs() { render(); }
+
+// ─── BEST MATCH SCORING ───────────────────────────────────────────────────────
+// Tulsi Patel — ~4 yrs exp, Fintech/Healthtech/E-commerce/B2B, remote-first,
+// design systems, end-to-end product design, Figma, consumer apps, mobile.
+
+const RESUME = {
+  expYears: 4,
+  domains: ['fintech', 'finance', 'healthtech', 'health', 'ecommerce', 'e-commerce', 'b2b', 'saas', 'consumer', 'mobile', 'real estate', 'edtech'],
+  skills: ['design system', 'figma', 'framer', 'user research', 'prototyping', 'interaction design', 'visual design', 'wireframe', 'developer handoff', 'responsive', 'end-to-end', 'onboarding', 'mvp', 'product design'],
+  preferRemote: true,
+  seniorityMin: 1,
+  seniorityMax: 5,
+};
+
+function parseExpYears(expStr) {
+  if (!expStr) return null;
+  const nums = expStr.match(/\d+/g);
+  if (!nums) return null;
+  return nums.map(Number);
+}
+
+function scoreJob(job) {
+  let score = 0;
+  const haystack = [job.title, job.company, job.desc, job.source, job.location].join(' ').toLowerCase();
+
+  // Domain match
+  RESUME.domains.forEach(d => { if (haystack.includes(d)) score += 3; });
+
+  // Skill / keyword match
+  RESUME.skills.forEach(s => { if (haystack.includes(s)) score += 1; });
+
+  // Work type preference
+  const wt = (job.workType || '').toLowerCase();
+  if (wt === 'remote') score += 4;
+  else if (wt === 'hybrid') score += 2;
+
+  // Experience level fit
+  const expNums = parseExpYears(job.exp);
+  if (expNums) {
+    const jobMin = expNums[0];
+    const jobMax = expNums.length > 1 ? expNums[1] : expNums[0];
+    // Tulsi has 4 yrs — reward jobs where her exp falls within or just above the range
+    if (RESUME.expYears >= jobMin && RESUME.expYears <= jobMax + 1) score += 4;
+    else if (RESUME.expYears < jobMin && jobMin - RESUME.expYears <= 1) score += 2; // slight stretch
+    else if (RESUME.expYears > jobMax && RESUME.expYears - jobMax <= 2) score += 2; // slight overqualified
+  } else {
+    score += 1; // no exp stated — neutral bonus
+  }
+
+  // Salary shown is a positive signal (transparent companies)
+  if (job.salary) score += 1;
+
+  // Startup / small team — Tulsi thrives here (all past roles were startups)
+  const startupKeywords = ['startup', '1–10', '11–50', '51–200', 'early stage', 'founding', 'seed', 'mvp', 'vc-backed', 'backed'];
+  startupKeywords.forEach(k => { if (haystack.includes(k)) score += 1; });
+
+  return score;
+}
+
+function getBestMatches(allJobs, topN = 6) {
+  return allJobs
+    .map(j => ({ ...j, _score: scoreJob(j) }))
+    .sort((a, b) => b._score - a._score)
+    .slice(0, topN);
+}
+
+function buildMatchCard(j) {
+  const srcLabel = SOURCE_LABELS[j.source] || j.source;
+  const badgeClass = cardBadgeClass(j.source);
+  const wtChip = j.workType ? `<span class="meta-chip">${j.workType === 'Remote' ? '🌐' : j.workType === 'Hybrid' ? '🔄' : '🏢'} ${j.workType}</span>` : '';
+  const expChip = j.exp ? `<span class="meta-chip">🕐 ${j.exp}</span>` : '';
+  const salaryChip = j.salary ? `<span class="meta-chip salary">${j.salary}</span>` : '';
+  const scoreBar = Math.min(Math.round((j._score / 20) * 100), 100);
+
+  return `<div class="card match-card">
+    <div class="card-header">
+      <div>
+        <div class="card-title">${j.title}</div>
+        <div class="card-company">${j.company}</div>
+      </div>
+      <span class="badge ${badgeClass}">${srcLabel}</span>
+    </div>
+    <div class="card-meta">
+      <span class="meta-chip">📍 ${j.location}</span>
+      ${wtChip}${expChip}${salaryChip}
+    </div>
+    <div class="match-score-bar">
+      <div class="match-score-fill" style="width:${scoreBar}%"></div>
+      <span class="match-score-label">Match ${scoreBar}%</span>
+    </div>
+    ${j.desc ? `<div class="card-desc">${j.desc}</div>` : ''}
+    <a class="apply-btn" href="${j.link}" target="_blank">Apply on ${srcLabel} →</a>
+  </div>`;
+}
 
 // ─── REFRESH ─────────────────────────────────────────────────────────────────
 function showToast(msg, duration = 3500) {
