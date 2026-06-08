@@ -13,7 +13,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| Product Designer, Design Systems | Epicor | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/company/epicor-software-corporation/jobs/) | LinkedIn |
+| Product Designer, Design Systems | Epicor | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4423509981/) | LinkedIn |
 
 - **Epicor** — Global enterprise software provider specializing in ERP for manufacturing, distribution, and retail (4,000+ employees). Design Systems role in Hyderabad product team.
 
@@ -21,7 +21,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| Product Designer (UX/UI, Consumer Mobile & Web Apps) | GreenChoice, PBC | Pune (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/company/greenchoice-pbc/jobs/) | LinkedIn |
+| Product Designer (UX/UI, Consumer Mobile & Web Apps) | GreenChoice, PBC | Pune (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4421566314/) | LinkedIn |
 
 - **GreenChoice, PBC** — Food health intelligence company. Remote role based out of Pune Division. Posted 1 day ago — very fresh.
 
@@ -29,15 +29,15 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| Product Designer | Hoomanely | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/hoomanely/jobs/) | LinkedIn |
-| Senior Product Designer | Triplespeed | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/triplespeed/jobs/) | LinkedIn |
-| Product Designer - 2 | Acko | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/ackoinsurance/jobs/) | LinkedIn |
-| Product Designer | Emergent | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/emergentapp/jobs/) | LinkedIn |
-| Product Designer | Almabase | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/almabase/jobs/) | LinkedIn |
-| Product Designer — Mobile App | GreedyGame | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/greedygame/jobs/) | LinkedIn |
-| Product Designer | Docusign | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/docusign/jobs/) | LinkedIn |
-| Product Designer | Zeta Global | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/zeta-global/jobs/) | LinkedIn |
-| Product Designer - Contract | DigiCert | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/digicert-inc-/jobs/) | LinkedIn |
+| Product Designer | Hoomanely | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4421122848/) | LinkedIn |
+| Senior Product Designer | Triplespeed | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4407368980/) | LinkedIn |
+| Product Designer - 2 | Acko | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4423201549/) | LinkedIn |
+| Product Designer | Emergent | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4417861191/) | LinkedIn |
+| Product Designer | Almabase | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4390389481/) | LinkedIn |
+| Product Designer — Mobile App | GreedyGame | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4422374368/) | LinkedIn |
+| Product Designer | Docusign | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4395943470/) | LinkedIn |
+| Product Designer | Zeta Global | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4413012096/) | LinkedIn |
+| Product Designer - Contract | DigiCert | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4418831548/) | LinkedIn |
 
 - **Hoomanely** — Actively reviewing applicants. Design role in Bengaluru.
 - **Triplespeed** — Actively reviewing applicants. Senior-level role in Bengaluru.
@@ -53,9 +53,9 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| Product Designer | Driffle | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/company/driffle/jobs/) | LinkedIn |
-| Senior Product Designer | 30 Sundays | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/company/30sundays/jobs/) | LinkedIn |
-| Product Designer, Zudo | Airblack | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/company/airblack-co/jobs/) | LinkedIn |
+| Product Designer | Driffle | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4418558791/) | LinkedIn |
+| Senior Product Designer | 30 Sundays | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4424670757/) | LinkedIn |
+| Product Designer, Zudo | Airblack | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4419654882/) | LinkedIn |
 
 - **Driffle** — Digital gaming marketplace for PC game keys. Consumer marketplace design; actively reviewing applicants.
 - **30 Sundays** — Creative/product company in Gurugram. Senior Product Designer promoted listing.
@@ -65,8 +65,8 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| Product Designer | Adobe | Noida | On-site | — | — | [Apply](https://www.linkedin.com/company/adobe/jobs/) | LinkedIn |
-| Product Designer | Pine Labs | Noida | On-site | — | — | [Apply](https://www.linkedin.com/company/pine-labs/jobs/) | LinkedIn |
+| Product Designer | Adobe | Noida | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4366485514/) | LinkedIn |
+| Product Designer | Pine Labs | Noida | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4413682490/) | LinkedIn |
 
 - **Adobe** — FAANG-tier creative & enterprise software. Product Designer in Noida office; 3 connections there.
 - **Pine Labs** — India's leading merchant commerce platform (unicorn, SoftBank backed). Actively reviewing applicants. Fintech/payments design.
@@ -75,8 +75,8 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| UI/UX Designer — AI-Native Healthcare SaaS | Zenara Health | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/company/zenara-health/jobs/) | LinkedIn |
-| Product Designer | Marvin | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/company/marvinapp/jobs/) | LinkedIn |
+| UI/UX Designer — AI-Native Healthcare SaaS | Zenara Health | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4382927944/) | LinkedIn |
+| Product Designer | Marvin | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4419815304/) | LinkedIn |
 
 - **Zenara Health** — AI-native healthcare SaaS. Remote India role posted 3 months ago (verify status).
 - **Marvin** — User research platform. Posted 1 week ago. Fully remote India.
@@ -85,7 +85,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| UX Designer — Assisted Service | eBay | Bengaluru | On-site | — | — | [Apply](https://jobs.ebayinc.com/en-us/job/-/-/403/86140064384) | LinkedIn Posts |
+| UX Designer — Assisted Service | eBay | Bengaluru | On-site | — | — | [Apply](https://jobs.ebayinc.com/us/en/job/R0074158/UX-Designer-Assisted-Service) | LinkedIn Posts |
 
 - **eBay** — Global eCommerce marketplace. UX Designer for Assisted Service team (tools for customer service reps). Referred by Sr PM Akankshya Mishra; send portfolio directly via DM. Bengaluru office.
 ---
