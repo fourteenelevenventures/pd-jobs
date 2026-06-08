@@ -5,6 +5,61 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 8, 2026 — 12:49 PM IST (Scheduled Run #29)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 10 new listings found, all from LinkedIn Chrome.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX/UI Designer (Freelancer) | Deccan AI Experts | Hyderabad | Freelance | — | — | [Apply](https://www.linkedin.com/jobs/view/4413404289/) | LinkedIn |
+
+- **Deccan AI Experts** — AI services and consulting company based in Hyderabad. This is a freelance UX/UI Designer role, distinct from the Figma Designer (Freelancer) listing below.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Koffeetech Communications | Pune | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4421915917/) | LinkedIn |
+
+- **Koffeetech Communications** — Digital marketing and technology company specialising in communications, apps, and web products. UI/UX Designer role based in Pune.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Instead | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4420116406/) | LinkedIn |
+| Product Designer II | Razorpay | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4422330615/) | LinkedIn |
+
+- **Instead** — Financial planning and tax automation platform for entrepreneurs and freelancers (US-based, India design team in Bengaluru). Product Designer role.
+- **Razorpay** — India's leading payments and business banking platform (unicorn, $7.5B+ valuation). Product Designer II is a mid-to-senior IC level role; strong fintech/payments UX portfolio expected.
+
+### Hybrid India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Growth Designer | Senseloaf AI | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4413561621/) | LinkedIn |
+| UI/UX Product Designer | Valerie Group | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4408227687/) | LinkedIn |
+
+- **Senseloaf AI** — AI-powered HR tech startup automating talent sourcing and candidate screening. Growth Designer role focused on conversion, onboarding, and activation flows.
+- **Valerie Group** — Staffing and consulting firm. UI/UX Product Designer role; likely placing with a client company.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UX/UI) \| $70/hr | Crossing Hurdles | India (Remote) | Remote | — | $70/hr | [Apply](https://www.linkedin.com/jobs/view/4408333032/) | LinkedIn |
+| UI/UX Designer | GoodSpace AI | India | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4420701861/) | LinkedIn |
+| UI/UX Designer | FetchJobs.co | India | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4425070589/) | LinkedIn |
+| Figma Designer (Freelancer) | Deccan AI Experts | India (Remote) | Freelance | — | — | [Apply](https://www.linkedin.com/jobs/view/4416635202/) | LinkedIn |
+
+- **Crossing Hurdles** — Staffing/recruitment agency placing designers at high-paying international roles. $70/hr is USD-rate, suggesting cross-border or contractor placement. Verify contract terms before applying.
+- **GoodSpace AI** — AI-powered talent matching and recruitment platform. UI/UX Designer role; showed up across multiple city searches suggesting remote/flexible arrangement.
+- **FetchJobs.co** — Job aggregator and placement platform. UI/UX Designer listing likely on behalf of a client company.
+- **Deccan AI Experts (Figma Designer)** — Remote freelance Figma design role at this Hyderabad-based AI services firm. Distinct from the Hyderabad on-site UX/UI Freelancer role above.
+---
+
 ## 🗓 June 8, 2026 — 12:08 PM IST (Scheduled Run #28)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities. 19 new listings found — all from LinkedIn Chrome (first Chrome-enabled run of the day).
