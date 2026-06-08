@@ -5,6 +5,91 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 8, 2026 — 12:08 PM IST (Scheduled Run #28)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities. 19 new listings found — all from LinkedIn Chrome (first Chrome-enabled run of the day).
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer, Design Systems | Epicor | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/company/epicor-software-corporation/jobs/) | LinkedIn |
+
+- **Epicor** — Global enterprise software provider specializing in ERP for manufacturing, distribution, and retail (4,000+ employees). Design Systems role in Hyderabad product team.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UX/UI, Consumer Mobile & Web Apps) | GreenChoice, PBC | Pune (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/company/greenchoice-pbc/jobs/) | LinkedIn |
+
+- **GreenChoice, PBC** — Food health intelligence company. Remote role based out of Pune Division. Posted 1 day ago — very fresh.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Hoomanely | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/hoomanely/jobs/) | LinkedIn |
+| Senior Product Designer | Triplespeed | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/triplespeed/jobs/) | LinkedIn |
+| Product Designer - 2 | Acko | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/ackoinsurance/jobs/) | LinkedIn |
+| Product Designer | Emergent | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/company/emergentapp/jobs/) | LinkedIn |
+| Product Designer | Almabase | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/almabase/jobs/) | LinkedIn |
+| Product Designer — Mobile App | GreedyGame | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/greedygame/jobs/) | LinkedIn |
+| Product Designer | Docusign | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/docusign/jobs/) | LinkedIn |
+| Product Designer | Zeta Global | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/zeta-global/jobs/) | LinkedIn |
+| Product Designer - Contract | DigiCert | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/company/digicert-inc-/jobs/) | LinkedIn |
+
+- **Hoomanely** — Actively reviewing applicants. Design role in Bengaluru.
+- **Triplespeed** — Actively reviewing applicants. Senior-level role in Bengaluru.
+- **Acko** — India's leading digital-first insurance unicorn (SoftBank backed). Product Designer - 2 (mid-level) in Bengaluru.
+- **Emergent** — Bengaluru-based product company. Promoted listing; 3 connections at company.
+- **Almabase** — Alumni engagement platform for universities. Hybrid Bengaluru role. Posted 2 months ago.
+- **GreedyGame** — India's largest in-app monetization platform. Mobile App role; posted 5 days ago.
+- **Docusign** — Global leader in eSignature (6,000+ employees). Hybrid Bengaluru team.
+- **Zeta Global** — Data-driven marketing technology company. Hybrid Bengaluru. Posted 3 weeks ago.
+- **DigiCert** — World's leading digital trust platform (TLS/SSL, PKI). Contract role, hybrid Bengaluru.
+
+### Gurugram — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Driffle | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/company/driffle/jobs/) | LinkedIn |
+| Senior Product Designer | 30 Sundays | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/company/30sundays/jobs/) | LinkedIn |
+| Product Designer, Zudo | Airblack | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/company/airblack-co/jobs/) | LinkedIn |
+
+- **Driffle** — Digital gaming marketplace for PC game keys. Consumer marketplace design; actively reviewing applicants.
+- **30 Sundays** — Creative/product company in Gurugram. Senior Product Designer promoted listing.
+- **Airblack** — EdTech startup teaching beauty and design skills (Sequoia-backed). Product Designer for the Zudo product vertical.
+
+### Noida — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Adobe | Noida | On-site | — | — | [Apply](https://www.linkedin.com/company/adobe/jobs/) | LinkedIn |
+| Product Designer | Pine Labs | Noida | On-site | — | — | [Apply](https://www.linkedin.com/company/pine-labs/jobs/) | LinkedIn |
+
+- **Adobe** — FAANG-tier creative & enterprise software. Product Designer in Noida office; 3 connections there.
+- **Pine Labs** — India's leading merchant commerce platform (unicorn, SoftBank backed). Actively reviewing applicants. Fintech/payments design.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer — AI-Native Healthcare SaaS | Zenara Health | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/company/zenara-health/jobs/) | LinkedIn |
+| Product Designer | Marvin | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/company/marvinapp/jobs/) | LinkedIn |
+
+- **Zenara Health** — AI-native healthcare SaaS. Remote India role posted 3 months ago (verify status).
+- **Marvin** — User research platform. Posted 1 week ago. Fully remote India.
+
+### LinkedIn Posts — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Designer — Assisted Service | eBay | Bengaluru | On-site | — | — | [Apply](https://jobs.ebayinc.com/en-us/job/-/-/403/86140064384) | LinkedIn Posts |
+
+- **eBay** — Global eCommerce marketplace. UX Designer for Assisted Service team (tools for customer service reps). Referred by Sr PM Akankshya Mishra; send portfolio directly via DM. Bengaluru office.
+---
+
 ## 🗓 June 8, 2026 — 10:07 AM IST (Scheduled Run #27)
 
 > Note: LinkedIn Chrome unavailable this run (no browser connected). Searched Cutshort (Bengaluru page), Wellfound, and Naukri via web search for all tracked cities. 5 new listings found — all from Cutshort Bengaluru page, not previously captured.
