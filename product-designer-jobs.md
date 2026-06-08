@@ -5,6 +5,27 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 8, 2026 — 10:07 AM IST (Scheduled Run #27)
+
+> Note: LinkedIn Chrome unavailable this run (no browser connected). Searched Cutshort (Bengaluru page), Wellfound, and Naukri via web search for all tracked cities. 5 new listings found — all from Cutshort Bengaluru page, not previously captured.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Motion Designer | Digital Transformation Co. *(via Peak Hire Solutions)* | Mangalore / Bengaluru | On-site | 3–7 yrs | ₹14L–₹18L | [Apply](https://cutshort.io/job/Senior-Product-Motion-Designer-Mangalore-Bengaluru-Bangalore-Peak-Hire-Solutions-Kwfo2iF8) | Cutshort |
+| Senior product designer, SaaS company | Talent Pro *(agency, SaaS client)* | Bengaluru | On-site | 5–7 yrs | ₹40L–₹60L | [Apply](https://cutshort.io/job/Senior-product-designer-saas-company-Bengaluru-Bangalore-Talent-Pro--j9br4IHk) | Cutshort |
+| Senior product designer | Talent Pro *(agency, unnamed client)* | Bengaluru | On-site | 6–8 yrs | ₹15L–₹22L | [Apply](https://cutshort.io/job/Senior-product-designer-Bengaluru-Bangalore-Talent-Pro--7TXBT1e4) | Cutshort |
+| Associate Lead Designer (design studio) | Talent Pro *(agency, design studio client)* | Bengaluru | On-site | 6–8 yrs | ₹15L–₹21L | [Apply](https://cutshort.io/job/Associate-Lead-Designer-design-studio-Bengaluru-Bangalore-Talent-Pro--JdmNpalx) | Cutshort |
+| Associate Lead Designer (design studio only) | Talent Pro *(agency, design studio client)* | Bengaluru | On-site | 6–8 yrs | ₹15L–₹21L | [Apply](https://cutshort.io/job/Associate-Lead-Designer-design-studio-only-Bengaluru-Bangalore-Talent-Pro--yNTGtlqQ) | Cutshort |
+
+- **Peak Hire Solutions (Senior Product Motion Designer)** — Unnamed digital transformation company. Role covers 2D/3D animation and motion graphics for product interfaces. Dual-city: Mangalore + Bengaluru. 3–7 yrs, ₹14–18 LPA.
+- **Talent Pro (Senior PD, SaaS company)** — Broader SaaS qualifier vs "top b2b saas only" listing; salary floor ₹40L vs ₹50L. 5–7 yrs.
+- **Talent Pro (Senior PD, generic)** — Unnamed client, wider exp band (6–8 yrs), lower band ₹15–22 LPA suggesting mid-tier client.
+- **Talent Pro (Associate Lead, design studio)** — Design studio client; targets design agency background. 6–8 yrs, ₹15–21 LPA.
+- **Talent Pro (Associate Lead, design studio only)** — Separate Talent Pro listing for a different design studio client. Same profile.
+---
+
 ## 🗓 June 7, 2026 — 07:48 AM IST (Scheduled Run #15)
 
 > Note: LinkedIn Chrome unavailable this run. Searched Wellfound (India pages 1–2, Hyderabad, Gurugram), Naukri, Cutshort (web search all cities). 3 new listings found across Gurugram and Bengaluru.
