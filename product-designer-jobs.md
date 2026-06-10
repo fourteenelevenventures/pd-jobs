@@ -5,6 +5,43 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — 12:09 PM IST (Scheduled Run #31)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 4 new listings found, all from LinkedIn Chrome.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | InvoiceCloud, Inc. | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4381213735/) | LinkedIn |
+
+- **InvoiceCloud, Inc.** — Payments and billing solutions company specializing in online bill payment for utilities, insurance, and government sectors (US-based, India team in Hyderabad). Product Designer role focused on consumer-facing payment and billing UX.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Laundryheap | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4421684779/) | LinkedIn |
+
+- **Laundryheap** — On-demand laundry and dry cleaning service operating in 30+ cities across 11 countries (UK-headquartered). Product Designer for the Bengaluru team working on their consumer mobile app and logistics platform.
+
+### Hybrid India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UI/UX) | Keywords Studios | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4407599733/) | LinkedIn |
+
+- **Keywords Studios** — Global video games services company providing art, engineering, testing, and player support to AAA studios (4,000+ employees, listed on London Stock Exchange). Product Designer (UI/UX) hybrid India role; games industry UX experience a strong plus.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer - Remote | YO IT Consulting | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4415406888/) | LinkedIn |
+
+- **YO IT Consulting** — IT staffing and consulting company placing designers with client companies. Remote UI/UX Designer role; appeared across Noida and Remote India LinkedIn searches. Verify client/end company details on the listing.
+---
+
 ## 🗓 June 10, 2026 — 10:08 AM IST (Scheduled Run #30)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 9 new listings found.
