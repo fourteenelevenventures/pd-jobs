@@ -5,6 +5,65 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — 10:08 AM IST (Scheduled Run #30)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 9 new listings found.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | FetchJobs.co | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4426034089/) | LinkedIn |
+| Senior UI/UX Designer (Analytics & AI, 6-month contract) | Dexian India *(for ServiceNow)* | Hyderabad | Hybrid (2 WFO / 3 WFH) | 7+ yrs | — | [Contact](https://www.linkedin.com/search/results/content/?keywords=product%20designer%20hiring%20India&datePosted=past-24h) | LinkedIn Posts |
+
+- **FetchJobs.co (Hyderabad, On-site)** — Job aggregator/placement platform. Distinct on-site Hyderabad listing (jobId 4426034089), separate from the Remote FetchJobs.co listing already in file.
+- **Dexian India / ServiceNow** — 6-month contract until November 2026. Hyderabad hybrid (2 days WFO). 7+ yrs with analytics/dashboard design, data viz, enterprise SaaS, design systems, Figma. Contact: Riya Anand, 7428828884. No relocation.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Designer, Amazon Now | Amazon | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4423541275/) | LinkedIn |
+| Product Designer | Even | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4408621877/) | LinkedIn |
+
+- **Amazon (UX Designer, Amazon Now)** — FAANG-tier. Design for Amazon Now (10-minute quick commerce). Bengaluru in-office. Strong consumer UX and mobile design portfolio expected.
+- **Even** — Employer benefits and financial wellness platform for Indian employees. Fintech/HR-tech product design in Bengaluru.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product design | Infosys | Pune | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4402115520/) | LinkedIn |
+
+- **Infosys** — Global IT services giant (300,000+ employees). Product design role in Pune; likely internal product or client-facing design team.
+
+### Gurugram — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Design — Staff Product Designer | Paytm | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4381710240/) | LinkedIn |
+
+- **Paytm** — India's leading digital payments company (publicly listed). Staff Product Designer is a senior IC-track leadership role. Strong fintech and super-app UX portfolio expected.
+
+### Hybrid India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Sr. Product Designer | Navan | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4422346124/) | LinkedIn |
+
+- **Navan** — Corporate travel and expense management platform (Nasdaq-listed, formerly TripActions, $9B+ valuation). Enterprise SaaS design with strong IA and complex workflow experience expected.
+
+### Remote / Multi-city — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Passionbits | India (Multi-city) | — | — | — | [Apply](https://www.linkedin.com/jobs/view/4422514550/) | LinkedIn |
+| Product Designer | Scoutit | India (Multi-city) | — | — | — | [Apply](https://www.linkedin.com/jobs/view/4425811297/) | LinkedIn |
+
+- **Passionbits** — Appeared across Hyderabad, Pune, Gurugram, and Noida LinkedIn searches. Likely remote-friendly or multi-location. Verify work type on the listing.
+- **Scoutit** — Appeared across Hyderabad and Noida LinkedIn searches. Verify location and work type on the listing.
+---
+
 ## 🗓 June 8, 2026 — 12:49 PM IST (Scheduled Run #29)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 10 new listings found, all from LinkedIn Chrome.
