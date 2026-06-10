@@ -5,6 +5,14 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — 03:05 PM IST (Scheduled Run #35)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities. All results match listings already captured in previous runs — no new job IDs or postings found.
+
+**No new listings found at 03:05 PM IST.**
+
+---
+
 ## 🗓 June 10, 2026 — 02:05 PM IST (Scheduled Run #34)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 3 new listings found: 2 from LinkedIn Chrome (Pune), 1 possible YO IT Consulting repost (distinct job ID).
