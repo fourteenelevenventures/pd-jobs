@@ -5,6 +5,94 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🗓 June 10, 2026 — (Scheduled Run #39)
+
+> Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, YC Jobs, Peerlist, and target company career pages (Atlassian, Postman, Razorpay, PhonePe, Groww, CRED, Swiggy, Zomato, Meesho, Zepto, Flipkart, Salesforce, Adobe, Walmart Global Tech). 12 new listings found.
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Senior Product Designer – Service Collection | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/22439) | Atlassian Careers |
+| ⭐ Senior Product Designer | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/22206) | Atlassian Careers |
+| ⭐ Product Designer II, UX Foundation | Postman | Bengaluru | On-site | 0–4 yrs | — | [Apply](https://www.postman.com/company/careers/product-designer-ii-ux-foundation-5875535003/) | Postman Careers |
+| ⭐ Product Designer | Postman | Bengaluru | On-site | — | — | [Apply](https://www.postman.com/company/careers/product-designer-6055256003/) | Postman Careers |
+| ⭐ Senior Product Designer, Collaboration | Postman | Bengaluru | On-site | — | — | [Apply](https://www.postman.com/company/careers/senior-product-designer-collaboration-6119691003/) | Postman Careers |
+| ⭐ Product Designer | PhonePe | Bengaluru | On-site | 1–3 yrs | — | [Apply](https://jobs.weekday.works/phonepe-product-designer) | Weekday.works |
+| Product Designer | GoSats *(YC W22)* | Bengaluru | On-site | — | — | [Apply](https://www.ycombinator.com/companies/gosats/jobs/NL1ssNH-product-designer) | Y Combinator |
+
+- ⭐ **Atlassian (Senior PD – Service Collection)** — Enterprise collaboration software giant (Jira, Confluence, Trello). Service Collection design role embedded in the Bengaluru product team. Strong IA, enterprise workflow, and systems design experience expected.
+- ⭐ **Atlassian (Senior PD)** — Second distinct Atlassian senior role in Bengaluru (job 22206). Both are listed on the Atlassian Talent Community portal; verify current status and apply directly.
+- ⭐ **Postman (Product Designer II, UX Foundation)** — Postman is the world's leading API platform (35M+ developers). UX Foundation team works on design systems and core product primitives. 0–4 yrs exp; Postman looks for young designers passionate about developer experience.
+- ⭐ **Postman (Product Designer)** — Second generalist product designer role at Postman Bengaluru. Focused on core product UX for API builders and testers. Multi-role hiring cycle.
+- ⭐ **Postman (Senior Product Designer, Collaboration)** — Senior-level role owning design for Postman's Collaboration features (workspaces, sharing, team flows). Bengaluru-based, direct apply at postman.com/careers.
+- ⭐ **PhonePe (Product Designer)** — India's largest UPI payments platform (500M+ users, Walmart Group). 1–3 yrs exp in digital product design. Bengaluru in-office. High-scale consumer fintech design.
+- **GoSats (YC W22)** — India's simplest Bitcoin & Gold rewards platform (backed by YC, Accel, Konvoy; recently closed $5M Series A). Work directly with the Senior Product Designer on the next-gen consumer experience — onboarding, wealth dashboards, card management, rewards UX. Actively hiring June 2026.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | KBros Aristo Pvt Ltd | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aan9296vnqtk) | Indeed |
+
+- **KBros Aristo Pvt Ltd** — Interior surfaces and modular furniture company. Product Designer role in Bommasandra, Bengaluru; posted May 25, 2026.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Amazatic Solutions | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aadxdk6xv4qq) | Indeed |
+| UX Designer | MindTickle | Pune | Permanent | — | — | [Apply](https://to.indeed.com/aadqy86mnqg2) | Indeed |
+| UX Designer / Senior UX Designer | YUJ Designs | Pune | Permanent | — | — | [Apply](https://to.indeed.com/aas9wdn9ssgm) | Indeed |
+
+- **Amazatic Solutions** — Software services company. UI/UX Designer in Pune; posted Jan 8, 2025 — verify status.
+- **MindTickle** — Sales readiness and training platform for revenue teams (SaaS, Series E, Softbank backed). UX Designer in Pune; enterprise onboarding and training UX. Posted Nov 2024 — verify current status.
+- **YUJ Designs** — India's leading UX research and design consultancy (50+ employees, Fortune 500 clients). UX Designer and Senior UX Designer roles in Pune; client-facing product design across industries. Posted Nov 2024 — verify current status.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | SFJ Business Solutions | Remote | Contract | — | — | [Apply](https://to.indeed.com/aakt4gbb8vtx) | Indeed |
+
+- **SFJ Business Solutions** — IT consulting and staffing firm. Contract UI/UX Designer, remote; posted Feb 19, 2026.
+
+---
+
+## 🗓 June 11, 2026 — hirist.tech deep scrape (addendum)
+
+> Full scrape of hirist.tech product design and UI/UX category pages. 5 new listings found not captured in previous runs.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer — UX/UI Design | Kenko AI | Bengaluru | Full-time | 3–6 yrs | — | [Apply](https://www.hirist.tech/j/kenko-ai-product-designer-ux-ui-design-1564851) | hirist |
+
+- **Kenko AI** — AI-powered health and wellness benefits platform for employers (Bengaluru, funded). Product Designer role covering end-to-end UX/UI design. 3–6 yrs exp, in-office Bengaluru.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Templeton & Partners India | Pune | On-site | 12–16 yrs | — | [Apply](https://www.hirist.tech/j/uiux-designer-12-16-yrs-1626817) | hirist |
+
+- **Templeton & Partners India** — Global IT staffing and recruitment firm. Senior/Principal-level UI/UX Designer role in Pune. 12–16 yrs experience; last active April 8, 2026.
+
+### Other India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer — Creative Suite | Confidential | India | — | — | — | [Apply](https://www.hirist.tech/j/uiux-designer-creative-suite-1548620) | hirist |
+| UI/UX Designer — Wireframing Tools | Confidential | India | — | — | — | [Apply](https://www.hirist.tech/j/ui-ux-designer-wireframing-tools-1618770) | hirist |
+| Creative UI/UX Designer — Mobile & Web Apps | AppYogi Software | India | — | — | — | [Apply](https://www.hirist.tech/j/appyogi-software-creative-ui-ux-designer-mobile-and-web-apps-1616124) | hirist |
+
+- **UI/UX Designer (Creative Suite)** — Confidential company. Adobe Creative Suite-focused design role. Last active February 2026; verify status before applying.
+- **UI/UX Designer (Wireframing Tools)** — Confidential company. Wireframing and prototyping-focused role. Last active March 2026; verify status before applying.
+- **AppYogi Software** — Mobile app development company. Creative UI/UX Designer for mobile and web apps. High engagement listing (7,400+ views). Last active February 2026.
+
+---
+
 ## 🗓 June 10, 2026 — 06:21 PM IST (Scheduled Run #38)
 
 > Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, foundit, peerlist, YC, hirist, and target company career pages. 6 new listings found not previously captured.
