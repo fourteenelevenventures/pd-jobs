@@ -5,6 +5,30 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🗓 June 10, 2026 — 06:21 PM IST (Scheduled Run #38)
+
+> Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, foundit, peerlist, YC, hirist, and target company career pages. 6 new listings found not previously captured.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior UX Designer | Optum | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aavswhb682bc) | Indeed |
+| Product Designer | Atomicwork Inc | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aaqw86wzc7hl) | Indeed |
+| UI/UX Designer | ADEO DISTINCTIONS & DIMENSIONS | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aaycz6x69rfq) | Indeed |
+| Product Design II | DigiCert | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aajkvwzfgt7g) | Indeed |
+| Senior Product Designer | Nanonets *(via EPIQ India)* | Bengaluru | On-site | 5–9 yrs | — | [Apply](https://www.hirist.tech/j/senior-product-designer-1575289) | hirist |
+| Lead Product Designer | PayU | Bangalore / Mumbai | On-site | 4–6 yrs | — | [Apply](https://www.instahyre.com/job-75510-lead-product-designer-at-payu-bangalore-mumbai/) | Instahyre |
+
+- **Optum** — UnitedHealth Group's health services and technology subsidiary. Senior UX Designer in Bengaluru, posted June 09, 2026 — very fresh. Expect enterprise healthcare product design, complex data-heavy dashboards, and accessibility focus.
+- **Atomicwork Inc** — Modern IT service management (ITSM) and employee experience platform powered by AI (Bengaluru-based, well-funded startup). Product Designer role posted March 30, 2026. Enterprise SaaS with strong conversational UX and workflow design.
+- **ADEO DISTINCTIONS & DIMENSIONS** — Interior design and space planning firm. UI/UX Designer role, Bengaluru, posted June 02, 2026.
+- **DigiCert (FTE)** — World's leading digital trust platform (TLS/SSL, PKI). This is a separate full-time "Product Design II" listing from Indeed (June 01, 2026), distinct from the Contract Product Designer role already in file from LinkedIn (Run #28).
+- **Nanonets (via EPIQ India)** — AI-powered intelligent document processing and workflow automation platform (Bengaluru, Series B). Senior Product Designer for complex data/automation UX. 5–9 yrs exp. Listed on hirist.tech.
+- **PayU** — Leading fintech and payments platform (Prosus/Naspers group, India + global operations). Lead Product Designer across Bangalore and Mumbai. 4–6 yrs UX/Visual Design experience. Instahyre listing.
+
+---
+
 ## 🗓 June 10, 2026 — (Scheduled Run #37)
 
 > Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, foundit, peerlist, YC, RemoteOK, iimjobs, hirist. Target company career searches run for all priority company groups. 35+ new listings found and added below.
