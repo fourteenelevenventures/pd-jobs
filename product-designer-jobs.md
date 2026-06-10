@@ -5,6 +5,27 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — 04:09 PM IST (Scheduled Run #33)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 2 new listings found: 1 from LinkedIn Chrome (Deccan AI Experts, Hyderabad, new job ID) and 1 from LinkedIn Posts (Mewar Infotech, Remote).
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer (Freelancer) | Deccan AI Experts | Hyderabad | Freelance | — | — | [Apply](https://www.linkedin.com/jobs/view/4413410297/) | LinkedIn |
+
+- **Deccan AI Experts (UI/UX Freelancer, job 4413410297)** — A third freelance design listing from this Hyderabad-based AI services firm (distinct from the on-site Freelancer role 4413404289 and the Remote Figma Designer 4416635202 already in file). Verify scope and deliverables before applying; may overlap with the existing Hyderabad listing.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Figma UI/UX Designer | Mewar Infotech | Remote (India) | Full-time or Contract | — | — | Apply via email: Sales@mewarinfotec.com | LinkedIn Posts |
+
+- **Mewar Infotech** — IT services company. Figma UI/UX Designer needed for a remote India position. Skills: Figma (advanced), UI/UX design, wireframing, responsive design, design systems, interactive prototypes, Adobe XD/Illustrator (optional). Apply by sending resume + portfolio to Sales@mewarinfotec.com. Posted today.
+---
+
 ## 🗓 June 10, 2026 — 02:09 PM IST (Scheduled Run #32)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all results already captured in previous runs except 1 new Wellfound listing (ZuAI, Bengaluru). No new LinkedIn Chrome listings this run.
