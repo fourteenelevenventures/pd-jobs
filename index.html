@@ -137,6 +137,74 @@
 
   main { padding: 24px 32px; max-width: 1200px; margin: 0 auto; }
 
+  /* ── Accordion ── */
+  .accordion {
+    margin-bottom: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .accordion-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 20px;
+    cursor: pointer;
+    user-select: none;
+    background: #fff;
+    transition: background 0.12s;
+    gap: 12px;
+  }
+
+  .accordion-header:hover { background: #f9f9fb; }
+
+  .accordion-header-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+  }
+
+  .accordion-date {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1d1d1f;
+    white-space: nowrap;
+  }
+
+  .accordion-date.today { color: #0071e3; }
+
+  .accordion-count {
+    background: #f0f0f5;
+    color: #3d3d3f;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 9px;
+    white-space: nowrap;
+  }
+
+  .accordion-count.today { background: #e3f0ff; color: #0071e3; }
+
+  .accordion-chevron {
+    font-size: 12px;
+    color: #8e8e93;
+    transition: transform 0.2s;
+    flex-shrink: 0;
+  }
+
+  .accordion.open .accordion-chevron { transform: rotate(180deg); }
+
+  .accordion-body {
+    display: none;
+    padding: 0 16px 16px;
+    border-top: 1px solid #f0f0f0;
+  }
+
+  .accordion.open .accordion-body { display: block; }
+
   .section-label {
     font-size: 12px;
     font-weight: 600;
@@ -352,30 +420,6 @@
   </div>
   <div class="controls">
     <input type="text" id="search" placeholder="Search jobs, companies…" oninput="filterJobs()">
-    <select id="locationFilter" onchange="filterJobs()">
-      <option value="">All locations</option>
-      <option value="hyderabad">Hyderabad</option>
-      <option value="bengaluru">Bengaluru</option>
-      <option value="pune">Pune</option>
-      <option value="gurugram">Gurugram</option>
-      <option value="noida">Noida</option>
-      <option value="remote">Remote</option>
-    </select>
-    <select id="workTypeFilter" onchange="filterJobs()">
-      <option value="">All work types</option>
-      <option value="remote">Remote</option>
-      <option value="hybrid">Hybrid</option>
-      <option value="on-site">On-site</option>
-    </select>
-    <select id="sourceFilter" onchange="filterJobs()">
-      <option value="">All sources</option>
-      <option value="linkedin">LinkedIn Jobs</option>
-      <option value="linkedin-posts">LinkedIn Posts</option>
-      <option value="naukri">Naukri</option>
-      <option value="cutshort">Cutshort</option>
-      <option value="wellfound">Wellfound</option>
-      <option value="instahyre">Instahyre</option>
-    </select>
     <button class="refresh-btn" id="refreshBtn" onclick="triggerRefresh()">
       <span class="spin">↻</span> Refresh Jobs
     </button>
@@ -738,82 +782,60 @@ function buildCard(j) {
 }
 
 function render() {
-  const search = document.getElementById('search').value.toLowerCase();
-  const loc    = document.getElementById('locationFilter').value.toLowerCase();
-  const wt     = document.getElementById('workTypeFilter').value.toLowerCase();
-  const src    = document.getElementById('sourceFilter').value.toLowerCase();
+  const search = document.getElementById('search').value.toLowerCase().trim();
 
   const filtered = JOBS.filter(j => {
-    const matchSearch = !search || j['data-text'] || (
-      [j.title, j.company, j.location, j.desc, j.source].join(' ').toLowerCase().includes(search)
-    );
-    const matchLoc = !loc || j.location.toLowerCase().includes(loc);
-    const matchWt  = !wt  || (j.workType || '').toLowerCase().includes(wt);
-    const matchSrc = !src || j.source === src;
-    return matchSearch && matchLoc && matchWt && matchSrc;
+    if (!search) return true;
+    return [j.title, j.company, j.location, j.desc, j.source].join(' ').toLowerCase().includes(search);
   });
 
-  // Group: newest-date new listings first, then by date+source
-  const newItems = filtered.filter(j => j.isNew);
-  const rest = filtered.filter(j => !j.isNew);
-
-  // Group rest by date then source
-  const byDateSrc = {};
-  rest.forEach(j => {
-    const key = j.date + '|' + j.source;
-    if (!byDateSrc[key]) byDateSrc[key] = [];
-    byDateSrc[key].push(j);
+  const byDate = {};
+  filtered.forEach(j => {
+    if (!byDate[j.date]) byDate[j.date] = [];
+    byDate[j.date].push(j);
   });
-  const sortedKeys = Object.keys(byDateSrc).sort((a, b) => b.localeCompare(a));
+  const sortedDates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
+  const latestDate = sortedDates[0] || '';
 
   const main = document.getElementById('main-content');
   const insertionAnchor = document.getElementById('board-section-label');
-
-  // Clear dynamic sections
   main.querySelectorAll('.dynamic-section').forEach(el => el.remove());
 
   let html = '';
 
-  // Best Matches — always based on full JOBS list (not filtered), top 6
-  const bestMatches = getBestMatches(JOBS, 6);
-  html += `<div class="dynamic-section">
-    <div class="best-matches-header">
-      <div class="section-label" style="margin:0;flex:1">⭐ Best Matches for Tulsi <span class="count-badge">${bestMatches.length}</span></div>
-      <span class="resume-chip">👤 Tulsi Patel · 4 yrs · Fintech / Consumer / Remote</span>
-    </div>
-    <div class="grid" style="margin-top:12px">${bestMatches.map(buildMatchCard).join('')}</div>
-  </div>`;
+  sortedDates.forEach((date, idx) => {
+    const jobs = byDate[date];
+    const isToday = date === latestDate;
+    const isOpen = isToday || !!search;
+    const dateLabel = formatDate(date);
+    const todayClass = isToday ? ' today' : '';
 
-  if (newItems.length) {
-    const latestDate = newItems.map(j => j.date).sort().reverse()[0];
-    html += `<div class="dynamic-section">
-      <div class="section-label">✨ New listings — ${formatDate(latestDate)} <span class="count-badge">${newItems.length}</span></div>
-      <div class="grid">${newItems.map(buildCard).join('')}</div>
-    </div>`;
-  }
-
-  sortedKeys.forEach(key => {
-    const jobs = byDateSrc[key];
-    const [date, source] = key.split('|');
-    const title = `${SECTION_TITLES[source] || source} — ${formatDate(date)}`;
-    html += `<div class="dynamic-section">
-      <div class="section-label">${title} <span class="count-badge">${jobs.length}</span></div>
-      <div class="grid">${jobs.map(buildCard).join('')}</div>
+    html += `<div class="dynamic-section accordion${isOpen ? ' open' : ''}" data-date="${date}" onclick="toggleAccordion(this)">
+      <div class="accordion-header">
+        <div class="accordion-header-left">
+          <span class="accordion-date${todayClass}">${isToday ? '✨ ' : ''}${dateLabel}</span>
+          <span class="accordion-count${todayClass}">${jobs.length} listing${jobs.length !== 1 ? 's' : ''}</span>
+        </div>
+        <span class="accordion-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="grid" style="margin-top:12px">${jobs.map(buildCard).join('')}</div>
+      </div>
     </div>`;
   });
 
-  // Insert before board links section label
   insertionAnchor.insertAdjacentHTML('beforebegin', html);
 
-  // Update header subtitle
-  const latestDate = getLatestDate();
   if (latestDate) {
     document.getElementById('headerSub').textContent =
       `Hyderabad · Pune · Bengaluru · Gurugram · Noida · Remote · Hybrid  |  Last updated: ${formatDate(latestDate)}`;
   }
 
-  const total = filtered.length;
-  document.getElementById('emptyState').style.display = total === 0 ? 'block' : 'none';
+  document.getElementById('emptyState').style.display = filtered.length === 0 ? 'block' : 'none';
+}
+
+function toggleAccordion(el) {
+  el.classList.toggle('open');
 }
 
 function filterJobs() { render(); }
