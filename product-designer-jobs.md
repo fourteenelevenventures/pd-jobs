@@ -1,7 +1,119 @@
 # Product Designer Job Listings — India
 
 Tracked locations: Hyderabad · Pune · Bangalore · Gurugram · Noida · Remote (India)
-Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
+Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, Weekday.works
+
+---
+
+## 🗓 June 10, 2026 — (Scheduled Run #37)
+
+> Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, foundit, peerlist, YC, RemoteOK, iimjobs, hirist. Target company career searches run for all priority company groups. 35+ new listings found and added below.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Inclusive Minds | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aak2hh8jtjjd) | Indeed |
+| UI/UX Designer | Marvels Magazine | Hyderabad | Permanent | — | — | [Apply](https://to.indeed.com/aa6kt8h94sn7) | Indeed |
+| UI/UX Designer | CodeLabs | Hyderabad | Fresher | — | — | [Apply](https://to.indeed.com/aa9lk6q46w6c) | Indeed |
+| UX/UI Designer (Offshore) | isolved | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aa2fm8ctjkzx) | Indeed |
+| Product Designer | NxtWave | Hyderabad | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-227047-product-designer-at-nxtwave-hyderabad/) | Instahyre |
+
+- **Inclusive Minds** — Hyderabad-based organization. UI/UX Designer role, posted June 8, 2026.
+- **Marvels Magazine** — Media/publishing company. UI/UX Designer role, posted May 12, 2026.
+- **CodeLabs** — Hyderabad coding/tech training startup. Fresher-level UI/UX Designer role, posted April 29, 2026.
+- **isolved** — US-based HCM/HR tech company. UX/UI Designer (Offshore) in Hyderabad; posted June 3, 2026. Offshore US-company arrangement.
+- **NxtWave** — Fast-growing ed-tech startup (formerly CCBP) training industry-ready developers; Hyderabad-based. 2–6 yrs UX/Visual Design experience required.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer | Clueso | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aat4dtztwwhb) | Indeed |
+| Product Designer II | SpotDraft | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aab9wwx7b2c9) | Indeed |
+| Junior Product Designer | Valeo Wellbeing | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aaxy9ggyk8l2) | Indeed |
+| UI/UX Designer | Mellow Designs | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aadpkpj2j6lw) | Indeed |
+| Associate Product Designer | Red Baton Creative | Bengaluru | Internship | — | — | [Apply](https://to.indeed.com/aaybmjf2y8sr) | Indeed |
+| Senior Product Designer | Red Baton Creative | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aalyc9qt6zlx) | Indeed |
+| UI UX Designer | Ace Micromatic Intelligence | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aattjwv6sqjl) | Indeed |
+| UI/UX Designer | Toolyt | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aabxtvwg9rpd) | Indeed |
+| UI/UX Designer | RidenRoll | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa6rnltxl2br) | Indeed |
+| ⭐ Lead Product Designer | Meesho | Work From Home | — | 4–8 yrs | — | [Apply](https://www.instahyre.com/job-159477-lead-product-designer-at-meesho-work-from-home/) | Instahyre |
+| ⭐ Product Designer | Meesho | Bengaluru | On-site | 0–2 yrs | — | [Apply](https://www.instahyre.com/job-135756-product-designer-at-meesho-bangalore/) | Instahyre |
+| ⭐ Product Designer | Zepto | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-197315-product-designer-at-zepto-bangalore/) | Instahyre |
+| ⭐ Senior Product Designer | Zepto | Bengaluru | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-259800-senior-product-designer-at-zepto-bangalore/) | Instahyre |
+| ⭐ Product Designer | Navi | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-209033-product-designer-at-navi-3-bangalore/) | Instahyre |
+| ⭐ Product Designer | Unacademy | Bengaluru | On-site | 3–7 yrs | — | [Apply](https://www.instahyre.com/job-26503-product-designer-at-unacademy-bangalore/) | Instahyre |
+| ⭐ Product Designer | Flipkart | Bengaluru | On-site | 1–6 yrs | — | [Apply](https://www.instahyre.com/job-25626-product-designer-at-flipkart-bangalore/) | Instahyre |
+| Sr. Product Designer | project44 | Bengaluru | — | — | — | [Apply](https://peerlist.io/company/project44/careers/sr-product-designer/jobha9nlpem6p7b7j1jon9baj9em8g) | Peerlist |
+| Product Designer I | ClickPost | Bengaluru | Full-time | — | — | [Apply](https://peerlist.io/company/clickpost_ai/careers/product-designer-i/jobhbablbjlrlmoll3eno8q8dgnmd6) | Peerlist |
+
+- **Clueso** — AI-powered product explainer / screen recording startup. Senior Product Designer role, posted May 29, 2026.
+- **SpotDraft** — Contract lifecycle management (CLM) platform for legal & business teams. Product Designer II (mid-to-senior IC), posted April 28, 2026.
+- **Valeo Wellbeing** — Employee wellbeing and mental health startup. Junior Product Designer, posted May 25, 2026.
+- **Mellow Designs** — Design studio/product company in Bengaluru. UI/UX Designer, posted May 25, 2026.
+- **Red Baton Creative (Associate, Internship)** — Creative marketing solutions firm. Internship-level Associate Product Designer, posted June 4, 2026.
+- **Red Baton Creative (Senior)** — Same firm, Senior Product Designer role. Posted March 2, 2026.
+- **Ace Micromatic Intelligence** — Industrial automation and manufacturing tech company. UI UX Designer, posted June 4, 2026.
+- **Toolyt** — Mobile CRM platform for field sales teams. UI/UX Designer in Bengaluru, posted Feb 28, 2026.
+- **RidenRoll** — Ride-sharing / EV mobility startup. UI/UX Designer in Bengaluru, posted Feb 26, 2026.
+- ⭐ **Meesho (Lead PD, WFH)** — India's leading social commerce unicorn. Lead Product Designer fully remote; 4–8 yrs exp in UX/Visual Design. Verify listing freshness.
+- ⭐ **Meesho (PD, Bengaluru)** — Same company, entry-level Product Designer role in office; 0–2 yrs exp. Verify listing freshness.
+- ⭐ **Zepto (PD)** — 10-minute grocery delivery unicorn. Product Designer in Bengaluru; 3–8 yrs, Figma/Sketch/InVision. Verify freshness.
+- ⭐ **Zepto (Senior PD)** — Same company, Senior Product Designer; 2–6 yrs exp. Higher job ID (259800) — likely more recent.
+- ⭐ **Navi** — Sachin Bansal's fintech/insurance/lending platform. Product Designer in Bengaluru; 3–8 yrs exp. Verify freshness.
+- ⭐ **Unacademy** — India's leading online learning platform (unicorn). Product Designer in Bengaluru; 3–7 yrs exp. Verify freshness.
+- ⭐ **Flipkart** — India's largest e-commerce platform (Walmart-owned). Product Designer in Bengaluru; 1–6 yrs exp in UX/Visual Design, Wireframing. Verify freshness.
+- **project44** — Global supply chain visibility platform (Series F unicorn, Bengaluru 2nd HQ). Sr. Product Designer on Peerlist.
+- **ClickPost** — AI-powered logistics intelligence and carrier management platform. Product Designer I, full-time.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Tudip Technologies | Pune | Permanent | — | — | [Apply](https://to.indeed.com/aavmvxh8q7yq) | Indeed |
+| UX Designer | Zywave, Inc. | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aal2m2tzbmpw) | Indeed |
+| UI/UX Designer | CloudMoyo | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aaz9mc26v77z) | Indeed |
+| UI-UX Designer | VIDUSHI INFOTECH | Pune | — | — | — | [Apply](https://to.indeed.com/aassbqxyfy6y) | Indeed |
+| UI/UX & Graphic Designer | Payplex Solutions | Hinjewadi, Pune | Full-time | — | — | [Apply](https://to.indeed.com/aatwb9xcn24l) | Indeed |
+| Product Designer | Fictiv | Pune | — | — | — | [Apply](https://peerlist.io/company/fictiv/careers/product-designer/jobhok7m9d9e7nr9khpg7pqk69o6r7) | Peerlist |
+
+- **Tudip Technologies** — Software product development services company. UI/UX Designer, posted June 1, 2026.
+- **Zywave** — US-based insurance tech and broker management platform. UX Designer in Pune GDC, posted Feb 28, 2026.
+- **CloudMoyo** — Cloud analytics and AI solutions company. UI/UX Designer, posted May 15, 2026.
+- **VIDUSHI INFOTECH** — IT services and staffing firm. UI-UX Designer role, posted May 12, 2026.
+- **Payplex Solutions** — Fintech/payments company. UI/UX & Graphic Designer in Hinjewadi, Pune, posted June 6, 2026.
+- **Fictiv** — US-based digital manufacturing platform. Product Designer in Pune — leads design for their manufacturing SaaS. Peerlist listing.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | nèvour | Remote | Permanent | — | — | [Apply](https://to.indeed.com/aaqfdfc94ygn) | Indeed |
+| Lead Product Designer (Consultant) | Colladome IT Network | Remote | Contract | — | — | [Apply](https://to.indeed.com/aajtvqjbv977) | Indeed |
+| UI/UX Designer | Ungrammary | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aahdp7z9sy6m) | Indeed |
+| UI/UX Lead Designer | Rupa Career Solutions | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aaxvx8nhkk9l) | Indeed |
+| UI/UX Designer | Katronix Technologies | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aact29p2qgzh) | Indeed |
+
+- **nèvour** — Design/product company. UI/UX Designer role, fully remote, posted May 17, 2026.
+- **Colladome IT Network** — IT consulting firm. Lead Product Designer (Consultant) contract role, posted June 4, 2026.
+- **Ungrammary** — Design agency/studio. UI/UX Designer remote role, posted May 31, 2026.
+- **Rupa Career Solutions** — Staffing firm. UI/UX Lead Designer, remote, posted May 27, 2026.
+- **Katronix Technologies** — Technology solutions company. UI/UX Designer, remote, posted June 7, 2026.
+
+### Other / Multi-city — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer I | Shaadi.com | India | Full-time | — | — | [Apply](https://peerlist.io/company/shaadi/careers/product-designer-i/jobhdnejbm8rdrj8ahnoodmoolmmo8) | Peerlist |
+| Lead Product Designer | True Credits Private Limited | Gurgaon | On-site | 6–9 yrs | — | [Apply](https://www.iimjobs.com/j/true-credits-product-designer-1682290) | iimjobs |
+| Product Designer | Zolve | India | On-site | 4–7 yrs | — | [Apply](https://www.iimjobs.com/j/zolve-product-designer-4-7-yrs-1409702) | iimjobs |
+| Product Design Lead | SpotDraft | Bengaluru | On-site | 5+ yrs | ₹30L–₹50L | [Apply](https://in.linkedin.com/jobs/view/product-design-lead-at-spotdraft-2404196465) | LinkedIn |
+
+- **Shaadi.com** — India's largest matrimony platform. Product Designer I, full-time. Peerlist listing (no equity).
+- **True Credits Private Limited** — Fintech lending startup. Lead Product Designer in Gurgaon; 6–9 yrs exp, Bachelor's in HCI/UX/Interaction Design + 7+ yrs product design. Posted recently on iimjobs.
+- **Zolve** — Cross-border neobank for Indian diaspora moving abroad. Product Designer, 4–7 yrs exp. iimjobs listing.
+- **SpotDraft (Design Lead)** — CLM platform (same company as Product Designer II above but senior leadership level). Product Design Lead responsible for design strategy; 5+ yrs exp, ₹30–50 LPA, Bengaluru.
 
 ---
 
@@ -48,6 +160,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | UI/UX Designer - Remote | YO IT Consulting | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4415151487/) | LinkedIn |
 
 - **YO IT Consulting (job 4415151487)** — Distinct job ID from the 4415406888 listing captured in Run #31. Likely a repost or second opening from this IT staffing and consulting firm. Remote UI/UX Designer; verify client/end company details on the listing before applying.
+
 ---
 
 ## 🗓 June 10, 2026 — 04:09 PM IST (Scheduled Run #33)
@@ -69,6 +182,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Figma UI/UX Designer | Mewar Infotech | Remote (India) | Full-time or Contract | — | — | Apply via email: Sales@mewarinfotec.com | LinkedIn Posts |
 
 - **Mewar Infotech** — IT services company. Figma UI/UX Designer needed for a remote India position. Skills: Figma (advanced), UI/UX design, wireframing, responsive design, design systems, interactive prototypes, Adobe XD/Illustrator (optional). Apply by sending resume + portfolio to Sales@mewarinfotec.com. Posted today.
+
 ---
 
 ## 🗓 June 10, 2026 — 02:09 PM IST (Scheduled Run #32)
@@ -82,6 +196,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Product Designer | ZuAI | Bengaluru (Urban) | On-site | — | — | [Apply](https://wellfound.com/jobs/3012485-product-designer) | Wellfound |
 
 - **ZuAI** — AI-powered study assistant for K-12 and college students, helping learners understand concepts through personalized explanations. Product Designer role in Bangalore Urban. Actively listed on Wellfound.
+
 ---
 
 ## 🗓 June 10, 2026 — 12:09 PM IST (Scheduled Run #31)
@@ -119,6 +234,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | UI/UX Designer - Remote | YO IT Consulting | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4415406888/) | LinkedIn |
 
 - **YO IT Consulting** — IT staffing and consulting company placing designers with client companies. Remote UI/UX Designer role; appeared across Noida and Remote India LinkedIn searches. Verify client/end company details on the listing.
+
 ---
 
 ## 🗓 June 10, 2026 — 10:08 AM IST (Scheduled Run #30)
@@ -132,8 +248,8 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | UI/UX Designer | FetchJobs.co | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4426034089/) | LinkedIn |
 | Senior UI/UX Designer (Analytics & AI, 6-month contract) | Dexian India *(for ServiceNow)* | Hyderabad | Hybrid (2 WFO / 3 WFH) | 7+ yrs | — | [Contact](https://www.linkedin.com/search/results/content/?keywords=product%20designer%20hiring%20India&datePosted=past-24h) | LinkedIn Posts |
 
-- **FetchJobs.co (Hyderabad, On-site)** — Job aggregator/placement platform. Distinct on-site Hyderabad listing (jobId 4426034089), separate from the Remote FetchJobs.co listing already in file.
-- **Dexian India / ServiceNow** — 6-month contract until November 2026. Hyderabad hybrid (2 days WFO). 7+ yrs with analytics/dashboard design, data viz, enterprise SaaS, design systems, Figma. Contact: Riya Anand, 7428828884. No relocation.
+- **FetchJobs.co (Hyderabad, On-site)** — Job aggregator/placement platform. This is a distinct on-site Hyderabad listing (jobId 4426034089), separate from the Remote FetchJobs.co listing already in file.
+- **Dexian India / ServiceNow** — 6-month contract until November 2026. Hyderabad hybrid (2 days WFO). Needs 7+ yrs with strong analytics/dashboard design, data visualization, enterprise SaaS, design systems, Figma, and AI-driven UX. 2 virtual interview rounds. Contact: Riya Anand, 7428828884. No relocation candidates.
 
 ### Bengaluru — New Listings
 
@@ -142,8 +258,8 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | UX Designer, Amazon Now | Amazon | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4423541275/) | LinkedIn |
 | Product Designer | Even | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4408621877/) | LinkedIn |
 
-- **Amazon (UX Designer, Amazon Now)** — FAANG-tier. Design for Amazon Now (10-minute quick commerce). Bengaluru in-office. Strong consumer UX and mobile design portfolio expected.
-- **Even** — Employer benefits and financial wellness platform for Indian employees. Fintech/HR-tech product design in Bengaluru.
+- **Amazon (UX Designer, Amazon Now)** — FAANG-tier. Design role specifically for Amazon Now (quick commerce / 10-minute delivery). Bengaluru in-office. Expect strong consumer UX, speed-of-use, and mobile design portfolio.
+- **Even** — Employer benefits and financial wellness platform for Indian employees. Product Designer in Bengaluru; fintech/HR-tech product design.
 
 ### Pune — New Listings
 
@@ -151,7 +267,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 |---|---|---|---|---|---|---|---|
 | Product design | Infosys | Pune | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4402115520/) | LinkedIn |
 
-- **Infosys** — Global IT services giant (300,000+ employees). Product design role in Pune; likely internal product or client-facing design team.
+- **Infosys** — Global IT services giant (300,000+ employees). Product design role in Pune; likely for an internal product or client-facing design team. Verify specifics on the listing.
 
 ### Gurugram — New Listings
 
@@ -159,7 +275,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 |---|---|---|---|---|---|---|---|
 | Product Design — Staff Product Designer | Paytm | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4381710240/) | LinkedIn |
 
-- **Paytm** — India's leading digital payments company (publicly listed). Staff Product Designer is a senior IC-track leadership role. Strong fintech and super-app UX portfolio expected.
+- **Paytm** — India's leading digital payments and financial services company (publicly listed). Staff Product Designer is a senior IC-track leadership role. Strong fintech, payments, and super-app UX portfolio expected.
 
 ### Hybrid India — New Listings
 
@@ -167,7 +283,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 |---|---|---|---|---|---|---|---|
 | Sr. Product Designer | Navan | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4422346124/) | LinkedIn |
 
-- **Navan** — Corporate travel and expense management platform (Nasdaq-listed, formerly TripActions, $9B+ valuation). Enterprise SaaS design with strong IA and complex workflow experience expected.
+- **Navan** — Corporate travel and expense management platform (Nasdaq-listed, formerly TripActions, $9B+ valuation). Sr. Product Designer hybrid India role. Enterprise SaaS product design with strong IA and complex workflow experience expected.
 
 ### Remote / Multi-city — New Listings
 
@@ -176,63 +292,8 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Product Designer | Passionbits | India (Multi-city) | — | — | — | [Apply](https://www.linkedin.com/jobs/view/4422514550/) | LinkedIn |
 | Product Designer | Scoutit | India (Multi-city) | — | — | — | [Apply](https://www.linkedin.com/jobs/view/4425811297/) | LinkedIn |
 
-- **Passionbits** — Appeared across Hyderabad, Pune, Gurugram, and Noida LinkedIn searches. Likely remote-friendly or multi-location. Verify work type on the listing.
+- **Passionbits** — Appeared across Hyderabad, Pune, Gurugram, and Noida LinkedIn searches, suggesting a remote-friendly or multi-location role. Verify work type on the listing.
 - **Scoutit** — Appeared across Hyderabad and Noida LinkedIn searches. Verify location and work type on the listing.
----
-
-## 🗓 June 8, 2026 — 12:49 PM IST (Scheduled Run #29)
-
-> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 10 new listings found, all from LinkedIn Chrome.
-
-### Hyderabad — New Listings
-
-| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
-|---|---|---|---|---|---|---|---|
-| UX/UI Designer (Freelancer) | Deccan AI Experts | Hyderabad | Freelance | — | — | [Apply](https://www.linkedin.com/jobs/view/4413404289/) | LinkedIn |
-
-- **Deccan AI Experts** — AI services and consulting company based in Hyderabad. Freelance UX/UI Designer role, distinct from the Figma Designer (Freelancer) remote listing below.
-
-### Pune — New Listings
-
-| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
-|---|---|---|---|---|---|---|---|
-| UI/UX Designer | Koffeetech Communications | Pune | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4421915917/) | LinkedIn |
-
-- **Koffeetech Communications** — Digital marketing and technology company specialising in communications, apps, and web products. UI/UX Designer role based in Pune.
-
-### Bengaluru — New Listings
-
-| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
-|---|---|---|---|---|---|---|---|
-| Product Designer | Instead | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4420116406/) | LinkedIn |
-| Product Designer II | Razorpay | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4422330615/) | LinkedIn |
-
-- **Instead** — Financial planning and tax automation platform for entrepreneurs and freelancers (US-based, India design team in Bengaluru).
-- **Razorpay** — India's leading payments and business banking platform (unicorn, $7.5B+ valuation). Product Designer II is a mid-to-senior IC level role; strong fintech/payments UX portfolio expected.
-
-### Hybrid India — New Listings
-
-| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
-|---|---|---|---|---|---|---|---|
-| Growth Designer | Senseloaf AI | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4413561621/) | LinkedIn |
-| UI/UX Product Designer | Valerie Group | India | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4408227687/) | LinkedIn |
-
-- **Senseloaf AI** — AI-powered HR tech startup automating talent sourcing and candidate screening. Growth Designer focused on conversion, onboarding, and activation flows.
-- **Valerie Group** — Staffing and consulting firm. UI/UX Product Designer role; likely placing with a client company.
-
-### Remote — New Listings
-
-| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
-|---|---|---|---|---|---|---|---|
-| Product Designer (UX/UI) | Crossing Hurdles | India (Remote) | Remote | — | $70/hr | [Apply](https://www.linkedin.com/jobs/view/4408333032/) | LinkedIn |
-| UI/UX Designer | GoodSpace AI | India | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4420701861/) | LinkedIn |
-| UI/UX Designer | FetchJobs.co | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4425070589/) | LinkedIn |
-| Figma Designer (Freelancer) | Deccan AI Experts | India (Remote) | Freelance | — | — | [Apply](https://www.linkedin.com/jobs/view/4416635202/) | LinkedIn |
-
-- **Crossing Hurdles** — Staffing agency placing designers at international rates. $70/hr USD rate — verify contract terms before applying.
-- **GoodSpace AI** — AI-powered talent matching and recruitment platform. Appeared across multiple city searches suggesting remote/flexible arrangement.
-- **FetchJobs.co** — Job aggregator platform. UI/UX Designer listing likely on behalf of a client company.
-- **Deccan AI Experts (Figma Designer)** — Remote freelance Figma design role. Distinct from the Hyderabad on-site UX/UI Freelancer role above.
 
 ---
 
@@ -289,6 +350,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 - **GoodSpace AI** — AI-powered talent matching and recruitment platform. UI/UX Designer role; showed up across multiple city searches suggesting remote/flexible arrangement.
 - **FetchJobs.co** — Job aggregator and placement platform. UI/UX Designer listing likely on behalf of a client company.
 - **Deccan AI Experts (Figma Designer)** — Remote freelance Figma design role at this Hyderabad-based AI services firm. Distinct from the Hyderabad on-site UX/UI Freelancer role above.
+
 ---
 
 ## 🗓 June 8, 2026 — 12:08 PM IST (Scheduled Run #28)
@@ -301,7 +363,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 |---|---|---|---|---|---|---|---|
 | Product Designer, Design Systems | Epicor | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4423509981/) | LinkedIn |
 
-- **Epicor** — Global enterprise software provider specializing in ERP for manufacturing, distribution, and retail (4,000+ employees). Design Systems role in Hyderabad product team.
+- **Epicor** — Global enterprise software provider specializing in ERP for manufacturing, distribution, and retail (4,000+ employees). Design Systems role embedded in the Hyderabad product team. Strong systems thinking and component library experience expected.
 
 ### Pune — New Listings
 
@@ -309,7 +371,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 |---|---|---|---|---|---|---|---|
 | Product Designer (UX/UI, Consumer Mobile & Web Apps) | GreenChoice, PBC | Pune (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4421566314/) | LinkedIn |
 
-- **GreenChoice, PBC** — Food health intelligence company. Remote role based out of Pune Division. Posted 1 day ago — very fresh.
+- **GreenChoice, PBC** — Food health intelligence company helping consumers make healthier and more sustainable food choices. Remote role based out of Pune Division. Posted 1 day ago — very fresh. Consumer mobile & web app design focus.
 
 ### Bengaluru — New Listings
 
@@ -325,15 +387,15 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Product Designer | Zeta Global | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4413012096/) | LinkedIn |
 | Product Designer - Contract | DigiCert | Bengaluru | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4418831548/) | LinkedIn |
 
-- **Hoomanely** — Actively reviewing applicants. Design role in Bengaluru.
-- **Triplespeed** — Actively reviewing applicants. Senior-level role in Bengaluru.
-- **Acko** — India's leading digital-first insurance unicorn (SoftBank backed). Product Designer - 2 (mid-level) in Bengaluru.
-- **Emergent** — Bengaluru-based product company. Promoted listing; 3 connections at company.
-- **Almabase** — Alumni engagement platform for universities. Hybrid Bengaluru role. Posted 2 months ago.
-- **GreedyGame** — India's largest in-app monetization platform. Mobile App role; posted 5 days ago.
-- **Docusign** — Global leader in eSignature (6,000+ employees). Hybrid Bengaluru team.
-- **Zeta Global** — Data-driven marketing technology company. Hybrid Bengaluru. Posted 3 weeks ago.
-- **DigiCert** — World's leading digital trust platform (TLS/SSL, PKI). Contract role, hybrid Bengaluru.
+- **Hoomanely** — Actively reviewing applicants; design role in Bengaluru. Promoted listing.
+- **Triplespeed** — Actively reviewing applicants; senior-level role in Bengaluru. Promoted listing.
+- **Acko** — India's leading digital-first insurance company (unicorn). Product Designer - 2 (mid-level) in Bengaluru. Strong consumer product design portfolio expected.
+- **Emergent** — Design role at Bengaluru-based Emergent; 3 connections at company. Promoted listing.
+- **Almabase** — Alumni engagement platform for universities and nonprofits. Product Designer in hybrid Bengaluru role. Posted 2 months ago.
+- **GreedyGame** — India's largest in-app monetization platform (publisher network). Mobile App Product Designer role; posted 5 days ago — actively hiring.
+- **Docusign** — Global leader in eSignature and contract lifecycle management (6,000+ employees). Product Designer for Bengaluru hybrid team. Promoted listing.
+- **Zeta Global** — Data-driven marketing technology company. Product Designer role in hybrid Bengaluru. Posted 3 weeks ago.
+- **DigiCert** — World's leading digital trust platform (TLS/SSL certificates, PKI). Contract Product Designer role, hybrid Bengaluru. Promoted listing.
 
 ### Gurugram — New Listings
 
@@ -343,9 +405,9 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Senior Product Designer | 30 Sundays | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4424670757/) | LinkedIn |
 | Product Designer, Zudo | Airblack | Gurugram | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4419654882/) | LinkedIn |
 
-- **Driffle** — Digital gaming marketplace for PC game keys. Consumer marketplace design; actively reviewing applicants.
-- **30 Sundays** — Creative/product company in Gurugram. Senior Product Designer promoted listing.
-- **Airblack** — EdTech startup teaching beauty and design skills (Sequoia-backed). Product Designer for the Zudo product vertical.
+- **Driffle** — Digital gaming marketplace for PC game keys and gaming products (actively reviewing applicants). Product Designer role in Gurugram; consumer marketplace design.
+- **30 Sundays** — Creative/product company in Gurugram. Senior Product Designer role; promoted listing.
+- **Airblack** — EdTech startup teaching beauty and design skills (Sequoia-backed). Product Designer specifically for the Zudo product vertical in Gurugram.
 
 ### Noida — New Listings
 
@@ -354,8 +416,8 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Product Designer | Adobe | Noida | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4366485514/) | LinkedIn |
 | Product Designer | Pine Labs | Noida | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4413682490/) | LinkedIn |
 
-- **Adobe** — FAANG-tier creative & enterprise software. Product Designer in Noida office; 3 connections there.
-- **Pine Labs** — India's leading merchant commerce platform (unicorn, SoftBank backed). Actively reviewing applicants. Fintech/payments design.
+- **Adobe** — FAANG-tier creative & enterprise software company. Product Designer in the Noida office (3 connections there). Highly competitive; strong design systems and creative tools portfolio preferred.
+- **Pine Labs** — India's leading merchant commerce platform (unicorn, SoftBank backed). Product Designer actively reviewing applicants in Noida. Fintech/payments product design.
 
 ### Remote — New Listings
 
@@ -364,16 +426,17 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | UI/UX Designer — AI-Native Healthcare SaaS | Zenara Health | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4382927944/) | LinkedIn |
 | Product Designer | Marvin | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4419815304/) | LinkedIn |
 
-- **Zenara Health** — AI-native healthcare SaaS. Remote India role posted 3 months ago (verify status).
-- **Marvin** — User research platform. Posted 1 week ago. Fully remote India.
+- **Zenara Health** — AI-native healthcare SaaS company. Remote India role; posted 3 months ago (verify status). Healthcare UX/UI design background preferred.
+- **Marvin** — User research platform helping teams capture, analyze, and share insights (1 connection works there). Product Designer role; posted 1 week ago. Fully remote India.
 
 ### LinkedIn Posts — New Listings
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| UX Designer — Assisted Service | eBay | Bengaluru | On-site | — | — | [Apply](https://jobs.ebayinc.com/us/en/job/R0074158/UX-Designer-Assisted-Service) | LinkedIn Posts |
+| UX Designer — Assisted Service | eBay | Bengaluru | On-site | — | — | [Apply](https://jobs.ebayinc.com/en-us/job/product-designer) | LinkedIn Posts |
 
-- **eBay** — Global eCommerce marketplace. UX Designer for Assisted Service team (tools for customer service reps). Referred by Sr PM Akankshya Mishra; send portfolio directly via DM. Bengaluru office.
+- **eBay** — Global eCommerce marketplace (FAANG-adjacent). UX Designer for the Assisted Service team (tools for customer service representatives). Posted by Senior PM Akankshya Mishra (ISB PGP '21); send resume + portfolio directly to hiring team. Bengaluru office.
+
 ---
 
 ## 🗓 June 8, 2026 — 10:07 AM IST (Scheduled Run #27)
@@ -390,11 +453,260 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 | Associate Lead Designer (design studio) | Talent Pro *(agency, design studio client)* | Bengaluru | On-site | 6–8 yrs | ₹15L–₹21L | [Apply](https://cutshort.io/job/Associate-Lead-Designer-design-studio-Bengaluru-Bangalore-Talent-Pro--JdmNpalx) | Cutshort |
 | Associate Lead Designer (design studio only) | Talent Pro *(agency, design studio client)* | Bengaluru | On-site | 6–8 yrs | ₹15L–₹21L | [Apply](https://cutshort.io/job/Associate-Lead-Designer-design-studio-only-Bengaluru-Bangalore-Talent-Pro--yNTGtlqQ) | Cutshort |
 
-- **Peak Hire Solutions (Senior Product Motion Designer)** — Unnamed digital transformation company. Role covers 2D/3D animation and motion graphics for product interfaces. Dual-city: Mangalore + Bengaluru. 3–7 yrs, ₹14–18 LPA.
-- **Talent Pro (Senior PD, SaaS company)** — Broader SaaS qualifier vs "top b2b saas only" listing; salary floor ₹40L vs ₹50L. 5–7 yrs.
-- **Talent Pro (Senior PD, generic)** — Unnamed client, wider exp band (6–8 yrs), lower band ₹15–22 LPA suggesting mid-tier client.
-- **Talent Pro (Associate Lead, design studio)** — Design studio client; targets design agency background. 6–8 yrs, ₹15–21 LPA.
-- **Talent Pro (Associate Lead, design studio only)** — Separate Talent Pro listing for a different design studio client. Same profile.
+- **Peak Hire Solutions (Senior Product Motion Designer)** — Client is an unnamed Digital Transformation Company. Role covers 2D/3D animation and motion graphics for product interfaces. Dual-city listing: Mangalore + Bengaluru. 3–7 yrs exp, ₹14–18 LPA. Distinct from other Peak Hire Solutions listings in file.
+- **Talent Pro (Senior PD, SaaS company)** — Unnamed SaaS client; distinct from the "top b2b saas company only" listing already in file (this one has broader SaaS qualifier and slightly lower floor at ₹40L vs ₹50L). 5–7 yrs; strong end-to-end product design portfolio with shipped SaaS case studies required.
+- **Talent Pro (Senior PD, generic)** — Another Talent Pro placement for an unnamed company with a wider experience band (6–8 yrs). ₹15–22 LPA — lower band than other Talent Pro senior listings, suggesting a mid-tier client or non-unicorn company.
+- **Talent Pro (Associate Lead, design studio)** — Associate Lead level role for a design studio client; 6–8 yrs, ₹15–21 LPA. Distinct from the Peak Hire Solutions Associate Lead listing already in file — this targets design agency/studio background specifically.
+- **Talent Pro (Associate Lead, design studio only)** — Identical profile to above but likely for a different design studio client (separate Cutshort listing by same recruiter Mayank Choudhary). 6–8 yrs, ₹15–21 LPA.
+
+---
+
+## 🗓 June 8, 2026 — 04:21 AM IST (Scheduled Run #26)
+
+> Note: LinkedIn Chrome unavailable this run (no browser connected). Searched Wellfound India pages 1–7, Hyderabad page, Pune page, Gurgaon page, and web searches across Cutshort/Naukri for all tracked cities. 6 new listings found across Remote India, Hyderabad, and Gurugram — distinct from all previously captured listings.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior UI/UX Designer | Steps AI | Hyderabad + Remote | Hybrid | 1 yr | ₹3L–₹9L | [Apply](https://wellfound.com/jobs/3708292-senior-ui-ux-designer) | Wellfound |
+
+- **Steps AI (Senior UI/UX designer)** — Second open design role at Steps AI (AI brain for business, 11–50, early stage). This Senior UI/UX listing is distinct from the product designer role already in the file; posted 1 week ago and listed as Hyderabad with remote flexibility. 1 yr exp, ₹3–9 LPA.
+
+### Gurugram — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Hire Help India | Gurugram | Hybrid | 2 yrs | — | [Apply](https://wellfound.com/jobs/4285802-ui-ux-designer-contract-part-time) | Wellfound |
+
+- **Hire Help India** — Revolutionizing the domestic help industry in India (1–10 employees). Contract/part-time UI/UX Designer role in Gurgaon; Top 1% responder. Posted yesterday (June 7, 2026). 2 yrs exp required.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Visual Designer | Diopter | Remote (India) | Remote | 3 yrs | ₹20L–₹60L + 0.01–0.1% equity | [Apply](https://wellfound.com/jobs/4040815-visual-designer) | Wellfound |
+| UIUX Designer | Hashone Careers | Remote (Everywhere) | Remote | 3 yrs | ₹7L–₹18L | [Apply](https://wellfound.com/jobs/4201314-uiux-designer) | Wellfound |
+| UI/UX Designer | createxp | Remote (India) | Remote | 2 yrs | ₹7L–₹10L | [Apply](https://wellfound.com/jobs/3536484-ui-ux-designer) | Wellfound |
+| Design Manager (equity-only) | ReviewDale | Remote (India) | Remote | 5 yrs | 1.0–1.5% equity | [Apply](https://wellfound.com/jobs/3246111-design-manager-5-years-leadership-founding-role-equity-only) | Wellfound |
+
+- **Diopter** — AI-powered platform defending against AI Social Engineering (1–10 employees). Visual Designer role; fully remote from India. Wide salary band ₹20–60 LPA + small equity. 3 yrs exp. Posted 2 months ago.
+- **Hashone Careers** — Staffing & recruitment platform (51–200 employees). UIUX Designer role open to applicants worldwide; ₹7–18 LPA, 3 yrs exp. Posted 3 weeks ago.
+- **createxp** — Agency building websites and software for global startups and enterprises (1–10 employees). UI/UX Designer, fully remote India. ₹7–10 LPA, 2 yrs exp. Posted 1 month ago.
+- **ReviewDale** — AI-driven consumer product advisor cutting research from weeks to a minute (1–10, top 10% responder). Founding Design Manager role; equity-only compensation (1–1.5%), leadership-level, remote India. 5 yrs exp. Posted 2 weeks ago.
+
+---
+
+## 🗓 June 8, 2026 — 07:24 PM IST (Scheduled Run #25)
+
+> Note: LinkedIn Chrome unavailable this run (no browser connected). Searched Wellfound (India pages 1–2), Cutshort (all tracked cities via web search), Naukri (all tracked cities), and BeBee. 2 new listings found: one from Wellfound (Havi.co Gandhinagar variant) and one from BeBee (Quarks Technosoft, open until July 18, 2026).
+
+### Gurugram / Noida — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Quarks Technosoft | Gurugram / Noida | On-site | 2–4 yrs | — | [Apply](https://bebee.com/in/jobs/product-designer-quarks-technosoft-gurugram-noida--theirstack-686926797) | BeBee |
+
+- **Quarks Technosoft** — IT consulting, outsourcing & development firm (multiple India offices). Product Designer role to design end-to-end experiences for AI-powered platforms, create intuitive interfaces for intelligent and data-driven products, and work with product managers, engineers, and ML teams throughout the product lifecycle. Design system ownership and user research included. Strong Figma and IA skills required. 2–4 yrs exp, open until July 18, 2026.
+
+### Other India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (Toys & Games) Intern | Havi.co | Gandhinagar / Ahmedabad | On-site | 0 yrs | ₹1.2L–₹1.8L | [Apply](https://wellfound.com/jobs/3626331-product-designer-toys-and-games-internship-gandhinagar-ahmedabad) | Wellfound |
+
+- **Havi.co (Gandhinagar/Ahmedabad)** — Robotic & STEAM toy brand making DIY kits and creative toys (Made in India, 1–10 employees). This is a second internship listing from Havi.co (distinct from the Bengaluru internship already in file). Entry-level physical product design for toys, games, and STEAM kits. ₹1.2–1.8 LPA. Posted 2 months ago.
+
+---
+
+## 🗓 June 7, 2026 — 11:03 PM IST (Scheduled Run #24)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound, Cutshort, and Naukri via web search for all tracked cities (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India). All current postings already captured in previous runs, except one previously uncaptured Wellfound listing below.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Junior Product Designer (Remote Only) | HootBoard | Remote (India) | Remote | — | — | [Apply](https://wellfound.com/jobs/1684132-junior-product-designer-remote-only) | Wellfound |
+
+- **HootBoard** — Digital community board platform enabling teams and communities to share updates, events, and announcements (11–50 employees). Junior Product Designer role, fully remote from India. Previously uncaptured listing on Wellfound.
+
+---
+
+## 🗓 June 7, 2026 — 09:18 PM IST (Scheduled Run #23)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound, Cutshort, and Naukri via web search for all tracked cities (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India). 3 new Naukri listings found for Gurugram and Pune not previously captured.
+
+### Gurugram — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | CP Consultancy Services | Gurugram | On-site | 3–8 yrs | — | [Apply](https://www.naukri.com/job-listings-product-designer-cp-consultancy-services-gurugram-3-to-8-years-030325926778) | Naukri |
+| Product Designer | Favcy | Gurugram | On-site | 2–3 yrs | — | [Apply](https://www.naukri.com/job-listings-product-designer-favcy-gurugram-2-to-3-years-130825501052) | Naukri |
+
+- **CP Consultancy Services** — Consultancy firm placing designers with clients in Gurugram. Product Designer role requiring 3–8 yrs of experience. Posted March 2025; verify status before applying.
+- **Favcy** — Startup studio / VC firm building early-stage ventures. Product Designer role for 2–3 yrs experience in Gurugram. Posted August 2025; verify status before applying.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Assent | Pune | On-site | 3–5 yrs | — | [Apply](https://www.naukri.com/job-listings-product-designer-assent-pune-3-to-5-years-221225503423) | Naukri |
+
+- **Assent** — Supply chain sustainability platform helping manufacturers comply with global regulations (501–1000 employees, scale stage). Product Designer for enterprise SaaS in Pune. Posted December 2025; verify status before applying.
+
+---
+
+## 🗓 June 7, 2026 — 09:04 PM IST (Scheduled Run #22)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound (Bengaluru page 1, Hyderabad page, Pune page), Cutshort (all tracked cities via web search), Naukri (JS-rendered, listings not extractable). 3 new listings found from Wellfound Bengaluru — older postings not previously captured.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer | Supaboard | Bengaluru | On-site | 4 yrs | ₹20L–₹30L | [Apply](https://wellfound.com/jobs/3543172-senior-product-designer) | Wellfound |
+| Senior Product Designer II | Moveworks | Bengaluru | On-site | — | — | [Apply](https://wellfound.com/jobs/3325102-senior-product-designer-ii) | Wellfound |
+
+- **Supaboard** — "Cursor for data analysts" — an AI-powered analytics tool for data teams (11–50). Senior Product Designer in Bengaluru; 4 yrs exp, ₹20–30 LPA, no equity. Posted 5 months ago.
+- **Moveworks** — AI copilot removing friction from work for enterprise teams (501–1000, scale stage, top investors). Senior Product Designer II in Bengaluru; enterprise AI product design at scale. Posted 3 months ago.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| AI UI/UX Product Designer Internship | Avacasa | Remote (Everywhere) | Remote | 0 yrs | — | [Apply](https://wellfound.com/jobs/3530522-ai-ui-ux-product-designer-internship) | Wellfound |
+
+- **Avacasa** — Platform helping buyers discover and invest in holiday homes globally (1–10, early stage). AI-focused UI/UX Product Designer Internship; fully remote worldwide, entry-level. Posted 1 month ago.
+
+---
+
+## 🗓 June 7, 2026 — 08:56 PM IST (Scheduled Run #21)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound (India page 1), Cutshort (Hyderabad, Pune, Bangalore, Gurugram, Noida, Remote, Hybrid via web search), Naukri (all tracked cities via web search). Cross-referenced all results against existing file — all active postings already captured in previous runs.
+
+**No new listings found at 08:56 PM IST.**
+
+---
+
+## 🗓 June 7, 2026 — 07:23 PM IST (Scheduled Run #20)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound (India pages 1–2), Cutshort (all tracked cities via web search), Naukri, and Weekday.works (new source). 10 new listings found from Weekday.works and Wellfound page 2.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Sr Product Designer | CodeRound AI | Remote India | Remote | — | ₹27L–₹32L | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22coderoundai%22%5D%7D) | Weekday.works |
+
+- **CodeRound AI** — Early-stage AI company (2 employees). Sr Product Designer at competitive ₹27–32 LPA, fully remote from India.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UI/UX) | ARIUMSOFT | Hyderabad | On-site | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22ariumsoft%22%5D%7D) | Weekday.works |
+
+- **ARIUMSOFT** — Software solutions company (22 employees) based in Hyderabad. UI/UX Product Designer role.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer II | Meesho | Bengaluru | On-site | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22meesho%22%5D%7D) | Weekday.works |
+| Sr Product Designer | CG-VAK Software & Exports Ltd. | Bengaluru | On-site | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22cg-vak-software-%26-exports-ltd%22%5D%7D) | Weekday.works |
+| Product Designer – Assistant Manager | State Street | Bengaluru | On-site | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22state-street%22%5D%7D) | Weekday.works |
+| Senior Product Designer | Versatile Product Design Studio | Bengaluru / Remote | Hybrid | 1 yr | ₹3.5L–₹25L | [Apply](https://wellfound.com/jobs/3247974-senior-product-designer) | Wellfound |
+
+- **Meesho** — India's leading social commerce platform (1,000+ employees, unicorn). Product Designer II role in Bengaluru; design for India's largest reseller-driven marketplace.
+- **CG-VAK Software & Exports Ltd.** — Global IT services and software development company (552 employees). Sr Product Designer in Bengaluru.
+- **State Street** — One of the world's largest asset management firms (41,858 employees). Product Designer Assistant Manager role in their Bengaluru India GDC; enterprise financial product design.
+- **Versatile Product Design Studio** — Design studio solving product design for early-stage startups (11–50, early stage). Senior Product Designer role with hybrid flexibility; wide salary band (₹3.5–25 LPA) indicating openness across experience levels. 1 yr exp minimum.
+
+### Gurugram — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer | Pocketpills | Gurugram | — | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22pocketpills%22%5D%7D) | Weekday.works |
+| Senior Product Designer India | Syfe | Gurugram | — | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22syfe%22%5D%7D) | Weekday.works |
+| Sr Analyst / Associate – Product Designer | Oxane Partners | Gurugram | On-site | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22oxane-partners%22%5D%7D) | Weekday.works |
+
+- **Pocketpills** — Canadian online pharmacy expanding in India (119 employees). Senior Product Designer in Gurugram; healthcare/pharmacy product design.
+- **Syfe** — Wealth management and investment platform headquartered in Singapore with India offices (149 employees). Senior Product Designer role in Gurugram; fintech/investment product design.
+- **Oxane Partners** — Fintech/capital markets solutions firm (415 employees). Sr Analyst/Associate level Product Designer in Gurgaon; financial services platform design.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer | Yellow Slice | Pune | On-site | — | — | [Apply](https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22yellow-slice%22%5D%7D) | Weekday.works |
+
+- **Yellow Slice** — Award-winning UX & UI Design Studio in Pune (85 employees). Senior Product Designer at this established design agency; client-facing product work across industries.
+
+---
+
+## 🗓 June 7, 2026 — 07:12 PM IST (Scheduled Run #19)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound (India pages 1–4, Cutshort Hyderabad page, Cutshort Bengaluru page). 5 new listings found across Bengaluru, Remote, and Other India.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product/Visual Designer | Health Vectors | Bengaluru | On-site | 0 yrs | — | [Apply](https://wellfound.com/jobs/4174547-product-visual-designer) | Wellfound |
+| Senior UI/UX Designer | Ipsator | Bengaluru | On-site | 2 yrs | ₹8L–₹16L | [Apply](https://wellfound.com/jobs/3989371-senior-ui-ux-designer) | Wellfound |
+| Senior Product/UX Designer | Cliperact | Bengaluru | On-site | 4 yrs | ₹8L–₹10L | [Apply](https://wellfound.com/jobs/3937495-senior-product-ux-designer) | Wellfound |
+
+- **Health Vectors** — Personalized health data startup (11–50, early stage) making health outcomes measurable and individual. Product/Visual Designer role in Bengaluru office; entry-level. Posted 4 weeks ago.
+- **Ipsator** — Next-gen tech company transforming businesses through technology (51–200, early stage). Senior UI/UX Designer in Bangalore Urban. 2 yrs exp, ₹8–16 LPA. Posted 4 weeks ago.
+- **Cliperact** — Startup making videos interactive and engaging for audiences (1–10). Senior Product/UX Designer role; 4 yrs exp, ₹8–10 LPA, in-office Bengaluru. Posted 3 months ago.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Designer (IP/Legal Tech) | MikeLegal | Remote India | Remote | 1 yr | ₹5L–₹6L | [Apply](https://wellfound.com/jobs/1000443-designer) | Wellfound |
+
+- **MikeLegal** — IP and legal process automation platform (11–50, early stage). Designer role for legal tech product; fully remote India. 1 yr exp, ₹5–6 LPA. Posted 1 month ago.
+
+### Other India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Designer | SURGE AI | Dehradun | On-site | 3 yrs | ₹6L–₹10L | [Apply](https://wellfound.com/jobs/4265882-ux-designer) | Wellfound |
+
+- **SURGE AI** — AI company (51–200 employees, actively hiring). UX Designer in Dehradun office; 3 yrs exp, ₹6–10 LPA. Posted 7 days ago.
+
+---
+
+## 🗓 June 7, 2026 — 06:36 PM IST (Scheduled Run #18)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound (India pages 1–2, Hyderabad page, Gurugram page), Cutshort (all tracked cities via web search), Naukri, and LinkedIn via web search. All current postings already captured in previous runs.
+
+**No new listings found at 06:36 PM IST.**
+
+---
+
+## 🗓 June 7, 2026 — 09:34 AM IST (Scheduled Run #17)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound (India pages 1–3, Hyderabad page, Gurugram page), Cutshort (Hyderabad page), Naukri and Cutshort via web search for all tracked cities. 1 new listing found from Wellfound Gurugram.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Designer Intern | Dharmik Vibes | Remote India | Remote | 1 yr | ₹96K–₹1.2L | [Apply](https://wellfound.com/jobs/3210708-ux-designer-intern) | Wellfound |
+
+- **Dharmik Vibes** — Spiritual services platform connecting users to poojas, rituals, temple travels, and other spiritual services digitally (11–50 employees, early stage). UX Designer Intern role, remote India, 1 yr exp, ₹96K–₹1.2L/yr. Listed on Wellfound's Gurugram page (multi-location tag). Posted 3 months ago.
+
+---
+
+## 🗓 June 7, 2026 — 08:33 AM IST (Scheduled Run #16)
+
+> Note: LinkedIn Chrome unavailable this run. Searched Wellfound, Cutshort, and Naukri via web search for all tracked cities (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India). All current postings already captured in previous runs.
+
+**No new listings found at 08:33 AM IST.**
+
 ---
 
 ## 🗓 June 7, 2026 — 07:48 AM IST (Scheduled Run #15)
