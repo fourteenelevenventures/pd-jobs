@@ -5,6 +5,20 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — (Scheduled Run #36)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities. 1 new listing found from LinkedIn (Level AI, Hybrid India).
+
+### Hybrid India — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer | Level AI | Bangalore / Noida | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4413594280/) | LinkedIn |
+
+- **Level AI** — Conversational intelligence platform using AI to analyze customer support interactions, helping teams improve quality assurance, agent coaching, and CX performance (Series C, 51–200 employees). Senior Product Designer role covering both Bangalore and Noida offices; hybrid arrangement. Strong enterprise SaaS and data-heavy UX portfolio preferred.
+
+---
+
 ## 🗓 June 10, 2026 — 03:05 PM IST (Scheduled Run #35)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities. All results match listings already captured in previous runs — no new job IDs or postings found.
