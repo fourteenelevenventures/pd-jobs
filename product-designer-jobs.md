@@ -5,6 +5,29 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — 02:05 PM IST (Scheduled Run #34)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 3 new listings found: 2 from LinkedIn Chrome (Pune), 1 possible YO IT Consulting repost (distinct job ID).
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | NuageCX Consulting Pvt Ltd | Pune | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4426306393/) | LinkedIn |
+| Senior Product Designer | Jobgether | Pune | — | — | — | [Apply](https://www.linkedin.com/jobs/view/4424366275/) | LinkedIn |
+
+- **NuageCX Consulting Pvt Ltd** — IT consulting and CX solutions company. UI/UX Designer role based in Pune. Fresh listing; appeared in Pune LinkedIn search this run.
+- **Jobgether** — Remote-first job board / aggregator placing candidates with companies. Senior Product Designer listing attributed to Pune — verify actual work arrangement (may be remote-eligible). Aggregator-sourced listing; check the actual company on the job page.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer - Remote | YO IT Consulting | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4415151487/) | LinkedIn |
+
+- **YO IT Consulting (job 4415151487)** — Distinct job ID from the 4415406888 listing captured in Run #31. Likely a repost or second opening from this IT staffing and consulting firm. Remote UI/UX Designer; verify client/end company details on the listing before applying.
+---
+
 ## 🗓 June 10, 2026 — 04:09 PM IST (Scheduled Run #33)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 2 new listings found: 1 from LinkedIn Chrome (Deccan AI Experts, Hyderabad, new job ID) and 1 from LinkedIn Posts (Mewar Infotech, Remote).
