@@ -134,6 +134,7 @@
   .badge-instahyre{ background: #fff3e0; color: #e65100; }
   .badge-linkedin { background: #e3f2fd; color: #0a66c2; }
   .badge-naukri   { background: #fce4ec; color: #ad1457; }
+  .badge-weekday  { background: #e8f5e9; color: #2e7d32; }
 
   main { padding: 24px 32px; max-width: 1200px; margin: 0 auto; }
 
@@ -476,23 +477,27 @@ const JOBS = [
   // ── June 10, 2026 ── Run #33 (04:09 PM IST) — 2 new listings (LinkedIn Chrome: Hyderabad, LinkedIn Posts: Remote)
   { title:"UI/UX Designer (Freelancer)", company:"Deccan AI Experts", location:"Hyderabad", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4413410297/", desc:"Hyderabad-based AI services and consulting company. Third freelance design listing from this company (distinct job ID 4413410297). Verify scope before applying.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Figma UI/UX Designer", company:"Mewar Infotech", location:"India (Remote)", workType:"Remote", exp:"", salary:"", link:"mailto:Sales@mewarinfotec.com", desc:"IT services company. Remote Figma UI/UX Designer (full-time or contract). Skills: Figma, wireframing, design systems, responsive design, interactive prototypes. Apply: Sales@mewarinfotec.com", source:"linkedin-posts", date:"2026-06-10", isNew:true },
+
   // ── June 10, 2026 ── Run #32 (02:09 PM IST) — 1 new listing (Wellfound: Bengaluru)
   { title:"Product Designer", company:"ZuAI", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://wellfound.com/jobs/3012485-product-designer", desc:"AI-powered study assistant for K-12 and college students, helping learners understand concepts through personalized explanations. Product Designer role in Bangalore Urban.", source:"wellfound", date:"2026-06-10", isNew:true },
+
   // ── June 10, 2026 ── Run #31 (12:09 PM IST) — 4 new listings (LinkedIn Chrome: Hyderabad, Bengaluru, Hybrid India, Remote India)
   { title:"Product Designer", company:"InvoiceCloud, Inc.", location:"Hyderabad", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4381213735/", desc:"Payments and billing solutions company for utilities, insurance, and government sectors (US-based, India team in Hyderabad). Consumer-facing payment and billing UX.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Product Designer", company:"Laundryheap", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4421684779/", desc:"On-demand laundry and dry cleaning service in 30+ cities across 11 countries (UK-headquartered). Product Designer for consumer mobile app and logistics platform.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Product Designer (UI/UX)", company:"Keywords Studios", location:"India", workType:"Hybrid", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4407599733/", desc:"Global video games services company (art, engineering, testing, player support for AAA studios, 4,000+ employees, London Stock Exchange listed). Games industry UX experience a strong plus.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"UI/UX Designer - Remote", company:"YO IT Consulting", location:"India", workType:"Remote", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4415406888/", desc:"IT staffing and consulting company placing designers with client companies. Remote role; verify client/end company details on the listing.", source:"linkedin", date:"2026-06-10", isNew:true },
+
   // ── June 10, 2026 ── Run #30 (10:08 AM IST) — 9 new listings (LinkedIn Chrome: Hyderabad, Pune, Bengaluru, Gurugram, Hybrid India, LinkedIn Posts)
   { title:"UI/UX Designer", company:"FetchJobs.co", location:"Hyderabad", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4426034089/", desc:"Job aggregator/placement platform. On-site Hyderabad listing (distinct from the Remote FetchJobs.co listing already in the board).", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Senior UI/UX Designer (Analytics & AI, 6-month contract)", company:"Dexian India (for ServiceNow)", location:"Hyderabad", workType:"Hybrid", exp:"7+ yrs", salary:"", link:"https://www.linkedin.com/search/results/content/?keywords=product%20designer%20hiring%20India&datePosted=past-24h", desc:"6-month contract until Nov 2026. 2 days WFO / 3 WFH. Analytics & dashboard design, data visualization, enterprise SaaS, design systems, Figma. Contact Riya Anand (7428828884). No relocation.", source:"linkedin-posts", date:"2026-06-10", isNew:true },
   { title:"UX Designer, Amazon Now", company:"Amazon", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4423541275/", desc:"FAANG-tier. Design for Amazon Now (10-minute quick commerce). Bengaluru in-office. Strong consumer UX and mobile design portfolio expected.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Product Designer", company:"Even", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4408621877/", desc:"Employer benefits and financial wellness platform for Indian employees. Fintech/HR-tech product design.", source:"linkedin", date:"2026-06-10", isNew:true },
-  { title:"Product design", company:"Infosys", location:"Pune", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4402115520/", desc:"Global IT services giant (300,000+ employees). Product design role in Pune; likely internal product or client-facing design team.", source:"linkedin", date:"2026-06-10", isNew:true },
-  { title:"Product Design — Staff Product Designer", company:"Paytm", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4381710240/", desc:"India's leading digital payments company (publicly listed). Staff Product Designer is a senior IC-track leadership role. Strong fintech and super-app UX portfolio expected.", source:"linkedin", date:"2026-06-10", isNew:true },
+  { title:"Product design", company:"Infosys", location:"Pune", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4402115520/", desc:"Global IT services giant (300,000+ employees). Product design role in Pune; likely for an internal product or client-facing design team.", source:"linkedin", date:"2026-06-10", isNew:true },
+  { title:"Product Design — Staff Product Designer", company:"Paytm", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4381710240/", desc:"India's leading digital payments and financial services company (publicly listed). Staff Product Designer is a senior IC-track leadership role. Strong fintech and super-app UX portfolio expected.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Sr. Product Designer", company:"Navan", location:"India", workType:"Hybrid", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4422346124/", desc:"Corporate travel and expense management platform (Nasdaq-listed, formerly TripActions, $9B+ valuation). Enterprise SaaS design with strong IA and complex workflow experience expected.", source:"linkedin", date:"2026-06-10", isNew:true },
-  { title:"Product Designer", company:"Passionbits", location:"India (Multi-city)", workType:"", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4422514550/", desc:"Appeared across Hyderabad, Pune, Gurugram, and Noida LinkedIn searches. Likely remote-friendly or multi-location. Verify work type on the listing.", source:"linkedin", date:"2026-06-10", isNew:true },
+  { title:"Product Designer", company:"Passionbits", location:"India (Multi-city)", workType:"", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4422514550/", desc:"Appeared across Hyderabad, Pune, Gurugram, and Noida LinkedIn searches. Verify work type and location on the listing.", source:"linkedin", date:"2026-06-10", isNew:true },
   { title:"Product Designer", company:"Scoutit", location:"India (Multi-city)", workType:"", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4425811297/", desc:"Appeared across Hyderabad and Noida LinkedIn searches. Verify location and work type on the listing.", source:"linkedin", date:"2026-06-10", isNew:true },
+
   // ── June 8, 2026 ── Run #29 (12:49 PM IST) — 10 new listings (LinkedIn Chrome: Hyderabad, Pune, Bengaluru, Hybrid India, Remote India)
   { title:"UX/UI Designer (Freelancer)", company:"Deccan AI Experts", location:"Hyderabad", workType:"Freelance", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4413404289/", desc:"AI services and consulting company based in Hyderabad. Freelance UX/UI Designer role.", source:"linkedin", date:"2026-06-08", isNew:true },
   { title:"UI/UX Designer", company:"Koffeetech Communications", location:"Pune", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4421915917/", desc:"Digital marketing and technology company specialising in communications, apps, and web products.", source:"linkedin", date:"2026-06-08", isNew:true },
@@ -517,20 +522,72 @@ const JOBS = [
   { title:"Product Designer", company:"Docusign", location:"Bengaluru", workType:"Hybrid", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4395943470/", desc:"Global leader in eSignature and contract lifecycle management (6,000+ employees). Hybrid Bengaluru team.", source:"linkedin", date:"2026-06-08", isNew:true },
   { title:"Product Designer", company:"Zeta Global", location:"Bengaluru", workType:"Hybrid", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4413012096/", desc:"Data-driven marketing technology company. Hybrid Bengaluru. Posted 3 weeks ago.", source:"linkedin", date:"2026-06-08", isNew:true },
   { title:"Product Designer - Contract", company:"DigiCert", location:"Bengaluru", workType:"Hybrid", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4418831548/", desc:"World's leading digital trust platform (TLS/SSL, PKI). Contract Product Designer, hybrid Bengaluru.", source:"linkedin", date:"2026-06-08", isNew:true },
-  { title:"Product Designer", company:"Driffle", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4418558791/", desc:"Digital gaming marketplace for PC game keys and gaming products. Consumer marketplace design; actively reviewing applicants.", source:"linkedin", date:"2026-06-08", isNew:true },
+  { title:"Product Designer", company:"Driffle", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4418558791/", desc:"Digital gaming marketplace for PC game keys and gaming products. Consumer marketplace design role; actively reviewing applicants.", source:"linkedin", date:"2026-06-08", isNew:true },
   { title:"Senior Product Designer", company:"30 Sundays", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4424670757/", desc:"Creative/product company in Gurugram. Senior Product Designer promoted listing.", source:"linkedin", date:"2026-06-08", isNew:true },
   { title:"Product Designer, Zudo", company:"Airblack", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4419654882/", desc:"EdTech startup teaching beauty and design skills (Sequoia-backed). Product Designer for the Zudo product vertical.", source:"linkedin", date:"2026-06-08", isNew:true },
   { title:"Product Designer", company:"Adobe", location:"Noida", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4366485514/", desc:"FAANG-tier creative & enterprise software company. Product Designer in the Noida office; 3 connections work there. Highly competitive.", source:"linkedin", date:"2026-06-08", isNew:true },
-  { title:"Product Designer", company:"Pine Labs", location:"Noida", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4413682490/", desc:"India's leading merchant commerce platform (unicorn, SoftBank backed). Actively reviewing applicants. Fintech/payments product design.", source:"linkedin", date:"2026-06-08", isNew:true },
-  { title:"UI/UX Designer — AI-Native Healthcare SaaS", company:"Zenara Health", location:"India (Remote)", workType:"Remote", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4382927944/", desc:"AI-native healthcare SaaS company. Remote India role posted 3 months ago (verify status).", source:"linkedin", date:"2026-06-08", isNew:true },
-  { title:"Product Designer", company:"Marvin", location:"India (Remote)", workType:"Remote", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4419815304/", desc:"User research platform helping teams capture, analyze, and share insights. Posted 1 week ago. Fully remote India.", source:"linkedin", date:"2026-06-08", isNew:true },
-  { title:"UX Designer — Assisted Service", company:"eBay", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://jobs.ebayinc.com/us/en/job/R0074158/UX-Designer-Assisted-Service", desc:"Global eCommerce marketplace. UX Designer for Assisted Service team. Referred by Sr PM Akankshya Mishra (ISB PGP '21) — send portfolio directly via DM. Bengaluru office.", source:"linkedin-posts", date:"2026-06-08", isNew:true },
-  // ── June 8, 2026 ── Run #27 (10:07 AM IST) — 5 new listings (Cutshort Bengaluru)
-  { title:"Senior Product Motion Designer", company:"Digital Transformation Co. (via Peak Hire Solutions)", location:"Mangalore / Bengaluru", workType:"On-site", exp:"3–7 yrs", salary:"₹14L–₹18L", link:"https://cutshort.io/job/Senior-Product-Motion-Designer-Mangalore-Bengaluru-Bangalore-Peak-Hire-Solutions-Kwfo2iF8", desc:"Unnamed digital transformation company via Peak Hire Solutions. 2D/3D animation and motion graphics for product interfaces. Dual-city: Mangalore + Bengaluru.", source:"Cutshort", date:"2026-06-08" },
-  { title:"Senior Product Designer (SaaS company)", company:"Talent Pro (agency, SaaS client)", location:"Bengaluru", workType:"On-site", exp:"5–7 yrs", salary:"₹40L–₹60L", link:"https://cutshort.io/job/Senior-product-designer-saas-company-Bengaluru-Bangalore-Talent-Pro--j9br4IHk", desc:"Talent Pro placement for unnamed SaaS client; broader qualifier than 'top B2B SaaS only' listing, lower salary floor at ₹40L. Strong end-to-end SaaS design portfolio required.", source:"Cutshort", date:"2026-06-08" },
-  { title:"Senior Product Designer", company:"Talent Pro (agency, unnamed client)", location:"Bengaluru", workType:"On-site", exp:"6–8 yrs", salary:"₹15L–₹22L", link:"https://cutshort.io/job/Senior-product-designer-Bengaluru-Bangalore-Talent-Pro--7TXBT1e4", desc:"Generic senior designer placement by Talent Pro; lower salary band suggests mid-tier or non-unicorn client. 6–8 yrs required.", source:"Cutshort", date:"2026-06-08" },
-  { title:"Associate Lead Designer (design studio)", company:"Talent Pro (agency, design studio client)", location:"Bengaluru", workType:"On-site", exp:"6–8 yrs", salary:"₹15L–₹21L", link:"https://cutshort.io/job/Associate-Lead-Designer-design-studio-Bengaluru-Bangalore-Talent-Pro--JdmNpalx", desc:"Associate Lead Designer at unnamed design studio client via Talent Pro. Targets design agency/studio background specifically. 6–8 yrs.", source:"Cutshort", date:"2026-06-08" },
-  { title:"Associate Lead Designer (design studio only)", company:"Talent Pro (agency, design studio client)", location:"Bengaluru", workType:"On-site", exp:"6–8 yrs", salary:"₹15L–₹21L", link:"https://cutshort.io/job/Associate-Lead-Designer-design-studio-only-Bengaluru-Bangalore-Talent-Pro--yNTGtlqQ", desc:"Separate Talent Pro listing for a different design studio client, same recruiter (Mayank Choudhary). 6–8 yrs, ₹15–21 LPA.", source:"Cutshort", date:"2026-06-08" },
+  { title:"Product Designer", company:"Pine Labs", location:"Noida", workType:"On-site", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4413682490/", desc:"India's leading merchant commerce platform (unicorn, SoftBank backed). Product Designer actively reviewing applicants. Fintech/payments product design.", source:"linkedin", date:"2026-06-08", isNew:true },
+  { title:"UI/UX Designer — AI-Native Healthcare SaaS", company:"Zenara Health", location:"India (Remote)", workType:"Remote", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4382927944/", desc:"AI-native healthcare SaaS company. Remote India role posted 3 months ago (verify status). Healthcare UX/UI design background preferred.", source:"linkedin", date:"2026-06-08", isNew:true },
+  { title:"Product Designer", company:"Marvin", location:"India (Remote)", workType:"Remote", exp:"", salary:"", link:"https://www.linkedin.com/jobs/view/4419815304/", desc:"User research platform helping teams capture, analyze, and share insights. Posted 1 week ago. Fully remote India; 1 connection at company.", source:"linkedin", date:"2026-06-08", isNew:true },
+  { title:"UX Designer — Assisted Service", company:"eBay", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://jobs.ebayinc.com/us/en/job/R0074158/UX-Designer-Assisted-Service", desc:"Global eCommerce marketplace. UX Designer for Assisted Service team (tools for customer service reps). Referred by Sr PM Akankshya Mishra (ISB PGP '21) — send portfolio directly via DM. Bengaluru office.", source:"linkedin-posts", date:"2026-06-08", isNew:true },
+
+  // ── June 8, 2026 ── Run #27 (10:07 AM IST) — 5 new listings (Cutshort Bengaluru: Talent Pro + Peak Hire Solutions)
+  { title:"Senior Product Motion Designer", company:"Digital Transformation Co. (via Peak Hire Solutions)", location:"Mangalore / Bengaluru", workType:"On-site", exp:"3–7 yrs", salary:"₹14L–₹18L", link:"https://cutshort.io/job/Senior-Product-Motion-Designer-Mangalore-Bengaluru-Bangalore-Peak-Hire-Solutions-Kwfo2iF8", desc:"Unnamed digital transformation company placed via Peak Hire Solutions. Role covers 2D/3D animation and motion graphics for product interfaces. Dual-city listing: Mangalore + Bengaluru.", source:"Cutshort", date:"2026-06-08" },
+  { title:"Senior Product Designer (SaaS company)", company:"Talent Pro (agency, SaaS client)", location:"Bengaluru", workType:"On-site", exp:"5–7 yrs", salary:"₹40L–₹60L", link:"https://cutshort.io/job/Senior-product-designer-saas-company-Bengaluru-Bangalore-Talent-Pro--j9br4IHk", desc:"Talent Pro placement for an unnamed SaaS client; distinct from the 'top B2B SaaS only' listing (broader qualifier, lower salary floor ₹40L vs ₹50L). Strong end-to-end SaaS design portfolio required.", source:"Cutshort", date:"2026-06-08" },
+  { title:"Senior Product Designer", company:"Talent Pro (agency, unnamed client)", location:"Bengaluru", workType:"On-site", exp:"6–8 yrs", salary:"₹15L–₹22L", link:"https://cutshort.io/job/Senior-product-designer-Bengaluru-Bangalore-Talent-Pro--7TXBT1e4", desc:"Generic senior designer placement by Talent Pro; lower salary band (₹15–22 LPA) vs other Talent Pro senior listings, suggesting a mid-tier or non-unicorn client. 6–8 yrs required.", source:"Cutshort", date:"2026-06-08" },
+  { title:"Associate Lead Designer (design studio)", company:"Talent Pro (agency, design studio client)", location:"Bengaluru", workType:"On-site", exp:"6–8 yrs", salary:"₹15L–₹21L", link:"https://cutshort.io/job/Associate-Lead-Designer-design-studio-Bengaluru-Bangalore-Talent-Pro--JdmNpalx", desc:"Associate Lead Designer at an unnamed design studio client via Talent Pro. Distinct from the Peak Hire Solutions Associate Lead listing — targets design agency/studio background specifically. 6–8 yrs.", source:"Cutshort", date:"2026-06-08" },
+  { title:"Associate Lead Designer (design studio only)", company:"Talent Pro (agency, design studio client)", location:"Bengaluru", workType:"On-site", exp:"6–8 yrs", salary:"₹15L–₹21L", link:"https://cutshort.io/job/Associate-Lead-Designer-design-studio-only-Bengaluru-Bangalore-Talent-Pro--yNTGtlqQ", desc:"Separate Talent Pro placement from same recruiter (Mayank Choudhary) for a different design studio client; identical profile to the listing above but for a distinct client. 6–8 yrs, ₹15–21 LPA.", source:"Cutshort", date:"2026-06-08" },
+
+  // ── June 8, 2026 ── Run #26 (04:21 AM IST) — 6 new listings (Wellfound: Hyderabad, Gurugram, Remote)
+  { title:"Senior UI/UX Designer", company:"Steps AI", location:"Hyderabad", workType:"Hybrid", exp:"1 yr", salary:"₹3L–₹9L", link:"https://wellfound.com/jobs/3708292-senior-ui-ux-designer", desc:"Second open design role at Steps AI (AI brain for business, 11–50). Senior UI/UX listing distinct from existing product designer role; remote-flexible from Hyderabad. 1 yr exp.", source:"wellfound", date:"2026-06-08", isNew:true },
+  { title:"UI/UX Designer (Contract)", company:"Hire Help India", location:"Gurugram", workType:"Hybrid", exp:"2 yrs", salary:"", link:"https://wellfound.com/jobs/4285802-ui-ux-designer-contract-part-time", desc:"Revolutionizing the domestic help industry in India (1–10 employees, top 1% Wellfound responder). Contract/part-time UI/UX Designer in Gurgaon. Posted June 7, 2026.", source:"wellfound", date:"2026-06-08", isNew:true },
+  { title:"Visual Designer", company:"Diopter", location:"Remote (India)", workType:"Remote", exp:"3 yrs", salary:"₹20L–₹60L", link:"https://wellfound.com/jobs/4040815-visual-designer", desc:"AI-powered platform defending against AI Social Engineering (1–10 employees). Visual Designer; fully remote India. Wide salary band ₹20–60 LPA + 0.01–0.1% equity. Posted 2 months ago.", source:"wellfound", date:"2026-06-08", isNew:true },
+  { title:"UIUX Designer", company:"Hashone Careers", location:"Remote (Everywhere)", workType:"Remote", exp:"3 yrs", salary:"₹7L–₹18L", link:"https://wellfound.com/jobs/4201314-uiux-designer", desc:"Staffing & recruitment platform (51–200 employees). UIUX Designer open to applicants worldwide. ₹7–18 LPA, 3 yrs exp. Posted 3 weeks ago.", source:"wellfound", date:"2026-06-08", isNew:true },
+  { title:"UI/UX Designer", company:"createxp", location:"Remote (India)", workType:"Remote", exp:"2 yrs", salary:"₹7L–₹10L", link:"https://wellfound.com/jobs/3536484-ui-ux-designer", desc:"Agency building websites and software for global startups and enterprises (1–10 employees). UI/UX Designer, fully remote India. ₹7–10 LPA. Posted 1 month ago.", source:"wellfound", date:"2026-06-08", isNew:true },
+  { title:"Design Manager (Founding, Equity-only)", company:"ReviewDale", location:"Remote (India)", workType:"Remote", exp:"5 yrs", salary:"1.0–1.5% equity", link:"https://wellfound.com/jobs/3246111-design-manager-5-years-leadership-founding-role-equity-only", desc:"AI-driven consumer product advisor cutting research from weeks to a minute (1–10, top 10% responder). Founding Design Manager role; equity-only, leadership-level, remote India. 5 yrs exp. Posted 2 weeks ago.", source:"wellfound", date:"2026-06-08", isNew:true },
+
+  // ── June 8, 2026 ── Run #25 (07:24 PM IST) — 2 new listings (BeBee Gurugram/Noida + Wellfound Gandhinagar)
+  { title:"Product Designer", company:"Quarks Technosoft", location:"Gurugram / Noida", workType:"On-site", exp:"2–4 yrs", salary:"", link:"https://bebee.com/in/jobs/product-designer-quarks-technosoft-gurugram-noida--theirstack-686926797", desc:"IT consulting, outsourcing & development firm. Design end-to-end experiences for AI-powered platforms, build design systems, run user research. Figma + IA skills required. Open until July 18, 2026.", source:"bebee", date:"2026-06-08", isNew:true },
+  { title:"Product Designer (Toys & Games) Intern", company:"Havi.co", location:"Gandhinagar / Ahmedabad", workType:"On-site", exp:"0 yrs", salary:"₹1.2L–₹1.8L", link:"https://wellfound.com/jobs/3626331-product-designer-toys-and-games-internship-gandhinagar-ahmedabad", desc:"Robotic & STEAM toy brand making DIY kits and creative toys in India (1–10 employees). Internship for physical product design — toys, games, and STEAM kits. Gandhinagar/Ahmedabad office. Distinct from the Bengaluru internship already listed.", source:"wellfound", date:"2026-06-08", isNew:true },
+
+  // ── June 7, 2026 ── Run #24 (11:03 PM IST) — 1 new listing (previously uncaptured Wellfound Remote listing)
+  { title:"Junior Product Designer (Remote Only)", company:"HootBoard", location:"Remote India", workType:"Remote", exp:"", salary:"", link:"https://wellfound.com/jobs/1684132-junior-product-designer-remote-only", desc:"Digital community board platform enabling teams and communities to share updates, events, and announcements (11–50 employees). Junior PD role, fully remote from India.", source:"wellfound", date:"2026-06-07", isNew:true },
+
+  // ── June 7, 2026 ── Run #23 (09:18 PM IST) — 3 new listings (Naukri Gurugram + Pune via web search)
+  { title:"Product Designer", company:"CP Consultancy Services", location:"Gurugram", workType:"On-site", exp:"3–8 yrs", salary:"", link:"https://www.naukri.com/job-listings-product-designer-cp-consultancy-services-gurugram-3-to-8-years-030325926778", desc:"Consultancy firm placing designers with clients in Gurugram. Product Designer role; 3–8 yrs experience. Posted March 2025 — verify status before applying.", source:"naukri", date:"2026-06-07", isNew:true },
+  { title:"Product Designer", company:"Favcy", location:"Gurugram", workType:"On-site", exp:"2–3 yrs", salary:"", link:"https://www.naukri.com/job-listings-product-designer-favcy-gurugram-2-to-3-years-130825501052", desc:"Startup studio / VC firm building early-stage ventures. Product Designer role for 2–3 yrs experience in Gurugram. Posted August 2025 — verify status before applying.", source:"naukri", date:"2026-06-07", isNew:true },
+  { title:"Product Designer", company:"Assent", location:"Pune", workType:"On-site", exp:"3–5 yrs", salary:"", link:"https://www.naukri.com/job-listings-product-designer-assent-pune-3-to-5-years-221225503423", desc:"Supply chain sustainability platform helping manufacturers comply with global regulations (501–1000, scale stage). Product Designer for enterprise SaaS in Pune. Posted December 2025.", source:"naukri", date:"2026-06-07", isNew:true },
+
+  // ── June 7, 2026 ── Run #22 (09:04 PM IST) — 3 new listings (Wellfound Bengaluru page, Wellfound Bengaluru page, Wellfound Bengaluru page)
+  { title:"Senior Product Designer", company:"Supaboard", location:"Bengaluru", workType:"On-site", exp:"4 yrs", salary:"₹20L–₹30L", link:"https://wellfound.com/jobs/3543172-senior-product-designer", desc:"'Cursor for data analysts' — AI-powered analytics tool for data teams (11–50). Senior PD in Bengaluru; no equity. Posted 5 months ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"Senior Product Designer II", company:"Moveworks", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://wellfound.com/jobs/3325102-senior-product-designer-ii", desc:"AI copilot removing friction from work for enterprise teams (501–1000, scale stage, top investors). Senior Product Designer II for enterprise AI product design at scale. Posted 3 months ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"AI UI/UX Product Designer Internship", company:"Avacasa", location:"Remote (Everywhere)", workType:"Remote", exp:"0 yrs", salary:"", link:"https://wellfound.com/jobs/3530522-ai-ui-ux-product-designer-internship", desc:"Platform helping buyers discover and invest in holiday homes globally (1–10, early stage). AI-focused UI/UX Product Designer Internship; fully remote worldwide, entry-level. Posted 1 month ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+
+  // ── June 7, 2026 ── Run #20 (07:23 PM IST) — 10 new listings (Weekday.works new source + Wellfound India p2)
+  { title:"Sr Product Designer", company:"CodeRound AI", location:"Remote India", workType:"Remote", exp:"", salary:"₹27L–₹32L", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22coderoundai%22%5D%7D", desc:"Early-stage AI company (2 employees). Sr Product Designer at competitive ₹27–32 LPA, fully remote from India.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Product Designer (UI/UX)", company:"ARIUMSOFT", location:"Hyderabad", workType:"On-site", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22ariumsoft%22%5D%7D", desc:"Software solutions company (22 employees) based in Hyderabad. UI/UX Product Designer role.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Product Designer II", company:"Meesho", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22meesho%22%5D%7D", desc:"India's leading social commerce platform (1,000+ employees, unicorn). Product Designer II role; design for India's largest reseller-driven marketplace.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Sr Product Designer", company:"CG-VAK Software & Exports Ltd.", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22cg-vak-software-%26-exports-ltd%22%5D%7D", desc:"Global IT services and software development company (552 employees). Sr Product Designer in Bengaluru.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Product Designer – Assistant Manager", company:"State Street", location:"Bengaluru", workType:"On-site", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22state-street%22%5D%7D", desc:"One of the world's largest asset management firms (41,858 employees). Product Designer Assistant Manager role in their Bengaluru GDC; enterprise financial product design.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Senior Product Designer", company:"Versatile Product Design Studio", location:"Bengaluru", workType:"Hybrid", exp:"1 yr", salary:"₹3.5L–₹25L", link:"https://wellfound.com/jobs/3247974-senior-product-designer", desc:"Design studio solving product design for early-stage startups (11–50). Senior PD with hybrid flexibility; wide salary band ₹3.5–25 LPA indicating openness across experience levels.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"Senior Product Designer", company:"Pocketpills", location:"Gurugram", workType:"", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22pocketpills%22%5D%7D", desc:"Canadian online pharmacy expanding in India (119 employees). Senior Product Designer in Gurugram; healthcare/pharmacy product design.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Senior Product Designer India", company:"Syfe", location:"Gurugram", workType:"", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22syfe%22%5D%7D", desc:"Wealth management and investment platform headquartered in Singapore with India offices (149 employees). Senior PD in Gurugram; fintech/investment product design.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Sr Analyst / Associate – Product Designer", company:"Oxane Partners", location:"Gurugram", workType:"On-site", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22oxane-partners%22%5D%7D", desc:"Fintech/capital markets solutions firm (415 employees). Sr Analyst/Associate-level Product Designer in Gurgaon; financial services platform design.", source:"weekday", date:"2026-06-07", isNew:true },
+  { title:"Senior Product Designer", company:"Yellow Slice", location:"Pune", workType:"On-site", exp:"", salary:"", link:"https://jobs.weekday.works/?jobsTab=search&filters=%7B%22companies%22%3A%5B%22yellow-slice%22%5D%7D", desc:"Award-winning UX & UI Design Studio in Pune (85 employees). Senior PD at established design agency; client-facing product work across industries.", source:"weekday", date:"2026-06-07", isNew:true },
+
+  // ── June 7, 2026 ── Run #19 (07:12 PM IST) — 5 new listings (Wellfound India p3–4)
+  { title:"Product/Visual Designer", company:"Health Vectors", location:"Bengaluru", workType:"On-site", exp:"0 yrs", salary:"", link:"https://wellfound.com/jobs/4174547-product-visual-designer", desc:"Personalized health data startup (11–50, early stage) making health outcomes measurable and individual. Entry-level Product/Visual Designer role in Bengaluru. Posted 4 weeks ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"Senior UI/UX Designer", company:"Ipsator", location:"Bengaluru", workType:"On-site", exp:"2 yrs", salary:"₹8L–₹16L", link:"https://wellfound.com/jobs/3989371-senior-ui-ux-designer", desc:"Next-gen tech company transforming businesses through technology (51–200, early stage). Senior UI/UX Designer in Bangalore Urban. 2 yrs exp, ₹8–16 LPA. Posted 4 weeks ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"Senior Product/UX Designer", company:"Cliperact", location:"Bengaluru", workType:"On-site", exp:"4 yrs", salary:"₹8L–₹10L", link:"https://wellfound.com/jobs/3937495-senior-product-ux-designer", desc:"Startup making videos interactive and engaging (1–10). Senior Product/UX Designer; 4 yrs exp, ₹8–10 LPA, in-office Bengaluru. Posted 3 months ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"Designer (IP/Legal Tech)", company:"MikeLegal", location:"Remote India", workType:"Remote", exp:"1 yr", salary:"₹5L–₹6L", link:"https://wellfound.com/jobs/1000443-designer", desc:"IP and legal process automation platform (11–50, early stage). Designer role for legal tech product; fully remote India. 1 yr exp, ₹5–6 LPA. Posted 1 month ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+  { title:"UX Designer", company:"SURGE AI", location:"Dehradun", workType:"On-site", exp:"3 yrs", salary:"₹6L–₹10L", link:"https://wellfound.com/jobs/4265882-ux-designer", desc:"AI company (51–200 employees, actively hiring). UX Designer in Dehradun office; 3 yrs exp, ₹6–10 LPA. Posted 7 days ago.", source:"wellfound", date:"2026-06-07", isNew:true },
+
+  // ── June 7, 2026 ── Run #18 (06:36 PM IST) — No new listings found
+  // Sources checked: Wellfound (India p1–2, Hyderabad, Gurugram), Cutshort (all cities via web search), Naukri, LinkedIn web search
+
+  // ── June 7, 2026 ── Run #17 (09:34 AM IST) — 1 new listing (Wellfound Gurugram page)
+  { title:"UX Designer Intern", company:"Dharmik Vibes", location:"Remote India", workType:"Remote", exp:"1 yr", salary:"₹96K–₹1.2L", link:"https://wellfound.com/jobs/3210708-ux-designer-intern", desc:"Spiritual services platform connecting users to poojas, rituals, temple travels, and spiritual services digitally (11–50, early stage). Remote India internship, 1 yr exp. Listed on Wellfound's Gurugram page via multi-location tag.", source:"wellfound", date:"2026-06-07", isNew:true },
+
   // ── June 7, 2026 ── Run #15 (07:48 AM IST) — 3 new listings (Wellfound Gurugram, Naukri Gurugram, Wellfound India p2)
   { title:"Sr. Product Designer", company:"Onething Design Studio", location:"Gurugram", workType:"On-site", exp:"3–8 yrs", salary:"", link:"https://www.naukri.com/job-listings-sr-product-designer-onething-design-studio-gurugram-3-to-8-years-120625501393", desc:"Design studio based in Gurugram. Sr. Product Designer role requiring 3–8 yrs experience. Active listing on Naukri.", source:"naukri", date:"2026-06-07", isNew:true },
   { title:"Visual Designer (Design Education mandatory)", company:"Luna Ring", location:"Gurugram", workType:"On-site", exp:"2 yrs", salary:"", link:"https://wellfound.com/jobs/4203423-visual-designer-design-education-mandatory", desc:"World's First AI-Powered Smart Ring (D2C consumer electronics, 11–50, early stage). Second open role — Visual Designer with mandatory design education (NID/NIFT/IID background likely). 2 yrs exp, no equity. Posted 3 weeks ago. Distinct from the Lead Designer UI/UX role already listed.", source:"wellfound", date:"2026-06-07", isNew:true },
@@ -736,6 +793,7 @@ const SOURCE_LABELS = {
   'linkedin': 'LinkedIn',
   'linkedin-posts': 'LinkedIn Post',
   'naukri': 'Naukri',
+  'weekday': 'Weekday.works',
   'instahyre': 'Instahyre',
 };
 
@@ -794,48 +852,80 @@ function buildCard(j) {
 }
 
 function render() {
-  var search = document.getElementById("search").value.toLowerCase().trim();
-  var filtered = JOBS.filter(function(j){
-    if(!search) return true;
-    return [j.title,j.company,j.location,j.desc,j.source].join(" ").toLowerCase().includes(search);
+  const search = document.getElementById('search').value.toLowerCase().trim();
+
+  // Filter jobs by search query
+  const filtered = JOBS.filter(j => {
+    if (!search) return true;
+    return [j.title, j.company, j.location, j.desc, j.source].join(' ').toLowerCase().includes(search);
   });
-  var byDate={};
-  filtered.forEach(function(j){if(!byDate[j.date])byDate[j.date]=[];byDate[j.date].push(j);});
-  var sortedDates=Object.keys(byDate).sort(function(a,b){return b.localeCompare(a);});
-  var latestDate=sortedDates[0]||"";
-  var main=document.getElementById("main-content");
-  var anchor=document.getElementById("board-section-label");
-  main.querySelectorAll(".dynamic-section").forEach(function(el){el.remove();});
-  var html="";
-  // Best Matches accordion — always on top
-  var bm=getBestMatches(JOBS,6);
-  html+='<div class="dynamic-section accordion open" id="bm-accordion" onclick="toggleAccordion(event,this)">'+
-    '<div class="accordion-header">'+
-    '<div class="accordion-header-left">'+
-    '<span class="accordion-date today">⭐ Best Matches for Tulsi</span>'+
-    '<span class="accordion-count today">'+bm.length+' matches</span>'+
-    '</div><span class="accordion-chevron">▼</span></div>'+
-    '<div class="accordion-body"><div class="grid" style="margin-top:12px">'+bm.map(buildMatchCard).join("")+'</div></div></div>';
-  // Date accordions
-  sortedDates.forEach(function(date){
-    var jobs=byDate[date];
-    var isToday=date===latestDate;
-    var isOpen=isToday||!!search;
-    var todayCls=isToday?" today":"";
-    var prefix=isToday?"✨ ":"";
-    html+='<div class="dynamic-section accordion'+(isOpen?" open":"")+'" data-date="'+date+'" onclick="toggleAccordion(event,this)">'+
-      '<div class="accordion-header"><div class="accordion-header-left">'+
-      '<span class="accordion-date'+todayCls+'">'+prefix+formatDate(date)+'</span>'+
-      '<span class="accordion-count'+todayCls+'">'+jobs.length+' listing'+(jobs.length!==1?"s":"")+'</span>'+
-      '</div><span class="accordion-chevron">▼</span></div>'+
-      '<div class="accordion-body"><div class="grid" style="margin-top:12px">'+jobs.map(buildCard).join("")+'</div></div></div>';
+
+  // Group by date (newest first)
+  const byDate = {};
+  filtered.forEach(j => {
+    if (!byDate[j.date]) byDate[j.date] = [];
+    byDate[j.date].push(j);
   });
-  anchor.insertAdjacentHTML("beforebegin",html);
-  if(latestDate){document.getElementById("headerSub").textContent="Hyderabad · Pune · Bengaluru · Gurugram · Noida · Remote · Hybrid  |  Last updated: "+formatDate(latestDate);}
-  document.getElementById("emptyState").style.display=filtered.length===0?"block":"none";
+  const sortedDates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
+  const latestDate = sortedDates[0] || '';
+
+  const main = document.getElementById('main-content');
+  const insertionAnchor = document.getElementById('board-section-label');
+  main.querySelectorAll('.dynamic-section').forEach(el => el.remove());
+
+  let html = '';
+
+  // Best Matches — always from full JOBS list (unaffected by search), top 6
+  const bestMatches = getBestMatches(JOBS, 6);
+  html += `<div class="dynamic-section">
+    <div class="best-matches-header">
+      <div class="section-label" style="margin:0;flex:1">⭐ Best Matches for Tulsi <span class="count-badge">${bestMatches.length}</span></div>
+      <span class="resume-chip">👤 Tulsi Patel · 4 yrs · Fintech / Consumer / Remote</span>
+    </div>
+    <div class="grid" style="margin-top:12px">${bestMatches.map(buildMatchCard).join('')}</div>
+  </div>`;
+
+  if (sortedDates.length === 0) {
+    // handled by emptyState div
+  } else {
+    sortedDates.forEach((date, idx) => {
+      const jobs = byDate[date];
+      const isToday = date === latestDate;
+      // Auto-open latest date (or all if search is active)
+      const isOpen = isToday || !!search;
+      const dateLabel = formatDate(date);
+      const todayClass = isToday ? ' today' : '';
+
+      html += `<div class="dynamic-section accordion${isOpen ? ' open' : ''}" data-date="${date}" onclick="toggleAccordion(this)">
+        <div class="accordion-header">
+          <div class="accordion-header-left">
+            <span class="accordion-date${todayClass}">${isToday ? '✨ ' : ''}${dateLabel}</span>
+            <span class="accordion-count${todayClass}">${jobs.length} listing${jobs.length !== 1 ? 's' : ''}</span>
+          </div>
+          <span class="accordion-chevron">▼</span>
+        </div>
+        <div class="accordion-body">
+          <div class="grid" style="margin-top:12px">${jobs.map(buildCard).join('')}</div>
+        </div>
+      </div>`;
+    });
+  }
+
+  insertionAnchor.insertAdjacentHTML('beforebegin', html);
+
+  // Update header subtitle
+  if (latestDate) {
+    document.getElementById('headerSub').textContent =
+      `Hyderabad · Pune · Bengaluru · Gurugram · Noida · Remote · Hybrid  |  Last updated: ${formatDate(latestDate)}`;
+  }
+
+  document.getElementById('emptyState').style.display = filtered.length === 0 ? 'block' : 'none';
 }
 
-function toggleAccordion(e,el){if(e.target.closest("a,button"))return;el.classList.toggle("open");}
+function toggleAccordion(el) {
+  // Prevent toggle when clicking links/buttons inside
+  el.classList.toggle('open');
+}
 
 function filterJobs() { render(); }
 
