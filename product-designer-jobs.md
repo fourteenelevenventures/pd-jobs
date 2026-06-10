@@ -5,6 +5,19 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort
 
 ---
 
+## 🗓 June 10, 2026 — 02:09 PM IST (Scheduled Run #32)
+
+> LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all results already captured in previous runs except 1 new Wellfound listing (ZuAI, Bengaluru). No new LinkedIn Chrome listings this run.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | ZuAI | Bengaluru (Urban) | On-site | — | — | [Apply](https://wellfound.com/jobs/3012485-product-designer) | Wellfound |
+
+- **ZuAI** — AI-powered study assistant for K-12 and college students, helping learners understand concepts through personalized explanations. Product Designer role in Bangalore Urban. Actively listed on Wellfound.
+---
+
 ## 🗓 June 10, 2026 — 12:09 PM IST (Scheduled Run #31)
 
 > LinkedIn Chrome available this run. Searched all 7 LinkedIn URLs (Hyderabad, Pune, Bengaluru, Gurugram, Noida, Remote India, Hybrid India) + LinkedIn Posts (past 24h). Also ran web searches on Wellfound/Cutshort/Naukri for all cities — all web search results already captured in previous runs. 4 new listings found, all from LinkedIn Chrome.
