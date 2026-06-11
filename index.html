@@ -885,6 +885,13 @@ function buildCard(j) {
   const applyLabel = `Apply on ${srcLabel} →`;
   const loc = j.location;
 
+  // Match % score
+  const score = scoreJob(j);
+  const pct = Math.min(Math.round((score / 20) * 100), 100);
+  const matchColor = pct >= 80 ? '#1a7f3c' : pct >= 60 ? '#0071e3' : pct >= 40 ? '#b45309' : '#6e6e73';
+  const matchBg   = pct >= 80 ? '#d1fae5' : pct >= 60 ? '#dbeafe' : pct >= 40 ? '#fef3c7' : '#f0f0f3';
+  const matchChip = `<span class="meta-chip" style="color:${matchColor};background:${matchBg};font-weight:600;border-color:${matchColor}22">${pct}% match</span>`;
+
   const locLow = loc.toLowerCase();
   const wtLow = (j.workType || '').toLowerCase();
   const srcLow = j.source;
@@ -900,7 +907,7 @@ function buildCard(j) {
     </div>
     <div class="card-meta">
       <span class="meta-chip">📍 ${loc}</span>
-      ${wtChip}${expChip}${salaryChip}
+      ${wtChip}${expChip}${salaryChip}${matchChip}
     </div>
     ${j.desc ? `<div class="card-desc">${j.desc}</div>` : ''}
     <a class="apply-btn" href="${j.link}" target="_blank">${applyLabel}</a>
@@ -931,25 +938,10 @@ function render() {
 
   let html = '';
 
-  // Best Matches accordion — always on top, always from full JOBS list
-  const bestMatches = getBestMatches(JOBS, 6);
-  html += `<div class="dynamic-section accordion open" id="bm-accordion" onclick="toggleAccordion(this)">
-    <div class="accordion-header">
-      <div class="accordion-header-left">
-        <span class="accordion-date today">⭐ Best Matches for Tulsi</span>
-        <span class="accordion-count today">${bestMatches.length} matches</span>
-      </div>
-      <span class="accordion-chevron">▼</span>
-    </div>
-    <div class="accordion-body">
-      <div class="grid" style="margin-top:12px">${bestMatches.map(buildMatchCard).join('')}</div>
-    </div>
-  </div>`;
-
   if (sortedDates.length === 0) {
     // handled by emptyState div
   } else {
-    sortedDates.forEach((date, idx) => {
+    sortedDates.slice(0, 3).forEach((date, idx) => {
       const jobs = byDate[date];
       const isToday = date === latestDate;
       // Auto-open latest date (or all if search is active)
