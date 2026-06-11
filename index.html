@@ -410,6 +410,31 @@
     margin-top: 4px;
     display: block;
   }
+  /* Inline match progress bar */
+  .match-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin: 6px 0 2px;
+  }
+  .match-bar-track {
+    flex: 1;
+    height: 5px;
+    background: #e8e8ed;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .match-bar-fill {
+    height: 100%;
+    border-radius: 10px;
+    transition: width 0.5s ease;
+  }
+  .match-bar-label {
+    font-size: 11px;
+    font-weight: 700;
+    min-width: 30px;
+    text-align: right;
+  }
 </style>
 </head>
 <body>
@@ -888,9 +913,11 @@ function buildCard(j) {
   // Match % score
   const score = scoreJob(j);
   const pct = Math.min(Math.round((score / 20) * 100), 100);
-  const matchColor = pct >= 80 ? '#1a7f3c' : pct >= 60 ? '#0071e3' : pct >= 40 ? '#b45309' : '#6e6e73';
-  const matchBg   = pct >= 80 ? '#d1fae5' : pct >= 60 ? '#dbeafe' : pct >= 40 ? '#fef3c7' : '#f0f0f3';
-  const matchChip = `<span class="meta-chip" style="color:${matchColor};background:${matchBg};font-weight:600;border-color:${matchColor}22">${pct}% match</span>`;
+  const barColor = pct >= 80 ? '#1a7f3c' : pct >= 60 ? '#0071e3' : pct >= 40 ? '#b45309' : '#9ca3af';
+  const matchBar = `<div class="match-bar-wrap">
+    <div class="match-bar-track"><div class="match-bar-fill" style="width:${pct}%;background:${barColor}"></div></div>
+    <span class="match-bar-label" style="color:${barColor}">${pct}%</span>
+  </div>`;
 
   const locLow = loc.toLowerCase();
   const wtLow = (j.workType || '').toLowerCase();
@@ -907,8 +934,9 @@ function buildCard(j) {
     </div>
     <div class="card-meta">
       <span class="meta-chip">📍 ${loc}</span>
-      ${wtChip}${expChip}${salaryChip}${matchChip}
+      ${wtChip}${expChip}${salaryChip}
     </div>
+    ${matchBar}
     ${j.desc ? `<div class="card-desc">${j.desc}</div>` : ''}
     <a class="apply-btn" href="${j.link}" target="_blank">${applyLabel}</a>
   </div>`;
@@ -942,7 +970,7 @@ function render() {
     // handled by emptyState div
   } else {
     sortedDates.slice(0, 3).forEach((date, idx) => {
-      const jobs = byDate[date];
+      const jobs = byDate[date].map(j => ({...j, _score: scoreJob(j)})).sort((a,b) => b._score - a._score);
       const isToday = date === latestDate;
       // Auto-open latest date (or all if search is active)
       const isOpen = isToday || !!search;
@@ -985,6 +1013,24 @@ function filterJobs() { render(); }
 // ─── BEST MATCH SCORING ───────────────────────────────────────────────────────
 // Tulsi Patel — ~4 yrs exp, Fintech/Healthtech/E-commerce/B2B, remote-first,
 // design systems, end-to-end product design, Figma, consumer apps, mobile.
+
+const TARGET_COMPANIES = new Set([
+  'atlassian','microsoft','adobe','salesforce','intuit','hubspot','servicenow','sap','oracle',
+  'google','meta','amazon','linkedin','uber','airbnb','postman','canva','figma','miro','notion',
+  'slack','dropbox','twilio','gitlab','github','datadog','snowflake','mongodb','confluent','okta',
+  'cloudflare','hashicorp','elastic','new relic','netskope','palo alto networks','rippling','deel',
+  'multiplier','freshworks','zoho','chargebee','browserstack','whatfix','kissflow','surveysparrow',
+  'rocketlane','darwinbox','clevertap','gainsight','moengage','highlevel','leadsquared','yellow.ai',
+  'observe.ai','druva','razorpay','phonepe','groww','cred','jupiter','pine labs','zerodha','upstox',
+  'coindcx','angel one','indmoney','kuvera','bharatpe','cashfree','perfios','slice','jar',
+  'swiggy','zomato','meesho','flipkart','myntra','makemytrip','navi','urban company','dream11',
+  'sharechat','inmobi','glance','dailyhunt','zepto','blinkit','rapido','porter','unacademy',
+  'physicswallah','walmart global tech','target india','american express','jpmorgan','goldman sachs',
+  'visa','mastercard','paypal','cisco','dell','intel','nvidia','vmware','booking.com','expedia',
+  'agoda','lenskart','paytm','razorpay','acko','docusign','pine labs','fi','upgrad','atomicwork',
+  'nanonets','payu','optum','digicert','nxtwave','clueso','spotdraft','clickpost','project44',
+  'eloelo','staple','atlys','unosecur','supaboard','moveworks','unifize','ethos','docusign',
+]);
 
 const RESUME = {
   expYears: 4,
@@ -1029,6 +1075,10 @@ function scoreJob(job) {
   } else {
     score += 1; // no exp stated — neutral bonus
   }
+
+  // Target company bonus
+  const companyLower = (job.company || '').toLowerCase();
+  if ([...TARGET_COMPANIES].some(c => companyLower.includes(c))) score += 6;
 
   // Salary shown is a positive signal (transparent companies)
   if (job.salary) score += 1;
