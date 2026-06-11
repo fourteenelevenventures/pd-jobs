@@ -5,6 +5,71 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🗓 June 11, 2026 — 09:00 AM IST (Scheduled Run #40)
+
+> Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, foundit, peerlist, YC, RemoteOK, iimjobs, hirist, unstop. Target company career pages searched for all priority groups. 17 new listings found.
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Product Designer I | Razorpay | Bengaluru | On-site | — | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4556450005) | Greenhouse |
+| ⭐ Product Designer II | Razorpay | Bengaluru | On-site | — | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4676070005) | Greenhouse |
+| ⭐ Senior Product Designer | Razorpay | Bengaluru | On-site | 4+ yrs | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4673867005) | Greenhouse |
+| ⭐ Senior Product Designer (UI/UX) | Razorpay | Bengaluru | On-site | 4+ yrs | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4619135005) | Greenhouse |
+| ⭐ Lead Product Designer | Razorpay | Bengaluru | On-site | — | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4481112005) | Greenhouse |
+| ⭐ Manager, Product Design | Razorpay | Bengaluru | On-site | — | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4623174005) | Greenhouse |
+| ⭐ Senior Product Designer (Teams) | Microsoft | Bengaluru | Hybrid | 3+ yrs | — | [Apply](https://www.glassdoor.com/job-listing/senior-product-designer-microsoft-JV_IC2940587_KO0,23_KE24,33.htm?jl=1009759123209) | Glassdoor |
+| ⭐ Lead Product Designer | Atlassian | Bengaluru | — | 10–15 yrs | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/19551) | Atlassian Careers |
+| ⭐ Lead Product Designer — Service Collection | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/22024) | Atlassian Careers |
+| ⭐ UX Designer II | Walmart Global Tech | Bengaluru | Hybrid | — | — | [Apply](https://bebee.com/in/jobs/ind-ux-designer-ii-walmart-global-tech-india-chennai-tamil-nadu--theirstack-699686045) | BeBee |
+
+- ⭐ **Razorpay (Product Designer I)** — Entry-level product design role at India's leading payments infrastructure company. Strong design systems and fintech UX environment.
+- ⭐ **Razorpay (Product Designer II)** — Mid-level IC designer. Responsibilities include visual design systems, pattern libraries, and cross-product design reviews. Mentorship expected.
+- ⭐ **Razorpay (Senior Product Designer ×2)** — Two distinct senior-level openings (job IDs 4673867005 and 4619135005). Requires 4+ yrs designing digital products; involves user research, ideation, and data-driven design decisions. One is explicitly UI/UX focused.
+- ⭐ **Razorpay (Lead Product Designer)** — Leads creative and holistic thinking across diverse products; involves hiring, recruiting, and mentoring the design team. Strategic leadership role.
+- ⭐ **Razorpay (Manager, Product Design)** — Manages a team of multidisciplinary designers (product designers, visual designers, researchers). Exceptional design leadership required.
+- ⭐ **Microsoft (Senior Product Designer — Teams Admin Center)** — Designing AI-powered Copilot experiences for voice administration in Microsoft Teams. Partners with PMs, engineers, and researchers. Posted June 8, 2026. Hybrid (3 days/week in-office), Bengaluru.
+- ⭐ **Atlassian (Lead PD, job 19551)** — Lead Product Designer in Bengaluru; 10–15 yrs experience. Different listing from the Senior PD roles (22439/22206) already in the file.
+- ⭐ **Atlassian (Lead PD — Service Collection, job 22024)** — Lead Product Designer specifically for the Service Collection product area. Bengaluru-based. Distinct from Senior PD – Service Collection (22439).
+- ⭐ **Walmart Global Tech (UX Designer II)** — UX design role embedded in the Bengaluru tech center, building tools for millions of Walmart associates and shoppers. Hybrid arrangement.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Career Bloom | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aabxc4wc6n9v) | Indeed |
+| Product Designer | Zeta Global | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aaqw8bhmq8v2) | Indeed |
+| UI/UX Product Designer | Valerie Group | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aafhdt8m8pxr) | Indeed |
+| UI/UX Designer | Exdera | Bengaluru | Fresher | — | — | [Apply](https://to.indeed.com/aacgqwslx8q2) | Indeed |
+| Product Designer | Eloelo | Bengaluru | On-site | — | — | [Apply](https://cutshort.io/job/Product-Designer-Bengaluru-Bangalore-Eloelo-j08MdtM4) | Cutshort |
+
+- **Career Bloom** — Career services/platform company. Product Designer role in Bengaluru, posted May 28, 2026.
+- **Zeta Global** — Marketing data cloud and analytics company. Product Designer role in Bengaluru, posted April 30, 2026.
+- **Valerie Group** — Consulting/design services firm. UI/UX Product Designer, full-time in Bengaluru, posted April 16, 2026.
+- **Exdera** — Tech startup. Fresher-level UI/UX Designer in Bengaluru, posted April 29, 2026. Good entry-level opportunity.
+- **Eloelo** — India's leading live social gaming and entertainment platform (Series B, 10M+ users). Product Designer role in Bengaluru listed on Cutshort.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UI/UX) | Keywords Studios | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aaj6tmkbg8bd) | Indeed |
+
+- **Keywords Studios** — Global video game services company (art, audio, engineering, localization). Product Designer (UI/UX) in Pune, posted April 28, 2026. Games-adjacent UX/UI design role.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer (Figma) | fidha technologies pvt ltd | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aaz86pj7gth2) | Indeed |
+| Product Designer | Triveous | Remote | On-site | — | — | [Apply](https://cutshort.io/job/Product-Designer-Triveous-wGgn6c9h) | Cutshort |
+
+- **fidha technologies** — Tech company. UI/UX Designer with Figma skills, fully remote, posted June 8, 2026 — very fresh.
+- **Triveous** — Fully remote startup building inclusive mobile products for India and the world. Product Designer role on Cutshort; values usability and inclusive design.
+
+---
+
 ## 🗓 June 10, 2026 — (Scheduled Run #39)
 
 > Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, YC Jobs, Peerlist, and target company career pages (Atlassian, Postman, Razorpay, PhonePe, Groww, CRED, Swiggy, Zomato, Meesho, Zepto, Flipkart, Salesforce, Adobe, Walmart Global Tech). 12 new listings found.
