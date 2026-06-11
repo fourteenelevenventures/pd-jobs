@@ -540,7 +540,7 @@ function buildCard(j) {
   const badgeClass = cardBadgeClass(j.source);
   const wtChip = j.workType ? `<span class="meta-chip">${j.workType === 'Remote' ? '🌐' : j.workType === 'Hybrid' ? '🔄' : '🏢'} ${j.workType}</span>` : '';
   const expChip = j.exp ? `<span class="meta-chip">🕐 ${j.exp}</span>` : '';
-  const salaryChip = j.salary ? `<span class="meta-chip salary">${j.salary}</span>` : '';
+  const salaryChip = j.salary ? `<span class="meta-chip salary">💰 ${j.salary}</span>` : '';
   const newBadge = j.isNew ? `<span class="badge badge-new">New</span>` : `<span class="badge ${badgeClass}">${srcLabel}</span>`;
   const applyLabel = `Apply on ${srcLabel} →`;
   const loc = j.location;
@@ -608,11 +608,12 @@ function render() {
       const jobs = byDate[date].map(j => ({...j, _score: scoreJob(j)})).sort((a,b) => b._score - a._score);
       const isToday = date === latestDate;
       // Auto-open latest date (or all if search is active)
-      const isOpen = isToday || !!search;
+      const saved = (() => { try { return sessionStorage.getItem('pd-acc-' + date); } catch(e) { return null; } })();
+      const isOpen = saved !== null ? saved === '1' : (isToday || !!search);
       const dateLabel = formatDate(date);
       const todayClass = isToday ? ' today' : '';
 
-      html += `<div class="dynamic-section accordion${isOpen ? ' open' : ''}" data-date="${date}" onclick="toggleAccordion(this)">
+      html += `<div class="dynamic-section accordion${isOpen ? ' open' : ''}" data-date="${date}" onclick="toggleAccordion(event,this)">
         <div class="accordion-header">
           <div class="accordion-header-left">
             <span class="accordion-date${todayClass}">${isToday ? '✨ ' : ''}${dateLabel}</span>
@@ -638,9 +639,14 @@ function render() {
   document.getElementById('emptyState').style.display = filtered.length === 0 ? 'block' : 'none';
 }
 
-function toggleAccordion(el) {
-  // Prevent toggle when clicking links/buttons inside
+function toggleAccordion(event, el) {
+  // Don't toggle if the click originated from a link or button inside the card
+  if (event.target.closest('a, button')) return;
   el.classList.toggle('open');
+  // Persist state so it survives tab-switches and reloads
+  try {
+    sessionStorage.setItem('pd-acc-' + el.dataset.date, el.classList.contains('open') ? '1' : '0');
+  } catch(e) {}
 }
 
 function filterJobs() { render(); }
@@ -737,7 +743,7 @@ function buildMatchCard(j) {
   const badgeClass = cardBadgeClass(j.source);
   const wtChip = j.workType ? `<span class="meta-chip">${j.workType === 'Remote' ? '🌐' : j.workType === 'Hybrid' ? '🔄' : '🏢'} ${j.workType}</span>` : '';
   const expChip = j.exp ? `<span class="meta-chip">🕐 ${j.exp}</span>` : '';
-  const salaryChip = j.salary ? `<span class="meta-chip salary">${j.salary}</span>` : '';
+  const salaryChip = j.salary ? `<span class="meta-chip salary">💰 ${j.salary}</span>` : '';
   const scoreBar = Math.min(Math.round((j._score / 20) * 100), 100);
 
   return `<div class="card match-card">
