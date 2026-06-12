@@ -5,6 +5,82 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🗓 June 12, 2026 — (Scheduled Run #42 — Chrome-powered)
+
+> Indeed API (8 queries) + Chrome-scraped LinkedIn (Bangalore/Hyderabad/Pune/Remote, past 24h), Wellfound Bangalore & Hyderabad, and web searches. Cutshort skipped (requires login). hirist skipped (coding-focused, no design category). 27 new listings found.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Emergent | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4424812757/) | LinkedIn |
+| Product Designer | Scoutit | Remote (India) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4426254132/) | LinkedIn |
+| Product Designer | Phox Health | Bangalore Urban | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4427534834/) | LinkedIn |
+| Platform Product Designer | JazzX AI | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aa9nyq68xrw6) | Indeed |
+| Product Designer | HEAPS Health | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aa2ck7by67lj) | Indeed |
+| Senior Product Designer | Red Baton Creative Marketing Solutions | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aac9grbq7gm4) | Indeed |
+| Lead Product Designer | Atomicwork Inc | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aag69ntq6vsd) | Indeed |
+| Visual & UI Designer | GoldenPi Technologies | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aa9fthgfpk2m) | Indeed |
+| Product Designer | SellerGeni | Bangalore Urban | On-site | 3 yrs | ₹16L–₹24L | [Apply](https://wellfound.com/jobs/4012748-product-designer) | Wellfound |
+| Product Designer | lytmus.ai | HSR Layout | On-site | 3 yrs | ₹10L–₹15L | [Apply](https://wellfound.com/jobs/4263198-product-designer) | Wellfound |
+| Product Designer - Ecommerce | Troopod | Remote | Remote | 1 yr | ₹3.6L–₹7.2L | [Apply](https://wellfound.com/jobs/4325872-product-designer-ecommerce) | Wellfound |
+| Product Designer | Atlys | Bengaluru + Remote | Hybrid | 2 yrs | ₹30L–₹80L | [Apply](https://wellfound.com/jobs/4144519-product-designer) | Wellfound |
+| Product Designer | Corvee | Bengaluru | On-site | — | — | [Apply](https://wellfound.com/jobs/3344993-product-designer) | Wellfound |
+| Senior Product Designer | Get My Parking | Bengaluru | On-site | 5 yrs | ₹15L–₹20L | [Apply](https://wellfound.com/jobs/747214-senior-product-designer) | Wellfound |
+| Senior UI/UX Designer | Steps AI | Hyderabad / Remote | Hybrid | 1 yr | ₹3L–₹9L | [Apply](https://wellfound.com/role/l/product-designer/hyderabad) | Wellfound |
+
+- **Emergent** — Product company hiring Product Designer in Bengaluru (on-site). Posted on LinkedIn past 24h. Direct LinkedIn apply link.
+- **Scoutit** — Remote-first startup. Product Designer posted 20h ago on LinkedIn. Fresh listing.
+- **Phox Health** — US healthcare/pharmacy tech startup with India team. Product Designer in Bangalore Urban, on-site.
+- **JazzX AI** — AI platform company. Platform Product Designer in Bengaluru, posted May 15, 2026. Specialised AI-product design role.
+- **HEAPS Health** — Health-tech startup. Product Designer in Bengaluru, posted Feb 26, 2026. Verify current status.
+- **Red Baton Creative Marketing Solutions** — Creative marketing & design firm. Senior Product Designer in Bengaluru, posted Mar 2, 2026.
+- **Atomicwork Inc (Lead PD)** — This is the Lead PD listing, distinct from the Product Designer (IC) role already in the file. Bangalore-based ITSM startup. Posted Mar 30, 2026.
+- **GoldenPi Technologies** — Fixed-income investment platform (bonds). Visual & UI Designer in Bengaluru, posted Feb 26, 2026. Fintech design with data-heavy UI.
+- **SellerGeni** — Largest ecommerce growth platform for Amazon India. Product Designer; ₹16L–₹24L + 1–2% equity; 3 yrs exp; Bangalore Urban on-site.
+- **lytmus.ai** — Platform for schools and edtechs to build AI tutors. Product Designer; ₹10L–₹15L; HSR Layout on-site; 3 yrs exp; 2 weeks ago.
+- **Troopod** — AI-native website growth partner (recently funded). Product Designer - Ecommerce; remote; ₹3.6L–₹7.2L; 1 day ago — very fresh.
+- **Atlys** — Travel visa startup making travel efficient (Series B, $20M+). Product Designer; ₹30L–₹80L; Bengaluru + remote; 2 yrs exp; 1 month ago. Strong salary range.
+- **Corvee** — Tax planning SaaS (Instead.com). Product Designer in Bengaluru; 2 months ago. US-backed B2B SaaS.
+- **Get My Parking** — AI-powered parking management platform. Senior Product Designer; ₹15L–₹20L; 5 yrs exp; Bengaluru on-site; 1 month ago.
+- **Steps AI** — AI brain for business ops. Senior UI/UX Designer; Hyderabad/Remote; ₹3L–₹9L; 2 weeks ago.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior User Experience Designer | Terralogic | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4423683298/) | LinkedIn |
+| Founding Product Designer | CredX | Hyderabad | On-site | — | — | [Apply](https://www.linkedin.com/jobs/view/4426237819/) | LinkedIn |
+| Sr. UI/UX Designer | Kiash Solutions LLP | Hyderabad | Permanent | — | — | [Apply](https://to.indeed.com/aa4l884fxyrd) | Indeed |
+
+- **Terralogic** — IT services and digital solutions company. Senior UX Designer in Hyderabad on-site; found on LinkedIn past 24h search.
+- **CredX** — Fintech startup. Founding Product Designer in Hyderabad on-site; posted within past 24h on LinkedIn. Founding role = high ownership + early-stage equity.
+- **Kiash Solutions LLP** — IT services firm. Sr. UI/UX Designer in Hyderabad, posted May 28, 2026.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer | HSBC | Pune Division | Hybrid | — | — | [Apply](https://www.linkedin.com/jobs/view/4427922656/) | LinkedIn |
+
+- **HSBC** — Global banking giant (GCC India). Senior Product Designer in Pune, hybrid. Enterprise fintech/banking design. Found in LinkedIn Pune past 24h search.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI UX Intern | Innovexis | Bengaluru (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4423655546/) | LinkedIn |
+| UI/UX Designer | AquarLabs | Remote (India) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/view/4427627373/) | LinkedIn |
+| Lead Product Designer (Consultant) | Colladome IT Network | Remote | Contract | — | — | [Apply](https://to.indeed.com/aay67sqvvblv) | Indeed |
+| UIUX Designer | Ekshvaku Tech Innovation | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aapsyhwvvdqy) | Indeed |
+
+- **Innovexis** — Tech company. UI UX Intern remote role, posted 18 hours ago on LinkedIn — freshest listing of the run.
+- **AquarLabs** — Tech startup. UI/UX Designer, remote India, posted 12 hours ago on LinkedIn. Very fresh.
+- **Colladome IT Network** — IT network services firm. Lead Product Designer (Consultant) contract role, posted June 4, 2026.
+- **Ekshvaku Tech Innovation** — Software solutions company. UIUX Designer remote, posted Feb 19, 2026.
+
+---
+
 ## 🗓 June 12, 2026 — (Scheduled Run #41)
 
 > Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, Peerlist, YC Jobs, RemoteOK. Target company career pages searched: Postman, Razorpay, Meesho, Zepto, Blinkit, Navi, Unacademy, Flipkart, Salesforce, PhonePe, Freshworks, BrowserStack, Walmart Global Tech, PayPal, Swiggy. 27 new listings found.
