@@ -5,6 +5,96 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🗓 June 12, 2026 — (Scheduled Run #41)
+
+> Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, Peerlist, YC Jobs, RemoteOK. Target company career pages searched: Postman, Razorpay, Meesho, Zepto, Blinkit, Navi, Unacademy, Flipkart, Salesforce, PhonePe, Freshworks, BrowserStack, Walmart Global Tech, PayPal, Swiggy. 27 new listings found.
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Senior Product Designer, AI & Testing | Postman | Bengaluru | On-site | 6–8 yrs | — | [Apply](https://www.jobaaj.com/job/postman-senior-product-designer-ai-testing-bengaluru-bangalore-karnataka-6-to-8-years-675148) | Jobaaj |
+| ⭐ Lead Product Designer | Meesho | Remote / WFH | Remote | 4–8 yrs | — | [Apply](https://www.instahyre.com/job-159477-lead-product-designer-at-meesho-work-from-home/) | Instahyre |
+| ⭐ Product Designer | Meesho | Bengaluru | On-site | 0–2 yrs | — | [Apply](https://www.instahyre.com/job-135756-product-designer-at-meesho-bangalore/) | Instahyre |
+| ⭐ Product Designer | Zepto | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-197315-product-designer-at-zepto-bangalore/) | Instahyre |
+| ⭐ Product Designer (UX) — Supply | Blinkit | Bengaluru | On-site | — | — | [Apply](https://blinkit.com/careers/product-designer-ux-supply) | Blinkit Careers |
+| ⭐ Product Designer | Navi | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-209033-product-designer-at-navi-3-bangalore/) | Instahyre |
+| ⭐ Product Designer | Unacademy | Bengaluru | On-site | 3–7 yrs | — | [Apply](https://www.instahyre.com/job-26503-product-designer-at-unacademy-bangalore/) | Instahyre |
+| ⭐ Product Designer | Flipkart | Bengaluru | On-site | 1–6 yrs | — | [Apply](https://www.instahyre.com/job-25626-product-designer-at-flipkart-bangalore/) | Instahyre |
+| ⭐ UI/UX Designer | Salesforce | Bengaluru | On-site | — | — | [Apply](https://careers.salesforce.com/en/jobs/jr338703/uiux-designer/) | Salesforce Careers |
+
+- ⭐ **Postman (Senior PD, AI & Testing)** — Distinct from the 3 Postman roles already tracked. This role (6–8 yrs exp) focuses specifically on AI-powered testing capabilities in Postman. Explores how AI can transform API testing and automation; ensures AI features are intuitive for developers. Bengaluru on-site.
+- ⭐ **Meesho (Lead PD, Remote)** — Social commerce platform (200M+ users, SoftBank-backed). Lead-level remote role; 4–8 yrs UX/Visual design experience. Qualitative + quantitative research; end-to-end design ownership. Verify current status before applying.
+- ⭐ **Meesho (Product Designer, Bengaluru)** — Entry-level to junior PD role (0–2 yrs) on Meesho's in-office Bengaluru team. Great for building consumer-scale design experience.
+- ⭐ **Zepto (Product Designer)** — India's fastest-growing quick-commerce platform (10-minute delivery, unicorn). 3–8 yrs product design experience; Figma, InVision, Sketch proficiency required. Consumer mobile UX at massive scale.
+- ⭐ **Blinkit (Product Designer UX — Supply)** — Zomato's instant commerce arm (India's #1 quick commerce). This role sits in the Supply side (dark store ops, merchant-facing tools). Direct apply link from Blinkit's careers page — fresh listing.
+- ⭐ **Navi (Product Designer)** — Navi is a fintech startup (health insurance, mutual funds, home loans; backed by Sachin Bansal). 3–8 yrs UX design exp. Consumer fintech at scale with a strong design culture.
+- ⭐ **Unacademy (Product Designer)** — India's top ed-tech platform (JEE, NEET, UPSC; 50M+ learners). 3–7 yrs UX exp. Bengaluru in-office. Verify current status — listing via Instahyre.
+- ⭐ **Flipkart (Product Designer)** — India's largest e-commerce company (Walmart Group). 1–6 yrs exp. Design for hundreds of millions of users. Bengaluru on-site. Verify current status via Instahyre listing.
+- ⭐ **Salesforce (UI/UX Designer)** — Enterprise CRM giant. UI/UX Designer role in Bengaluru India on Salesforce's official careers portal. Design for global enterprise products (CRM, Service Cloud, Sales Cloud).
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Lead Product Designer | Nightfall AI | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa6qjlcgwsc9) | Indeed |
+| Lead Product Designer | OpenFX | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aafhcwwkqmjs) | Indeed |
+| Associate Product Designer 2 | Credit Saison | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aalmhfl74shs) | Indeed |
+| Senior Product Designer (Zluri) | BeingUser | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa4sylvwqwbl) | Indeed |
+| UX Designer | auzmor technology | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa7f78yfd6sp) | Indeed |
+| Senior Product Designer | Reliance Jio | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-108430-senior-product-designer-at-reliance-jio-bangalore/) | Instahyre |
+| Product Designer | Pagarbook | Bengaluru | Remote-friendly | — | — | [Apply](https://cutshort.io/job/Product-designer-Bengaluru-Bangalore-Anzy-iKZgJprD) | Cutshort |
+
+- **Nightfall AI** — AI-native data loss prevention (DLP) platform for SaaS and cloud (well-funded US startup with Bengaluru team). Lead Product Designer, full-time in Bengaluru, posted May 29, 2026.
+- **OpenFX** — Financial services/FX trading platform. Lead Product Designer in Bengaluru, posted April 22, 2026. Senior-level design leadership role.
+- **Credit Saison** — Japanese consumer finance company with India ops (lending, credit cards). Associate Product Designer 2 in Bengaluru; fintech consumer product design.
+- **BeingUser (for Zluri)** — BeingUser is a design staffing firm placing designers at product companies. This role is for Zluri, a SaaS management platform (unicorn). Posted Feb 23, 2026; verify status.
+- **auzmor technology** — HR tech/learning platform. UX Designer in Bengaluru, posted Feb 27, 2026.
+- **Reliance Jio** — India's largest telecom (450M+ subscribers, Mukesh Ambani/Reliance). Senior Product Designer in Bengaluru; 3–8 yrs UX experience. Scale unlike any other in India.
+- **Pagarbook** — SME payroll and business management app (Series B). Product Designer in Bengaluru with remote-friendly arrangement. Listed on Cutshort via Anzy recruitment.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | NxtWave | Hyderabad | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-227047-product-designer-at-nxtwave-hyderabad/) | Instahyre |
+| Product Designer | Silverlabs India | Hyderabad | On-site | — | — | [Apply](https://cutshort.io/job/Product-Designer-Hyderabad-Silverlabs-India-Private-Limited-qpHeQETi) | Cutshort |
+| UI/UX Designer | Inclusive Minds | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aakgnt6mnx6q) | Indeed |
+| UX Design Intern | Kenseo Design Labs | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aavmptl64nkd) | Indeed |
+
+- **NxtWave** — India's top tech upskilling platform for college students and recent grads (Series B, backed by Sequoia). Product Designer in Hyderabad; 2–6 yrs exp. EdTech product design at scale.
+- **Silverlabs India** — Dual-homed (San Francisco + Hyderabad) product studio. Product Designer in Hyderabad focused on content creation UX and navigation across multiple platforms.
+- **Inclusive Minds** — Accessibility and inclusive design consultancy. UI/UX Designer in Hyderabad, posted June 08, 2026 — very fresh.
+- **Kenseo Design Labs** — Design agency. UX Design Intern in Hyderabad, posted June 11, 2026 — freshest listing of the run.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Designer | Zywave, Inc. | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aabdn79n27yq) | Indeed |
+| UI/UX Designer | Tudip Technologies Pvt Ltd | Pune | Permanent | — | — | [Apply](https://to.indeed.com/aawx9pz6t9sw) | Indeed |
+| UI/UX Designer | CloudMoyo | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aat9mwn6m79h) | Indeed |
+| UI-UX Designer | VIDUSHI INFOTECH | Pune | — | — | — | [Apply](https://to.indeed.com/aarqxk9ymv4l) | Indeed |
+
+- **Zywave, Inc.** — US-based insurtech SaaS platform (risk management, compliance tools). UX Designer in Pune; posted Feb 28, 2026. Good opportunity for enterprise B2B SaaS design.
+- **Tudip Technologies** — Product engineering services company. UI/UX Designer in Pune, posted June 1, 2026.
+- **CloudMoyo** — Microsoft Gold Partner; AI and cloud analytics solutions. UI/UX Designer in Pune, posted May 15, 2026. Enterprise data visualization and analytics UX.
+- **VIDUSHI INFOTECH** — IT staffing and solutions company. UI-UX Designer in Pune, posted May 12, 2026. Verify role scope and company fit before applying.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | nèvour | Remote | Permanent | — | — | [Apply](https://to.indeed.com/aahzd2v8cgt9) | Indeed |
+| UI/UX Designer | Ungrammary | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aaq6xxh6pktn) | Indeed |
+| UI/UX Lead Designer | Rupa Career Solutions | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aablgmjw9pj7) | Indeed |
+
+- **nèvour** — Sustainable fashion/lifestyle brand. UI/UX Designer fully remote, posted May 17, 2026.
+- **Ungrammary** — UX design agency. UI/UX Designer remote role; posted May 31, 2026. Good for agency-style design experience.
+- **Rupa Career Solutions** — Recruitment/staffing agency. UI/UX Lead Designer remote role, posted May 27, 2026. Verify end client before applying.
+
+---
+
 ## 🗓 June 11, 2026 — 09:00 AM IST (Scheduled Run #40)
 
 > Indeed API searched across 8 queries (Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote). Web searches run across LinkedIn, Wellfound, Cutshort, Naukri, Glassdoor, Instahyre, foundit, peerlist, YC, RemoteOK, iimjobs, hirist, unstop. Target company career pages searched for all priority groups. 17 new listings found.
