@@ -14,13 +14,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
 | ⭐ Senior Product Designer, AI & Testing | Postman | Bengaluru | On-site | 6–8 yrs | — | [Apply](https://www.jobaaj.com/job/postman-senior-product-designer-ai-testing-bengaluru-bangalore-karnataka-6-to-8-years-675148) | Jobaaj |
-| ⭐ Lead Product Designer | Meesho | Remote / WFH | Remote | 4–8 yrs | — | [Apply](https://www.instahyre.com/job-159477-lead-product-designer-at-meesho-work-from-home/) | Instahyre |
-| ⭐ Product Designer | Meesho | Bengaluru | On-site | 0–2 yrs | — | [Apply](https://www.instahyre.com/job-135756-product-designer-at-meesho-bangalore/) | Instahyre |
-| ⭐ Product Designer | Zepto | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-197315-product-designer-at-zepto-bangalore/) | Instahyre |
-| ⭐ Product Designer (UX) — Supply | Blinkit | Bengaluru | On-site | — | — | [Apply](https://blinkit.com/careers/product-designer-ux-supply) | Blinkit Careers |
-| ⭐ Product Designer | Navi | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-209033-product-designer-at-navi-3-bangalore/) | Instahyre |
-| ⭐ Product Designer | Unacademy | Bengaluru | On-site | 3–7 yrs | — | [Apply](https://www.instahyre.com/job-26503-product-designer-at-unacademy-bangalore/) | Instahyre |
-| ⭐ Product Designer | Flipkart | Bengaluru | On-site | 1–6 yrs | — | [Apply](https://www.instahyre.com/job-25626-product-designer-at-flipkart-bangalore/) | Instahyre |
 | ⭐ UI/UX Designer | Salesforce | Bengaluru | On-site | — | — | [Apply](https://careers.salesforce.com/en/jobs/jr338703/uiux-designer/) | Salesforce Careers |
 
 - ⭐ **Postman (Senior PD, AI & Testing)** — Distinct from the 3 Postman roles already tracked. This role (6–8 yrs exp) focuses specifically on AI-powered testing capabilities in Postman. Explores how AI can transform API testing and automation; ensures AI features are intuitive for developers. Bengaluru on-site.
@@ -42,7 +35,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 | Associate Product Designer 2 | Credit Saison | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aalmhfl74shs) | Indeed |
 | Senior Product Designer (Zluri) | BeingUser | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa4sylvwqwbl) | Indeed |
 | UX Designer | auzmor technology | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa7f78yfd6sp) | Indeed |
-| Senior Product Designer | Reliance Jio | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-108430-senior-product-designer-at-reliance-jio-bangalore/) | Instahyre |
 | Product Designer | Pagarbook | Bengaluru | Remote-friendly | — | — | [Apply](https://cutshort.io/job/Product-designer-Bengaluru-Bangalore-Anzy-iKZgJprD) | Cutshort |
 
 - **Nightfall AI** — AI-native data loss prevention (DLP) platform for SaaS and cloud (well-funded US startup with Bengaluru team). Lead Product Designer, full-time in Bengaluru, posted May 29, 2026.
@@ -57,12 +49,10 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 | Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
 |---|---|---|---|---|---|---|---|
-| Product Designer | NxtWave | Hyderabad | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-227047-product-designer-at-nxtwave-hyderabad/) | Instahyre |
 | Product Designer | Silverlabs India | Hyderabad | On-site | — | — | [Apply](https://cutshort.io/job/Product-Designer-Hyderabad-Silverlabs-India-Private-Limited-qpHeQETi) | Cutshort |
 | UI/UX Designer | Inclusive Minds | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aakgnt6mnx6q) | Indeed |
 | UX Design Intern | Kenseo Design Labs | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aavmptl64nkd) | Indeed |
 
-- **NxtWave** — India's top tech upskilling platform for college students and recent grads (Series B, backed by Sequoia). Product Designer in Hyderabad; 2–6 yrs exp. EdTech product design at scale.
 - **Silverlabs India** — Dual-homed (San Francisco + Hyderabad) product studio. Product Designer in Hyderabad focused on content creation UX and navigation across multiple platforms.
 - **Inclusive Minds** — Accessibility and inclusive design consultancy. UI/UX Designer in Hyderabad, posted June 08, 2026 — very fresh.
 - **Kenseo Design Labs** — Design agency. UX Design Intern in Hyderabad, posted June 11, 2026 — freshest listing of the run.
@@ -110,7 +100,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 | ⭐ Lead Product Designer | Razorpay | Bengaluru | On-site | — | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4481112005) | Greenhouse |
 | ⭐ Manager, Product Design | Razorpay | Bengaluru | On-site | — | — | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4623174005) | Greenhouse |
 | ⭐ Senior Product Designer (Teams) | Microsoft | Bengaluru | Hybrid | 3+ yrs | — | [Apply](https://www.glassdoor.com/job-listing/senior-product-designer-microsoft-JV_IC2940587_KO0,23_KE24,33.htm?jl=1009759123209) | Glassdoor |
-| ⭐ Lead Product Designer | Atlassian | Bengaluru | — | 10–15 yrs | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/19551) | Atlassian Careers |
 | ⭐ Lead Product Designer — Service Collection | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/22024) | Atlassian Careers |
 | ⭐ UX Designer II | Walmart Global Tech | Bengaluru | Hybrid | — | — | [Apply](https://bebee.com/in/jobs/ind-ux-designer-ii-walmart-global-tech-india-chennai-tamil-nadu--theirstack-699686045) | BeBee |
 
@@ -170,9 +159,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 |---|---|---|---|---|---|---|---|
 | ⭐ Senior Product Designer – Service Collection | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/22439) | Atlassian Careers |
 | ⭐ Senior Product Designer | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/22206) | Atlassian Careers |
-| ⭐ Product Designer II, UX Foundation | Postman | Bengaluru | On-site | 0–4 yrs | — | [Apply](https://www.postman.com/company/careers/product-designer-ii-ux-foundation-5875535003/) | Postman Careers |
-| ⭐ Product Designer | Postman | Bengaluru | On-site | — | — | [Apply](https://www.postman.com/company/careers/product-designer-6055256003/) | Postman Careers |
-| ⭐ Senior Product Designer, Collaboration | Postman | Bengaluru | On-site | — | — | [Apply](https://www.postman.com/company/careers/senior-product-designer-collaboration-6119691003/) | Postman Careers |
 | ⭐ Product Designer | PhonePe | Bengaluru | On-site | 1–3 yrs | — | [Apply](https://jobs.weekday.works/phonepe-product-designer) | Weekday.works |
 | Product Designer | GoSats *(YC W22)* | Bengaluru | On-site | — | — | [Apply](https://www.ycombinator.com/companies/gosats/jobs/NL1ssNH-product-designer) | Y Combinator |
 
@@ -261,7 +247,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 | UI/UX Designer | ADEO DISTINCTIONS & DIMENSIONS | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aaycz6x69rfq) | Indeed |
 | Product Design II | DigiCert | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aajkvwzfgt7g) | Indeed |
 | Senior Product Designer | Nanonets *(via EPIQ India)* | Bengaluru | On-site | 5–9 yrs | — | [Apply](https://www.hirist.tech/j/senior-product-designer-1575289) | hirist |
-| Lead Product Designer | PayU | Bangalore / Mumbai | On-site | 4–6 yrs | — | [Apply](https://www.instahyre.com/job-75510-lead-product-designer-at-payu-bangalore-mumbai/) | Instahyre |
 
 - **Optum** — UnitedHealth Group's health services and technology subsidiary. Senior UX Designer in Bengaluru, posted June 09, 2026 — very fresh. Expect enterprise healthcare product design, complex data-heavy dashboards, and accessibility focus.
 - **Atomicwork Inc** — Modern IT service management (ITSM) and employee experience platform powered by AI (Bengaluru-based, well-funded startup). Product Designer role posted March 30, 2026. Enterprise SaaS with strong conversational UX and workflow design.
@@ -284,7 +269,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 | UI/UX Designer | Marvels Magazine | Hyderabad | Permanent | — | — | [Apply](https://to.indeed.com/aa6kt8h94sn7) | Indeed |
 | UI/UX Designer | CodeLabs | Hyderabad | Fresher | — | — | [Apply](https://to.indeed.com/aa9lk6q46w6c) | Indeed |
 | UX/UI Designer (Offshore) | isolved | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aa2fm8ctjkzx) | Indeed |
-| Product Designer | NxtWave | Hyderabad | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-227047-product-designer-at-nxtwave-hyderabad/) | Instahyre |
 
 - **Inclusive Minds** — Hyderabad-based organization. UI/UX Designer role, posted June 8, 2026.
 - **Marvels Magazine** — Media/publishing company. UI/UX Designer role, posted May 12, 2026.
@@ -305,13 +289,6 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 | UI UX Designer | Ace Micromatic Intelligence | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aattjwv6sqjl) | Indeed |
 | UI/UX Designer | Toolyt | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aabxtvwg9rpd) | Indeed |
 | UI/UX Designer | RidenRoll | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa6rnltxl2br) | Indeed |
-| ⭐ Lead Product Designer | Meesho | Work From Home | — | 4–8 yrs | — | [Apply](https://www.instahyre.com/job-159477-lead-product-designer-at-meesho-work-from-home/) | Instahyre |
-| ⭐ Product Designer | Meesho | Bengaluru | On-site | 0–2 yrs | — | [Apply](https://www.instahyre.com/job-135756-product-designer-at-meesho-bangalore/) | Instahyre |
-| ⭐ Product Designer | Zepto | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-197315-product-designer-at-zepto-bangalore/) | Instahyre |
-| ⭐ Senior Product Designer | Zepto | Bengaluru | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-259800-senior-product-designer-at-zepto-bangalore/) | Instahyre |
-| ⭐ Product Designer | Navi | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.instahyre.com/job-209033-product-designer-at-navi-3-bangalore/) | Instahyre |
-| ⭐ Product Designer | Unacademy | Bengaluru | On-site | 3–7 yrs | — | [Apply](https://www.instahyre.com/job-26503-product-designer-at-unacademy-bangalore/) | Instahyre |
-| ⭐ Product Designer | Flipkart | Bengaluru | On-site | 1–6 yrs | — | [Apply](https://www.instahyre.com/job-25626-product-designer-at-flipkart-bangalore/) | Instahyre |
 | Sr. Product Designer | project44 | Bengaluru | — | — | — | [Apply](https://peerlist.io/company/project44/careers/sr-product-designer/jobha9nlpem6p7b7j1jon9baj9em8g) | Peerlist |
 | Product Designer I | ClickPost | Bengaluru | Full-time | — | — | [Apply](https://peerlist.io/company/clickpost_ai/careers/product-designer-i/jobhbablbjlrlmoll3eno8q8dgnmd6) | Peerlist |
 
@@ -1631,9 +1608,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 | Job Title | Company | Location | Experience | Link |
 |---|---|---|---|---|
-| Digital Product Designer | Adagrad AI | Pune | 2–4 years | [View](https://www.instahyre.com/job-342772-digital-product-designer-at-adagrad-ai-pune/) |
 
-- **Adagrad AI** — Computer vision AI startup (10–50 employees, founded 2018). Skills: Figma, Illustrator, Adobe Campaign, Visual Design. *Note: listing may be closed — verify before applying.*
 
 ---
 
