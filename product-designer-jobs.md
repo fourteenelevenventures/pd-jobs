@@ -5,6 +5,56 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 12, 2026 — (Scheduled Run #43)
+
+> Indeed API (8 queries) + Chrome-scraped LinkedIn (Bangalore/Hyderabad/Pune/Remote) + web searches across Naukri, Peerlist, Instahyre, company career pages. 10 new listings found (6 target company, 4 general).
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Senior UX Designer, Customer Engagement | Google | Hyderabad | On-site | — | — | [Apply](https://careers.google.com/jobs/results/?q=UX+Designer&location=Hyderabad%2C+India&employment_type=FULL_TIME) | Google Careers |
+| ⭐ Product Designer II | Adobe | Bengaluru East | On-site | — | — | [Apply](https://careers.adobe.com/us/en/c/design-jobs) | LinkedIn (Promoted) |
+| ⭐ Product Designer | Freshworks | Bengaluru | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-129872-product-designer-at-freshworks-bangalore/) | Instahyre |
+| ⭐ Lead Product Designer | Freshworks | Bengaluru | On-site | 3–7 yrs | — | [Apply](https://www.instahyre.com/job-187278-lead-product-designer-at-freshworks-bangalore/) | Instahyre |
+| ⭐ Lead Product Designer, Ecosystem Platform | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/jobs/15618?lang=en-us) | Atlassian Careers |
+| ⭐ Senior Product Designer, Ecosystem | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/20425?lang=en-us) | Atlassian Careers |
+
+- ⭐ **Google (Senior UX Designer, Customer Engagement)** — FAANG. This role is specifically in Google's Customer Engagement product area, based in Hyderabad. Appeared in LinkedIn Product Designer search for Hyderabad. High competition; strong portfolio + research skills required.
+- ⭐ **Adobe (Product Designer II)** — FAANG-tier creative software company. Product Designer II in Bengaluru East (distinct from the Noida listing captured in a previous run). Appeared as Promoted listing in LinkedIn Bangalore search. Mid-level IC role.
+- ⭐ **Freshworks (Product Designer)** — Indian SaaS unicorn (CRM, helpdesk, ITSM; Nasdaq-listed). Product Designer in Bengaluru, 2–6 yrs UX/Visual Design experience. Consumer-grade design for enterprise SaaS.
+- ⭐ **Freshworks (Lead Product Designer)** — Senior leadership IC role at Freshworks Bengaluru. 3–7 yrs experience; leads design strategy across product areas. Distinct from the PD II role above.
+- ⭐ **Atlassian (Lead PD, Ecosystem Platform, job 15618)** — Lead Product Designer for the Ecosystem Platform product area in Bengaluru. Distinct from the Ecosystem Platform Lead PD (job 19551) and Service Collection Lead PD (22024) already captured. Multiple open Lead PD positions in Bengaluru.
+- ⭐ **Atlassian (Senior PD, Ecosystem, job 20425)** — Senior Product Designer for Atlassian's Ecosystem in Bengaluru. Distinct from Senior PD Service Collection (22439) and Senior PD (22206) already in file. Atlassian is on a multi-role design hiring spree in Bengaluru.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Glean Technologies | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aas7yjnq2jlw) | Indeed |
+
+- **Glean Technologies** — Enterprise AI search and knowledge platform (US-headquartered, Bengaluru presence; well-funded Series E). Product Designer role in Bengaluru, posted Feb 24, 2026. Strong enterprise design environment; Glean builds AI-native search across company knowledge.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior UI/UX Designer | Athena | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aa6tgx2knwxd) | Indeed |
+| Graphic & UI/UX Designer | Teamworks Creative Solutions Pvt Ltd | Hyderabad | Permanent | — | — | [Apply](https://to.indeed.com/aayym7jxlksl) | Indeed |
+
+- **Athena** — Executive assistant and operations services company (US-based with India team). Senior UI/UX Designer in Hyderabad, posted March 26, 2026. Internal product/tooling design for a scaling services business.
+- **Teamworks Creative Solutions Pvt Ltd** — Creative services and solutions firm. Graphic & UI/UX Designer in Hyderabad, posted March 14, 2026. Hybrid graphic + digital design role.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Atticbits | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aarxg76vq6pz) | Indeed |
+
+- **Atticbits** — Product studio/tech company. UI/UX Designer fully remote, posted May 15, 2026. Verify scope and engagement model before applying.
+
+---
+
 ## 🗓 June 12, 2026 — (Scheduled Run #42 — Chrome-powered)
 
 > Indeed API (8 queries) + Chrome-scraped LinkedIn (Bangalore/Hyderabad/Pune/Remote, past 24h), Wellfound Bangalore & Hyderabad, and web searches. Cutshort skipped (requires login). hirist skipped (coding-focused, no design category). 27 new listings found.
