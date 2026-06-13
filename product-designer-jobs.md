@@ -15,10 +15,7 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 |---|---|---|---|---|---|---|---|
 | ⭐ Senior UX Designer, Customer Engagement | Google | Hyderabad | On-site | — | — | [Apply](https://careers.google.com/jobs/results/?q=UX+Designer&location=Hyderabad%2C+India&employment_type=FULL_TIME) | Google Careers |
 | ⭐ Product Designer II | Adobe | Bengaluru East | On-site | — | — | [Apply](https://careers.adobe.com/us/en/c/design-jobs) | LinkedIn (Promoted) |
-| ⭐ Product Designer | Freshworks | Bengaluru | On-site | 2–6 yrs | — | [Apply](https://www.instahyre.com/job-129872-product-designer-at-freshworks-bangalore/) | Instahyre |
-| ⭐ Lead Product Designer | Freshworks | Bengaluru | On-site | 3–7 yrs | — | [Apply](https://www.instahyre.com/job-187278-lead-product-designer-at-freshworks-bangalore/) | Instahyre |
 | ⭐ Lead Product Designer, Ecosystem Platform | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/jobs/15618?lang=en-us) | Atlassian Careers |
-| ⭐ Senior Product Designer, Ecosystem | Atlassian | Bengaluru | — | — | — | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/20425?lang=en-us) | Atlassian Careers |
 
 - ⭐ **Google (Senior UX Designer, Customer Engagement)** — FAANG. This role is specifically in Google's Customer Engagement product area, based in Hyderabad. Appeared in LinkedIn Product Designer search for Hyderabad. High competition; strong portfolio + research skills required.
 - ⭐ **Adobe (Product Designer II)** — FAANG-tier creative software company. Product Designer II in Bengaluru East (distinct from the Noida listing captured in a previous run). Appeared as Promoted listing in LinkedIn Bangalore search. Mid-level IC role.

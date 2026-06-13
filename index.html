@@ -604,7 +604,7 @@ function render() {
   if (sortedDates.length === 0) {
     // handled by emptyState div
   } else {
-    sortedDates.slice(0, 3).forEach((date, idx) => {
+    sortedDates.forEach((date, idx) => {
       const jobs = byDate[date].map(j => ({...j, _score: scoreJob(j)})).sort((a,b) => b._score - a._score);
       const isToday = date === latestDate;
       // Auto-open latest date (or all if search is active)
