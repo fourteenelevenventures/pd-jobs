@@ -5,6 +5,99 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 13, 2026 — (Scheduled Run #44)
+
+> Indeed API (8 queries) + Chrome-scraped LinkedIn (Bangalore/Hyderabad/Pune/Remote/India-remote) + Wellfound (Bangalore + Hyderabad) + web searches across Naukri, Peerlist, YC Jobs, Unstop, iimjobs, RemoteOK, Foundit. Target company searches: Meta, Amazon, Atlassian, Postman, Zepto, Upstox, and others. hirist URLs returned 404 (no design category). Instahyre required login. 31 new listings found (5 target company, 26 general).
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ UX Designer (Amazon Now) | Amazon | Bengaluru | On-site | — | — | [Apply](https://in.linkedin.com/jobs/view/ux-designer-amazon-now-at-amazon-4421122848) | LinkedIn |
+| ⭐ Product Designer | Meta | Bengaluru | On-site | 3–9 yrs | — | [Apply](https://in.linkedin.com/jobs/view/product-designer-at-meta-4263030002) | LinkedIn/Naukri |
+| ⭐ Senior Product Designer (Marketplace) | Atlassian | Bengaluru | — | 6+ yrs | — | [Apply](https://in.linkedin.com/jobs/view/senior-product-designer-marketplace-at-atlassian-3170327143) | LinkedIn |
+| ⭐ Product Designer | Postman | Bengaluru | On-site | — | — | [Apply](https://www.postman.com/company/careers/product-designer-6055256003/) | Postman Careers |
+| ⭐ Product Designer 2 / Web Designer 2 | Upstox | — | — | — | — | [Apply](https://peerlist.io/company/upstox/careers/product-designer-2-website--web-designer-2/jobh9olb9oqmggkpa1aj9romg6p8rn) | Peerlist |
+| ⭐ Founding Product Designer | Zepto | Bengaluru | On-site | 4.5+ yrs | — | [Apply](https://www.ycombinator.com/companies/zepto/jobs/fuc4yXC-founding-product-designer) | YC Jobs |
+
+- ⭐ **Amazon (UX Designer, Amazon Now)** — Amazon's quick-commerce product (10-minute delivery). UX Designer in Bengaluru, found in LinkedIn UI UX Designer Bangalore search. 10 connections at Amazon Bengaluru. FAANG-tier; strong research and systems design expected.
+- ⭐ **Meta (Product Designer)** — FAANG. Product Designer role in Bengaluru, 3–9 years experience. Appeared on both LinkedIn and Naukri. Focused on "shaping experiences in service of giving people the power to build community."
+- ⭐ **Atlassian (Senior PD, Marketplace)** — Senior Product Designer for Atlassian's Marketplace (third-party app ecosystem). Bengaluru-based, 6+ yrs exp, ideally with e-commerce/enterprise experience. Different from Service Collection (22439), Self-Help, and Ecosystem roles already tracked.
+- ⭐ **Postman (Product Designer)** — Direct link from Postman's official careers page. Different from Senior PD AI & Testing role (Run #41). General product design IC role in Bengaluru. Postman is the world's largest API platform.
+- ⭐ **Upstox (Product Designer 2 / Web Designer 2)** — Discount broking and trading platform (Series C, Tiger Global). Website/web design role focused on the marketing + acquisition surface. Found on Peerlist.
+- ⭐ **Zepto (Founding Product Designer)** — India's fastest-growing quick-commerce (10-min delivery, unicorn, YC W21). Founding PD = extremely high ownership, mobile-first design from scratch, 4.5+ yrs exp required. Different from the standard Product Designer role (Run #41) — this is a senior founding-team-adjacent role. Listed on YC Jobs.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior UX Designer | Optum | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aas2t2fs9pmn) | Indeed |
+| Product Design II | DigiCert | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aa8ybmxzw4nj) | Indeed |
+| Product Designer (Contract) | DigiCert | Bengaluru | Contract | — | — | [Apply](https://to.indeed.com/aagx8xt4l84f) | Indeed |
+| Product Designer | APNA | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aatz82djg8fg) | Indeed |
+| UI/UX Designer | Briskon Technologies | HBR Layout, Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aab6l6bx2vmk) | Indeed |
+| UI UX Designer | Ace Micromatic Intelligence | Bengaluru | Permanent | — | — | [Apply](https://to.indeed.com/aah2k879ld9p) | Indeed |
+| Product Designer | Alaan | Bengaluru | On-site | — | — | [Apply](https://in.linkedin.com/jobs/view/product-designer-at-alaan-4263030002) | LinkedIn |
+| Product Designer | ShopDeck | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Bangalore) | LinkedIn |
+| Product Designer | GoSats | Bengaluru | On-site | — | ₹1/yr (listing) | [Apply](https://www.workatastartup.com/companies/gosats) | LinkedIn/YC |
+| Product Designer | Laundryheap | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Bangalore) | LinkedIn |
+| Senior Product Designer | Eloelo | HSR Layout | On-site | 3 yrs | ₹20L–₹25L | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Senior Product Designer | Unosecur | Bengaluru | On-site | 6 yrs | ₹30L–₹40L | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Staff / Principal Product Designer, Consumer | Ethos | Bengaluru | — | — | — | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+
+- **Optum (Senior UX Designer)** — UnitedHealth Group's health services arm. Senior UX Designer in Bengaluru, posted June 9, 2026. Also has a UX Design Architect role in Hyderabad (see below). Enterprise healthcare UX at scale.
+- **DigiCert (Product Design II)** — Global digital trust/certificate authority (PKI, TLS). Product Design II (mid-level IC) in Bengaluru, posted June 1, 2026. Also has a contract PD role (May 27). Two active openings.
+- **APNA (Product Designer)** — India's leading blue-collar job platform (Series D, unicorn). Product Designer in Bengaluru, posted May 22, 2026. High-impact design work for India's workforce at scale.
+- **Briskon Technologies (UI/UX Designer)** — IT services company. Permanent UI/UX Designer in HBR Layout, Bengaluru, posted June 9, 2026.
+- **Ace Micromatic Intelligence** — Machine tools / industrial AI company. UI UX Designer in Bengaluru, posted June 4, 2026. Industrial/enterprise product design.
+- **Alaan (Product Designer)** — Corporate spend management platform (UAE-HQ, Bengaluru team). On-site, 3 weeks ago. B2B fintech product design.
+- **ShopDeck (Product Designer)** — D2C brand enablement platform. Product Designer in Bengaluru, 4 weeks ago. 2 connections work there.
+- **GoSats (Product Designer)** — Bitcoin rewards platform via everyday shopping (YC W22). Product Designer in Bengaluru, 1 month ago.
+- **Laundryheap (Product Designer)** — On-demand laundry and dry-cleaning service. Product Designer in Bengaluru, 1 week ago.
+- **Eloelo (Senior Product Designer)** — Creator-led social gaming & live streaming platform. Senior PD; ₹20L–₹25L; HSR Layout; 3 yrs exp; 1 week ago on Wellfound.
+- **Unosecur (Senior Product Designer)** — Cloud Identity Threat Detection & Response. Senior PD; ₹30L–₹40L; 6 yrs exp; 1 month ago. High salary for cybersecurity SaaS design.
+- **Ethos (Staff/Principal Product Designer, Consumer)** — US life insurance company with Bengaluru team. Staff/Principal-level IC role, 1 month ago. Most senior design IC title; consumer-facing insurance product.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Design Architect | Optum | Hyderabad | — | — | — | [Apply](https://to.indeed.com/aaznfrwpggyk) | Indeed |
+| UX/UI Designer (Offshore) | isolved | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aawvzqk792px) | Indeed |
+| UI/UX Designer | IDEYALABS LLP | Hyderabad | — | — | — | [Apply](https://to.indeed.com/aabqsth2lwlp) | Indeed |
+
+- **Optum (UX Design Architect)** — Senior-level UX architecture role. Posted June 12, 2026. Hyderabad. Optum is a GCC of UnitedHealth Group (Fortune 5). High-impact enterprise design with a healthcare focus.
+- **isolved (UX/UI Designer, Offshore)** — US HR/payroll SaaS company with India delivery team. UX/UI Designer (offshore model) in Hyderabad, posted June 3, 2026.
+- **IDEYALABS LLP** — IT solutions and services. UI/UX Designer in Hyderabad, posted June 3, 2026.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UI/UX) | Keywords Studios | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aagmqw4f7y9g) | Indeed |
+| UI/UX Designer | Tudip Technologies | Pune | Permanent | — | — | [Apply](https://to.indeed.com/aagsvq92xv4j) | Indeed |
+| UI/UX Designer | CloudMoyo | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aaw8c7hnynzc) | Indeed |
+
+- **Keywords Studios (Product Designer, UI/UX)** — Global video game services company. Product Designer (UI/UX) in Pune, posted April 28, 2026. Game/interactive product design.
+- **Tudip Technologies (UI/UX Designer)** — Software product engineering company. UI/UX Designer in Pune, posted June 1, 2026.
+- **CloudMoyo (UI/UX Designer)** — AI-first analytics and cloud company (Microsoft Gold Partner). UI/UX Designer in Pune, posted May 15, 2026. Data visualization and enterprise product design.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Ungrammary | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aanm78s6qxqb) | Indeed |
+| Figma Designer / UI-UX Designer | Codepillars | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aavh4dsdqhdw) | Indeed |
+| Product Designer | Marvin | India (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&f_WT=2&location=India) | LinkedIn |
+| Product Designer | Passionbits | India (Remote) | Remote | — | ₹400K–₹500K/yr | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Pune) | LinkedIn |
+
+- **Ungrammary** — Design agency and UX consultancy. UI/UX Designer fully remote, posted May 31, 2026. Agency design work across multiple client products.
+- **Codepillars** — Tech company. Figma Designer/UI-UX Designer remote, posted June 4, 2026.
+- **Marvin** — User research platform (US-based). Product Designer, India remote; 2 weeks ago. Design for a research tool used by design teams. 1 connection works there.
+- **Passionbits** — Product studio. Product Designer, India remote; 1 week ago; ₹400K–₹500K/yr. Low salary but remote-first.
+
+---
+
 ## 🔍 June 12, 2026 — (Scheduled Run #43)
 
 > Indeed API (8 queries) + Chrome-scraped LinkedIn (Bangalore/Hyderabad/Pune/Remote) + web searches across Naukri, Peerlist, Instahyre, company career pages. 10 new listings found (6 target company, 4 general).
