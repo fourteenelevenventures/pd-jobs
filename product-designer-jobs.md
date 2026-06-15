@@ -5,6 +5,60 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 15, 2026 — 09:43 AM IST (Scheduled Run #45)
+
+> Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + web searches across Naukri, Peerlist, YC Jobs, Wellfound, plus target-company searches (Razorpay, Swiggy/Zomato/Meesho, Freshworks/Zoho/Chargebee, PhonePe/Groww/CRED/Zerodha, Atlassian/Postman/Notion/Canva, Walmart Global Tech/Target/Amex). **Chrome scraping (LinkedIn, hirist, Wellfound, Cutshort, Instahyre) was skipped — no Claude in Chrome browser was connected at run time.** 12 new listings found (3 target company, 9 general). Most Indeed and target-company results were already tracked from prior runs.
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Staff Product Designer | Freshworks | Bengaluru | On-site | 8+ yrs | — | [Apply](https://www.themuse.com/jobs/freshworks/staff-product-design-e8de56) | TheMuse/Freshworks |
+| ⭐ Lead Visual Designer | PhonePe | Bengaluru | On-site | 5+ yrs | — | [Apply](https://job-boards.greenhouse.io/phonepe/jobs/6620563003) | Greenhouse/PhonePe |
+| ⭐ Product Designer II | Flipkart | Bengaluru | On-site | 3+ yrs | — | [Apply](https://peerlist.io/company/flipkart/careers/product-designer-ii/jobhp69kojrbbabdghmdrjjn9blbjj) | Peerlist |
+
+- ⭐ **Freshworks (Staff Product Designer)** — Indian SaaS unicorn (CRM, helpdesk, ITSM; Nasdaq-listed). Staff-level IC role in Bangalore — most senior design IC track, distinct from the PD and Lead PD roles already tracked. Drives design strategy across product areas.
+- ⭐ **PhonePe (Lead Visual Designer)** — India's largest UPI payments platform (500M+ users, Walmart Group). Lead Visual Designer in Bengaluru, 5+ yrs, listed on PhonePe's Greenhouse board. Brand/visual systems leadership role — distinct from the Product Designer role tracked earlier.
+- ⭐ **Flipkart (Product Designer II)** — India's largest e-commerce company (Walmart Group). Product Designer II (mid-level) in Bengaluru, listed on Peerlist. Distinct level from the general Product Designer role tracked earlier; design for hundreds of millions of users.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer — AI Products | HYCU Inc. | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aaclhzx6nqfp) | Indeed |
+| UX Design | UST | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aaqfm2y89mpm) | Indeed |
+| Product Designer | Wozku | Bengaluru | On-site | — | — | [Apply](https://peerlist.io/jobs/role/product-designer/india/bangalore) | Peerlist |
+| Senior UX Designer | GoDaddy | Bengaluru | On-site | 3+ yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india/bangalore) | Peerlist |
+| Sr. Product Designer | Roku | Bengaluru | Hybrid | 6+ yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india/bangalore) | Peerlist |
+| Product Designer | Prophecy | Bengaluru | Hybrid | 3–5 yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india) | Peerlist |
+| Lead Product Designer | Vahan | Bengaluru | On-site | — | — | [Apply](https://www.ycombinator.com/companies/vahan/jobs/n9teVwz-lead-product-designer) | YC Jobs |
+
+- **HYCU Inc. (UI/UX Designer — AI Products)** — SaaS data protection / backup-as-a-service company. UI/UX Designer focused on AI products in Bengaluru, posted June 11, 2026.
+- **UST (UX Design)** — Global digital transformation/IT services firm. UX Design role in Bengaluru, posted June 12, 2026.
+- **Wozku (Product Designer)** — Early-stage startup. Product Designer in Bengaluru, in-office, posted ~1 day ago (Peerlist).
+- **GoDaddy (Senior UX Designer)** — Domains/web hosting/SMB tools platform. Senior UX Designer in Bengaluru, in-office, 3+ yrs, ~18 days ago (Peerlist).
+- **Roku (Sr. Product Designer)** — Streaming TV/OTT platform. Senior Product Designer in Bengaluru, hybrid, 6+ yrs, ~22 days ago (Peerlist).
+- **Prophecy (Product Designer)** — Low-code data engineering / data pipelines platform. Product Designer in Bengaluru, hybrid, 3–5 yrs, ~23 days ago (Peerlist).
+- **Vahan (Lead Product Designer)** — YC-backed platform helping blue-/grey-collar workers discover and apply for jobs (AI recruiting). Lead Product Designer in Bengaluru, drives design from inception through execution.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Caps Delivery | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aanxhrsfnxfz) | Indeed |
+
+- **Caps Delivery (UI/UX Designer)** — Logistics/delivery tech company. Full-time UI/UX Designer in Hyderabad, posted June 2, 2026.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer Intern | BNC Global | Remote | Full-time | Intern | — | [Apply](https://to.indeed.com/aad9cc8gv6ds) | Indeed |
+
+- **BNC Global (UI/UX Designer Intern)** — Remote UI/UX Designer internship, posted June 11, 2026. Entry-level/intern opportunity.
+
+---
+
 ## 🔍 June 13, 2026 — (Scheduled Run #44)
 
 > Indeed API (8 queries) + Chrome-scraped LinkedIn (Bangalore/Hyderabad/Pune/Remote/India-remote) + Wellfound (Bangalore + Hyderabad) + web searches across Naukri, Peerlist, YC Jobs, Unstop, iimjobs, RemoteOK, Foundit. Target company searches: Meta, Amazon, Atlassian, Postman, Zepto, Upstox, and others. hirist URLs returned 404 (no design category). Instahyre required login. 31 new listings found (5 target company, 26 general).
