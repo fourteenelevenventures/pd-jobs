@@ -5,6 +5,122 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 16, 2026 — 11:08 AM IST (Scheduled Run #46)
+
+> Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + Chrome scraping (LinkedIn Bangalore/Hyderabad/Pune/India-remote/UI-UX, Wellfound Bangalore + Hyderabad, Cutshort, Instahyre, hirist) + web searches across Naukri, Peerlist, YC Jobs, Wellfound, Foundit, Unstop, plus target-company searches (Razorpay/CRED/Groww/PhonePe, Swiggy/Zepto/Meesho/Flipkart/Myntra, Atlassian/Postman/Notion/Canva/Figma, Microsoft/Google/Adobe/Salesforce/Walmart, Freshworks/Zoho/Chargebee/BrowserStack). **Claude in Chrome was connected this run.** hirist returned 404 (no design category), Instahyre required login, Cutshort returned no server-rendered listings. **34 new listings found (5 target company, 29 general).** Most Indeed and target-company results were already tracked from prior runs.
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Product Designer I | Razorpay | Bengaluru | On-site | — | — | [Apply](https://builtin.com/job/product-designer-i/6345265) | Built In |
+| ⭐ Product Designer | Swiggy | Bengaluru | On-site | — | — | [Apply](https://unstop.com/jobs/product-designer-swiggy-1310234) | Unstop |
+| ⭐ Product Designer II | Meesho | Bengaluru | On-site | 2+ yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india/bangalore) | Peerlist |
+| ⭐ Product Designer | Microsoft | Pan India | — | — | — | [Apply](https://unstop.com/jobs/product-designer-microsoft-1253123) | Unstop |
+| ⭐ Product Designer II / Web Designer | Adobe | Bengaluru East | On-site | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Bangalore) | LinkedIn |
+
+- ⭐ **Razorpay (Product Designer I)** — India's leading payments/fintech platform. Junior IC product design role in Bengaluru, listed on Built In. Distinct level from the senior roles tracked earlier.
+- ⭐ **Swiggy (Product Designer)** — India's largest food + quick-commerce platform. Product Designer in Bengaluru, listed on Unstop.
+- ⭐ **Meesho (Product Designer II)** — Social commerce unicorn. Mid-level Product Designer II in Bengaluru, 2+ yrs, listed on Peerlist.
+- ⭐ **Microsoft (Product Designer)** — FAANG-tier. Product Designer role listed Pan India on Unstop; distinct from Bengaluru-specific roles tracked earlier.
+- ⭐ **Adobe (Product Designer II)** — Creative software leader. Product Designer II in Bengaluru East, surfaced again via LinkedIn Bangalore search.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior Product Designer II | Sitetracker | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aas7c9bmfm86) | Indeed |
+| UI/UX Designer | Drongo AI | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aag72rl7l2cv) | Indeed |
+| UI/UX Designer | Tailwebs Technology | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aam77gn4jz8g) | Indeed |
+| UX Designer | 3M | Bengaluru | On-site | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=UI%20UX%20Designer&location=Bangalore) | LinkedIn |
+| UI Designer (Fintech) | Winbold Capital Platforms | Bengaluru | Remote | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=UI%20UX%20Designer&location=Bangalore) | LinkedIn |
+| Product Designer | Bureau | Bengaluru | — | — | — | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Product Designer | Maxim AI | Bengaluru | In office | 1 yr | — | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Product Designer | Scalio | Bengaluru | In office | 1 yr | ₹15L–₹25L | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| UX Designer | Techorigins | Bengaluru | Onsite/Remote | 2 yrs | ₹4L–₹5L | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Jr Product Designer | WisdomCircle | Bengaluru | In office | 0 yrs | — | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Senior Product Designer | Diligent | Bengaluru | Hybrid | 6+ yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india/bangalore) | Peerlist |
+| Senior Product Designer | Kong | Bengaluru | Hybrid | 4+ yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india/bangalore) | Peerlist |
+| Product Designer | BusinessOnBot | Bengaluru | On-site | 2+ yrs | — | [Apply](https://www.ycombinator.com/companies/businessonbot/jobs/KlVzzvm-product-designer) | YC Jobs |
+| Senior Product Designer | Peoplebox | Bengaluru | On-site | 6+ yrs | — | [Apply](https://www.ycombinator.com/companies/peoplebox/jobs/uZu8Q2a-senior-product-designer) | YC Jobs |
+| UX Designer | Coulomb AI | Bengaluru | On-site | — | — | [Apply](https://www.ycombinator.com/companies/coulomb-ai/jobs/Qtbm3xO-ux-designer) | YC Jobs |
+| Product Designer | Omnify | Bengaluru | — | — | — | [Apply](https://unstop.com/jobs/product-designer-omnify-942330) | Unstop |
+| Product Designer Internship | Truecaller | Bengaluru | Internship | Intern | — | [Apply](https://unstop.com/internships/product-designer-internship-truecaller-1635896) | Unstop |
+
+- **Sitetracker (Senior Product Designer II)** — SaaS deployment/asset management platform. Senior IC role in Bengaluru (Indeed).
+- **Drongo AI (UI/UX Designer)** — Early-stage AI startup. Full-time UI/UX Designer in Bengaluru, posted June 13, 2026.
+- **Tailwebs Technology (UI/UX Designer)** — Product/IT services company. Full-time UI/UX Designer in Bengaluru, posted June 3, 2026.
+- **3M (UX Designer)** — Global industrial/consumer conglomerate. On-site UX Designer in Bengaluru (LinkedIn).
+- **Winbold Capital Platforms (UI Designer)** — Investing/fintech application. Remote UI Designer based in Bengaluru (LinkedIn).
+- **Bureau (Product Designer)** — Full-stack identity/fraud-prevention platform (B2B). Product Designer in Bengaluru (Wellfound).
+- **Maxim AI (Product Designer)** — Developer platform for GenAI apps. Product Designer in Bengaluru, 1 yr (Wellfound).
+- **Scalio (Product Designer)** — AI marketing companion startup. Product Designer in Bengaluru, ₹15L–₹25L (Wellfound).
+- **Techorigins (UX Designer)** — Digital agency building AI/web/mobile products. UX Designer, onsite or remote, ₹4L–₹5L (Wellfound).
+- **WisdomCircle (Jr Product Designer)** — Marketplace for retirees. Entry-level Product Designer in Bengaluru (Wellfound).
+- **Diligent (Senior Product Designer)** — GRC/governance SaaS. Senior PD in Bengaluru, hybrid, 6+ yrs (Peerlist).
+- **Kong (Senior Product Designer)** — API gateway/connectivity platform. Senior PD in Bengaluru, hybrid, 4+ yrs (Peerlist).
+- **BusinessOnBot (Product Designer)** — YC-backed D2C automation/commerce startup. Hands-on PD in Bengaluru, 2+ yrs, design-systems experience (YC).
+- **Peoplebox (Senior Product Designer)** — OKR/performance management SaaS. Senior PD in Bangalore, 6+ yrs (YC).
+- **Coulomb AI (UX Designer)** — SF-HQ AI company with Bangalore R&D center. UX/Product Designer in Bangalore (YC).
+- **Omnify (Product Designer)** — Scheduling/booking SaaS. Product Designer in Bangalore (Unstop).
+- **Truecaller (Product Designer Internship)** — Caller-ID/communications platform. Product Designer intern in Bengaluru (Unstop).
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Product Designer | Bild | Hyderabad / Remote | Remote | 2–4 yrs | — | [Apply](https://peerlist.io/company/getbild/careers/uiux-product-designer/jobhkknqrja7bo7grhlqbmjdplqpak) | Peerlist |
+| Product Designer | Keka HR | Hyderabad | On-site | 2–5 yrs | — | [Apply](https://peerlist.io/company/keka124/careers/product-designer/jobh7bjjkloen8pobir8edgdo9889k) | Peerlist |
+| Product Designer | Highspot | Hyderabad | On-site | 5+ yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india) | Peerlist |
+
+- **Bild (UI/UX Product Designer)** — Construction-tech SaaS. UI/UX Product Designer, Hyderabad or remote, 2–4 yrs (Peerlist).
+- **Keka HR (Product Designer)** — HR/payroll SaaS (Hyderabad-HQ). Product Designer, on-site, 2–5 yrs (Peerlist).
+- **Highspot (Product Designer)** — Sales enablement platform. Product Designer in Hyderabad, 5+ yrs (Peerlist).
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI UX Designer | AIT Global India | Pune | Full-time | — | — | [Apply](https://to.indeed.com/aavflps96jj4) | Indeed |
+| Product Designer | Data Axle Solution India | Pune | — | — | — | [Apply](https://unstop.com/jobs/product-designer-data-axle-solution-india-1476250) | Unstop |
+| Product Designer Internship | Amber | Pune | Internship | Intern | — | [Apply](https://unstop.com/internships/product-designer-internship-amber-874260) | Unstop |
+
+- **AIT Global India (UI UX Designer)** — IT services/consulting firm. Full-time UI UX Designer in Pune (Indeed).
+- **Data Axle Solution India (Product Designer)** — Data/marketing solutions company. Product Designer in Pune (Unstop).
+- **Amber (Product Designer Internship)** — Student housing platform. Product Designer intern in Pune (Unstop).
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer | Passionbits | Remote (India) | Full-time | — | ₹4L–₹5L | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=India) | LinkedIn |
+| UI/UX Designer (AI-Native Healthcare SaaS) | Zenara Health | Remote (India) | Full-time | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=India) | LinkedIn |
+| UI/UX Designer | Bybit | Remote (APAC) | Full-time | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Bangalore) | LinkedIn |
+| UI/UX Designer | YO IT Consulting | Remote (South Asia) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=UI%20UX%20Designer&location=Bangalore) | LinkedIn |
+| UI/UX Designer | Upgrowth | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aapdtxmlklz2) | Indeed |
+| UI & UX Designer | A-Z for Remote jobs | Remote | Contract | — | — | [Apply](https://to.indeed.com/aavnk62khfrm) | Indeed |
+| Product Designer | HackerRank | Remote (India) | Full-time | — | — | [Apply](https://www.ycombinator.com/companies/hackerrank/jobs/HZMncsR-product-designer) | YC Jobs |
+| Product Designer | SuperKalam | Remote (India) | Full-time | 2–3 yrs | ₹14L–₹18L | [Apply](https://www.ycombinator.com/companies/superkalam/jobs/gvVQ5BQ-product-designer-2-3yrs-experience) | YC Jobs |
+| Product Designer | Dashworks | Remote (India) | Remote | — | — | [Apply](https://peerlist.io/jobs/role/product-designer/india) | Peerlist |
+| Product Designer | Leegality | Remote (India) | Remote | — | — | [Apply](https://peerlist.io/company/leegality/careers/product-designer/jobh6ajold6olag68i9aknkorqed6a) | Peerlist |
+| Senior Product Designer | Koyfin | Remote | Remote | 4–8 yrs | — | [Apply](https://peerlist.io/jobs/role/product-designer/india) | Peerlist |
+| Product Designer 1 | Clinikally | Gurugram | On-site | 1–2 yrs | ₹9L–₹13L | [Apply](https://www.ycombinator.com/companies/clinikally/jobs/95pw0YY-product-designer-1) | YC Jobs |
+
+- **Passionbits (Product Designer)** — Creator/content platform. Remote Product Designer (India), ₹4L–₹5L, posted ~2 weeks ago (LinkedIn).
+- **Zenara Health (UI/UX Designer)** — AI-native healthcare SaaS. Remote UI/UX Designer (India) (LinkedIn).
+- **Bybit (UI/UX Designer)** — Crypto exchange. Remote UI/UX Designer (APAC), actively reviewing applicants (LinkedIn).
+- **YO IT Consulting (UI/UX Designer)** — IT consulting. Remote UI/UX Designer (South Asia) (LinkedIn).
+- **Upgrowth (UI/UX Designer)** — Growth/product studio. Remote UI/UX Designer (Indeed).
+- **A-Z for Remote jobs (UI & UX Designer)** — Remote contract UI/UX role (Indeed).
+- **HackerRank (Product Designer)** — Developer skills/assessment platform. Remote PD in India (YC).
+- **SuperKalam (Product Designer)** — AI-powered exam-prep startup. Remote PD (India), 2–3 yrs, 14–18 LPA; also hiring a Lead PD (YC).
+- **Dashworks (Product Designer)** — AI knowledge-assistant for work. Remote PD (India) (Peerlist).
+- **Leegality (Product Designer)** — Digital documentation/e-sign platform. Remote PD (India) (Peerlist).
+- **Koyfin (Senior Product Designer)** — Financial-data/analytics platform. Remote Senior PD, 4–8 yrs (Peerlist).
+- **Clinikally (Product Designer 1)** — Digital dermatology/healthcare startup (YC). PD in Gurugram, 1–2 yrs, ₹9L–₹13L (YC).
+
+---
+
 ## 🔍 June 15, 2026 — 09:43 AM IST (Scheduled Run #45)
 
 > Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + web searches across Naukri, Peerlist, YC Jobs, Wellfound, plus target-company searches (Razorpay, Swiggy/Zomato/Meesho, Freshworks/Zoho/Chargebee, PhonePe/Groww/CRED/Zerodha, Atlassian/Postman/Notion/Canva, Walmart Global Tech/Target/Amex). **Chrome scraping (LinkedIn, hirist, Wellfound, Cutshort, Instahyre) was skipped — no Claude in Chrome browser was connected at run time.** 12 new listings found (3 target company, 9 general). Most Indeed and target-company results were already tracked from prior runs.
