@@ -5,6 +5,78 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 17, 2026 — 09:01 AM IST (Scheduled Run #47)
+
+> Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + Chrome scraping (LinkedIn Bangalore/Hyderabad/Pune/India-remote/UI-UX, Wellfound Bangalore + Hyderabad, Cutshort, Instahyre, hirist) + web searches across Naukri, Peerlist, YC Jobs, Unstop, Foundit, RemoteOK, plus target-company searches (Atlassian, Razorpay/CRED/Groww, Swiggy/Zomato/Meesho/Flipkart, Freshworks/Zoho/Chargebee/BrowserStack, Microsoft/Google/Adobe, Walmart Global Tech/Target/Amex). **Claude in Chrome was connected this run.** hirist returned 404 (no design category), Instahyre required login, Cutshort returned no server-rendered listings. **17 new listings found (3 target company, 14 general).** Most Indeed, Atlassian, Razorpay and target-company results were already tracked from prior runs.
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Product Designer, Adobe Express | Adobe | Bengaluru | On-site | — | — | [Apply](https://careers.adobe.com/us/en/job/R163730/Product-Designer-Adobe-Express) | Adobe Careers |
+| ⭐ Senior Product Designer | BrowserStack | Remote (India) | Remote | — | — | [Apply](https://www.browserstack.com/careers) | BrowserStack/LinkedIn |
+| ⭐ Product Designer | Microsoft | Hyderabad | — | — | — | [Apply](https://unstop.com/jobs/product-designer-microsoft-1501014) | Unstop |
+
+- ⭐ **Adobe (Product Designer, Adobe Express)** — Creative software leader. Product Designer specifically for Adobe Express in Bengaluru, direct from Adobe's careers portal. Distinct product area from the Product Designer II (Bengaluru East) role tracked earlier.
+- ⭐ **BrowserStack (Senior Product Designer)** — Indian dev-tools unicorn (cross-browser/device testing). Remote India Senior PD, posted ~12 days ago; defines product goals, builds wireframes/UI mockups/prototypes.
+- ⭐ **Microsoft (Product Designer)** — FAANG-tier. Product Designer role in Hyderabad (Unstop), distinct from the Bengaluru Teams and Pan-India roles tracked earlier.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Designer (UI/UX) | Infineon Technologies | Bengaluru East | On-site | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=UI%20UX%20Designer&location=Bangalore) | LinkedIn |
+| Lead Product Designer | Nexera | Bengaluru | In office | 1+ yr | ₹12L–₹16L | [Apply](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+| Product Designer | Juspay | Bengaluru | On-site | — | — | [Apply](https://unstop.com/jobs/product-designer-juspay-684455) | Unstop |
+| Product Designer | Zenlegal Technology | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aagxzbdy8jk9) | Indeed |
+| UI/UX Designer (Associate) | Bosch | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aaqj6rzbms7j) | Indeed |
+| UI/UX Designer | Sentient Developers | Bengaluru (HSR) | Full-time | — | — | [Apply](https://to.indeed.com/aaq9cx6b7zgt) | Indeed |
+| UI/UX Designer | BiCSoM Technologies | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aa6spp4lbt87) | Indeed |
+| UI/UX Designer | Nexia Digital | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aaysn42yzlzt) | Indeed |
+
+- **Infineon Technologies (Product Designer, UI/UX)** — Global semiconductor leader. On-site Product Designer (UI/UX) in Bengaluru East (LinkedIn).
+- **Nexera (Lead Product Designer)** — "Answer engine for professional traders" (early-stage fintech). Lead PD in Bengaluru, 1+ yr, ₹12L–₹16L + equity (Wellfound).
+- **Juspay (Product Designer)** — Payments orchestration / fintech infrastructure company. Product Designer in Bengaluru (Unstop).
+- **Zenlegal Technology (Product Designer)** — Legal-tech startup. Product Designer in Bengaluru, posted April 13, 2026 (Indeed).
+- **Bosch (UI/UX Designer, Associate)** — Global engineering/technology conglomerate. Associate UI/UX Designer in Bengaluru, posted May 8, 2026 (Indeed).
+- **Sentient Developers (UI/UX Designer)** — Software/product company. Full-time UI/UX Designer in HSR Layout, Bengaluru, posted June 2, 2026 (Indeed).
+- **BiCSoM Technologies (UI/UX Designer)** — Tech product company. Full-time UI/UX Designer in Bengaluru (Indeed).
+- **Nexia Digital (UI/UX Designer)** — Digital services agency. Full-time UI/UX Designer in Bengaluru (Indeed).
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Product Design Internship | Highspot | Hyderabad | Internship | Intern | — | [Apply](https://unstop.com/internships/product-design-internship-highspot-1286220) | Unstop |
+
+- **Highspot (Product Design Internship)** — Sales enablement platform. Product Design intern in Hyderabad (Unstop); distinct from the senior Highspot PD role tracked earlier.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Designer | GrowthArc Technologies | Pune / Bangalore / Hyderabad | — | 10–15 yrs | — | [Apply](https://www.naukri.com/job-listings-ux-designer-growtharc-technologies-hyderabad-pune-bengaluru-10-to-15-years-060925007453) | Naukri |
+
+- **GrowthArc Technologies (UX Designer)** — Tech services/product firm. Senior UX Designer role spanning Pune, Bangalore, and Hyderabad, 10–15 yrs experience (Naukri).
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI Designer | Bitget Wallet | APAC (Remote) | Remote | — | — | [Apply](https://www.linkedin.com/jobs/search/?keywords=UI%20UX%20Designer&location=Bangalore) | LinkedIn |
+| Visual Product Designer | Pylon | Remote (India) | Remote | — | — | [Apply](https://www.ycombinator.com/companies/pylon-2/jobs/pHQn2lj-visual-product-designer) | YC Jobs |
+| Product Designer | Hadrius | Remote (India) | Remote | — | — | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-product-designer) | YC Jobs |
+| Product Designer | OpenRouter | Remote | Remote | — | — | [Apply](https://remoteok.com/remote-jobs/remote-product-designer-openrouter-1130894) | RemoteOK |
+| Product Designer | Ahrefs | Remote | Remote | — | — | [Apply](https://remoteok.com/remote-jobs/remote-product-designer-ahrefs-1129366) | RemoteOK |
+
+- **Bitget Wallet (UI Designer)** — Web3/crypto wallet platform. Remote UI Designer (APAC) (LinkedIn).
+- **Pylon (Visual Product Designer)** — YC-backed B2B customer-support platform. Visual Product Designer, remote India (YC).
+- **Hadrius (Product Designer)** — YC-backed compliance-automation startup. Product Designer, remote India (YC).
+- **OpenRouter (Product Designer)** — Unified API marketplace for LLMs. Remote Product Designer; global/remote, India-eligible (RemoteOK).
+- **Ahrefs (Product Designer)** — SEO/marketing toolset company. Remote Product Designer; global/remote, India-eligible (RemoteOK).
+
+---
+
 ## 🔍 June 16, 2026 — 11:08 AM IST (Scheduled Run #46)
 
 > Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + Chrome scraping (LinkedIn Bangalore/Hyderabad/Pune/India-remote/UI-UX, Wellfound Bangalore + Hyderabad, Cutshort, Instahyre, hirist) + web searches across Naukri, Peerlist, YC Jobs, Wellfound, Foundit, Unstop, plus target-company searches (Razorpay/CRED/Groww/PhonePe, Swiggy/Zepto/Meesho/Flipkart/Myntra, Atlassian/Postman/Notion/Canva/Figma, Microsoft/Google/Adobe/Salesforce/Walmart, Freshworks/Zoho/Chargebee/BrowserStack). **Claude in Chrome was connected this run.** hirist returned 404 (no design category), Instahyre required login, Cutshort returned no server-rendered listings. **34 new listings found (5 target company, 29 general).** Most Indeed and target-company results were already tracked from prior runs.
