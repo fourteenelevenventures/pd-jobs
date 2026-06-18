@@ -5,6 +5,84 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 18, 2026 — 09:50 AM IST (Scheduled Run #48)
+
+> Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + web searches across Naukri, iimjobs, Peerlist, Wellfound, YC Jobs, plus target-company searches (Whatfix, CRED/Groww/PhonePe, Atlassian/Postman/Notion, Freshworks/Zoho/CleverTap/MoEngage). **⚠️ Claude in Chrome was NOT connected this run — STEP 2 (LinkedIn / hirist / Wellfound / Cutshort / Instahyre browser scraping) was skipped.** Most Indeed, Atlassian, PhonePe, and YC results were already tracked from prior runs. **21 new listings found (2 target company, 19 general).**
+
+### ⭐ Target Companies — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| ⭐ Product Designer | Whatfix | Bengaluru | On-site | 3–8 yrs | — | [Apply](https://www.iimjobs.com/j/whatfix-product-designer-3-8-yrs-1361185) | iimjobs |
+| ⭐ Enterprise Product Designer | Whatfix | Bengaluru | On-site | 4–9 yrs | — | [Apply](https://www.naukri.com/job-listings-enterprise-product-designer-whatfix-bengaluru-4-to-9-years-150525501745) | Naukri |
+
+- ⭐ **Whatfix (Product Designer)** — Bengaluru-HQ B2B SaaS leader; largest pure-play enterprise Digital Adoption Platform (DAP), 700+ enterprise customers incl. 85+ Fortune 500. Product Designer, 3–8 yrs; going AI-native across the platform (iimjobs).
+- ⭐ **Whatfix (Enterprise Product Designer)** — Same company, more senior IC track. Enterprise Product Designer in Bengaluru, 4–9 yrs (Naukri). Strong B2B/enterprise design environment.
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| Senior UI/UX Designer (Contract) | SWARNA SQUARE | Bengaluru (HSR) | Part-time/Contract | — | — | [Apply](https://to.indeed.com/aaq9t8ps9yqv) | Indeed |
+| UX Designer | Techasoft | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aawbvcbr7jxm) | Indeed |
+| UX/UI Designer | Instavans Logistics | Bengaluru | Full-time | — | — | [Apply](https://to.indeed.com/aaqcdpv6qtt8) | Indeed |
+| XR Interaction Designer | Embright Infotech | Bengaluru | — | — | — | [Apply](https://to.indeed.com/aa4yvkb7ll4q) | Indeed |
+| UI/UX Designer | Webomindapps | Bengaluru (Koramangala) | — | — | — | [Apply](https://to.indeed.com/aathnblq7mzb) | Indeed |
+| UI/UX Designer Intern | Xogar Games | Bengaluru | Internship | Intern | — | [Apply](https://to.indeed.com/aafpwbmngy84) | Indeed |
+
+- **SWARNA SQUARE** — IT services firm. Senior UI/UX Designer on a part-time/contract basis in HSR Layout, posted June 15, 2026.
+- **Techasoft** — IT services/product company. UX Designer in Bengaluru, posted Feb 26, 2026.
+- **Instavans Logistics** — Logistics-tech platform. UX/UI Designer in Bengaluru, posted Feb 26, 2026.
+- **Embright Infotech** — Tech/XR company. XR Interaction Designer (AR/VR-focused) in Bengaluru, posted Feb 27, 2026.
+- **Webomindapps** — Software/app development company. UI/UX Designer in Koramangala, Bengaluru, posted April 14, 2026.
+- **Xogar Games** — Gaming studio. UI/UX Designer intern in Bengaluru, posted Feb 27, 2026.
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UX Design Intern | Techolution | Hyderabad | Internship | Intern | — | [Apply](https://to.indeed.com/aam9zb446cgz) | Indeed |
+| Mobile App UI/UX Designer | Jobskey | Hyderabad | Full-time | — | — | [Apply](https://to.indeed.com/aagmpmzd2ksk) | Indeed |
+
+- **Techolution** — AI/product engineering company. UX Design intern in Hyderabad, posted Feb 27, 2026.
+- **Jobskey** — Recruitment/staffing agency. Mobile App UI/UX Designer in Hyderabad, posted May 19, 2026 — verify end client before applying.
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | Wai Technologies | Pune | — | — | — | [Apply](https://to.indeed.com/aa7z4lq7cywl) | Indeed |
+
+- **Wai Technologies** — Software development company. UI/UX Designer in Pune, posted Feb 27, 2026.
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Experience | Salary | Link | Source |
+|---|---|---|---|---|---|---|---|
+| UI/UX Designer | NotHuman.ai | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aa2vzryvqw4x) | Indeed |
+| UI/UX Designer | Capital Numbers Infotech | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aabj98mlmcrg) | Indeed |
+| UI/UX Designer | Vrhunec IT | Remote | Full-time | — | — | [Apply](https://to.indeed.com/aagfpnscv8rt) | Indeed |
+| Product Designer | OLA | India | On-site | 2–5 yrs | — | [Apply](https://www.iimjobs.com/j/ola-product-designer-2-5-yrs-979627) | iimjobs |
+| Lead Product Designer | Dezerv | India | — | 5–10 yrs | — | [Apply](https://www.iimjobs.com/j/dezerv-lead-product-designer-5-10-yrs-1548632) | iimjobs |
+| Senior Product Designer (Founding Team) | Reo.Dev | India | — | Senior | — | [Apply](https://www.iimjobs.com/j/reo-dev-senior-product-designer-founding-team-1567707) | iimjobs |
+| Product Designer, Enterprise SaaS | Concentrix | Chennai | — | 3–15 yrs | — | [Apply](https://www.iimjobs.com/j/concentrix-product-designer-enterprise-saas-3-15-yrs-919055.html) | iimjobs |
+| Product Designer | Mergenomics | India | — | 2–4 yrs | — | [Apply](https://www.iimjobs.com/j/mergenomics-product-designer-1641868) | iimjobs |
+| Founding Product Designer | Parrot | Remote (India) | Remote | — | — | [Apply](https://www.ycombinator.com/companies/parrot/jobs/DCavRV9-founding-product-designer) | YC Jobs |
+| Founding Product Designer | arnata | Remote (India) | Remote | — | — | [Apply](https://www.ycombinator.com/companies/arnata/jobs/WHv3neF-founding-product-designer) | YC Jobs |
+
+- **NotHuman.ai** — AI startup. Remote UI/UX Designer, posted April 18, 2026.
+- **Capital Numbers Infotech** — Digital services/dev company. Remote UI/UX Designer, posted Feb 26, 2026.
+- **Vrhunec IT** — IT services company. Remote UI/UX Designer, posted June 15, 2026.
+- **OLA** — Indian mobility/ride-hailing major. Product Designer co-owning customer-facing product experiences, 2–5 yrs (iimjobs).
+- **Dezerv** — Wealth-management fintech startup. Lead Product Designer, 5–10 yrs (iimjobs).
+- **Reo.Dev** — Developer-intent / GTM data startup. Senior Product Designer on the founding team — high ownership (iimjobs).
+- **Concentrix** — Global CX/technology services company. Product Designer for Enterprise SaaS in Chennai, 3–15 yrs (iimjobs). Note: Chennai, outside core tracked metros.
+- **Mergenomics** — B2B SaaS/enterprise product company. Product Designer, 2–4 yrs (iimjobs).
+- **Parrot** — YC-backed startup. Founding Product Designer, remote India (YC).
+- **arnata** — YC-backed startup. Founding Product Designer, remote India (YC).
+
+---
+
 ## 🔍 June 17, 2026 — 09:01 AM IST (Scheduled Run #47)
 
 > Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + Chrome scraping (LinkedIn Bangalore/Hyderabad/Pune/India-remote/UI-UX, Wellfound Bangalore + Hyderabad, Cutshort, Instahyre, hirist) + web searches across Naukri, Peerlist, YC Jobs, Unstop, Foundit, RemoteOK, plus target-company searches (Atlassian, Razorpay/CRED/Groww, Swiggy/Zomato/Meesho/Flipkart, Freshworks/Zoho/Chargebee/BrowserStack, Microsoft/Google/Adobe, Walmart Global Tech/Target/Amex). **Claude in Chrome was connected this run.** hirist returned 404 (no design category), Instahyre required login, Cutshort returned no server-rendered listings. **17 new listings found (3 target company, 14 general).** Most Indeed, Atlassian, Razorpay and target-company results were already tracked from prior runs.
