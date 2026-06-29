@@ -5,6 +5,75 @@ Sources: LinkedIn, Indeed, Naukri, Glassdoor, Wellfound, Instahyre, Cutshort, We
 
 ---
 
+## 🔍 June 29, 2026 — 10:48 AM IST (Scheduled Run #49)
+
+> Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + Claude in Chrome scraping of LinkedIn (Hyderabad/Bangalore/Pune/Remote-India/UI-UX-Bangalore) and Wellfound (Bangalore/Hyderabad) + web searches across Naukri, foundit, iimjobs, Peerlist, YC Jobs, plus target-company searches (Razorpay/PhonePe/Groww/CRED/Zerodha, Swiggy/Zomato/Meesho/Flipkart/Myntra, Freshworks/Zoho/Chargebee/BrowserStack/Postman, Atlassian/Microsoft/Adobe/Google/Salesforce, Walmart/Target/Amex/PayPal/Visa). **✅ Claude in Chrome connected (Browser 1 auto-selected — autonomous run, no user to prompt).** Notes: hirist.tech/jobs/product-designer returned 404; Cutshort and Instahyre were client-rendered / login-gated (no extractable listings). All target companies surfaced (Adobe, Microsoft, Flipkart, Amazon, PhonePe, Freshworks, Dream11, Intuit) were already tracked from prior runs — **0 new target-company listings, 43 new general listings.**
+
+### Bengaluru — New Listings
+
+| Job Title | Company | Location | Work Type | Posted | Link | Source |
+|---|---|---|---|---|---|---|
+| Senior UI UX Designer | Tarento Group | Bengaluru | Full-time | Jun 24, 2026 | [Apply](https://to.indeed.com/aasksnzbw44v) | Indeed |
+| UX Designer 3 | Amadeus | Bengaluru | Full-time | Jun 24, 2026 | [Apply](https://to.indeed.com/aa9mxnhx6bq7) | Indeed |
+| Product Designer | Accenture | Bengaluru | Full-time | Apr 08, 2026 | [Apply](https://to.indeed.com/aa8khb9hwzbh) | Indeed |
+| Design Lead - Product Design, DFMA | HCLTech | Bengaluru | — | Jun 24, 2026 | [Apply](https://to.indeed.com/aajrll7lwsb7) | Indeed |
+| UI/UX Designer | leadrat | Bengaluru (HSR) | Full-time | Mar 10, 2026 | [Apply](https://to.indeed.com/aa69nznwqn87) | Indeed |
+| UI/UX Designer | Skysecure Technologies | Bengaluru | Permanent | Apr 16, 2026 | [Apply](https://to.indeed.com/aan4f4wxcnlz) | Indeed |
+| UI/UX Designer | HBox | Bengaluru | Contract | Jun 23, 2026 | [Apply](https://to.indeed.com/aawcw8j8ssms) | Indeed |
+| UX/UI Designer | Basik Marketing | Bengaluru | — | Apr 02, 2026 | [Apply](https://to.indeed.com/aanz9qz472bw) | Indeed |
+| Senior UI/UX Designer | Smart Food Safe | Bengaluru | Permanent | Jun 12, 2026 | [Apply](https://to.indeed.com/aaqwngbqmhym) | Indeed |
+| Sr Product Designer | Hinge Health | Bengaluru (Hybrid) | Full-time | — | [View](https://wellfound.com/role/l/product-designer/india) | Wellfound/web |
+| Senior AI Product Designer | Karbon Business | Bengaluru | Full-time | — | [View](https://wellfound.com/role/l/product-designer/india) | Wellfound/web |
+| Senior Product Designer | ZAGENO | Bengaluru (Hybrid) | Full-time | — | [View](https://wellfound.com/role/l/product-designer/india) | Wellfound/web |
+| Sr Product Designer | PlexTrac | Bengaluru (Remote) | Full-time | — | [View](https://wellfound.com/role/l/product-designer/india) | Wellfound/web |
+
+### Hyderabad — New Listings
+
+| Job Title | Company | Location | Work Type | Posted | Link | Source |
+|---|---|---|---|---|---|---|
+| UI/UX Product Designer | A Blocks Nexus | Hyderabad | Full-time | Jun 26, 2026 | [Apply](https://to.indeed.com/aa2bvwmk42bj) | Indeed |
+| Product Designer | Seismic | Hyderabad | Full-time | Mar 05, 2026 | [Apply](https://to.indeed.com/aag8srzxy64r) | Indeed |
+| UI-UX Designer | Tekfriday | Golconda, Hyderabad | Full-time | Apr 22, 2026 | [Apply](https://to.indeed.com/aajlysygqfyd) | Indeed |
+| Product Designer - UIUX | Softobiz Technologies | Hyderabad | Full-time | May 25, 2026 | [Apply](https://to.indeed.com/aafnkrwsd9yl) | Indeed |
+| Sr. UI / UX Designer | Bhukya Software Technologies | Hyderabad | Full-time | Mar 27, 2026 | [Apply](https://to.indeed.com/aa2gz9jw7yzy) | Indeed |
+| UX Design Researcher | Redwood Software | Hyderabad | — | Jun 26, 2026 | [Apply](https://to.indeed.com/aacqcxc7r8lp) | Indeed |
+| UI/UX Designer | SRIT India | Hyderabad | Full-time | Jun 10, 2026 | [Apply](https://to.indeed.com/aatstt2ry6rv) | Indeed |
+| UI/UX Designer | Apex Web Services | Hyderabad | Permanent | Feb 27, 2026 | [Apply](https://to.indeed.com/aa9kdm9z62nx) | Indeed |
+
+### Pune — New Listings
+
+| Job Title | Company | Location | Work Type | Posted | Link | Source |
+|---|---|---|---|---|---|---|
+| Product Designer | ANCHANTO PTE. LTD. | Pune | — | Jun 26, 2026 | [Apply](https://to.indeed.com/aat9lz2gctvk) | Indeed |
+| UI/UX Designer | CDAT Pune | Pune | Fresher | Jun 08, 2026 | [Apply](https://to.indeed.com/aaq7n7tpm9kb) | Indeed |
+| UX Designer | Codengine Technologies | Pune | Full-time | Jun 17, 2026 | [Apply](https://to.indeed.com/aal69bhbgzdx) | Indeed |
+| UX Designer | Qodequay Technologies | Pune | Full-time | Jun 25, 2026 | [Apply](https://to.indeed.com/aa2mjtjsbz8k) | Indeed |
+| UI/UX Designer & Developer | Sankalp Computer and Systems | Pune | Permanent | Jun 26, 2026 | [Apply](https://to.indeed.com/aa2vzvylnpg6) | Indeed |
+| Product Designer | DEW Solutions | Pune | — | Jun 11, 2026 | [Apply](https://to.indeed.com/aadzln4lqjgs) | Indeed |
+| UX Designer | Barclays | Pune | Permanent | Jun 25, 2026 | [Apply](https://to.indeed.com/aaj7gjky4lkl) | Indeed |
+| UI/UX Designer | Maa Pranaam Buildcon | Pune | Full-time | Jun 02, 2026 | [Apply](https://to.indeed.com/aaqntzklhn8n) | Indeed |
+| UI/UX Designer | Neon Ideas | Pune | Permanent | Jun 16, 2026 | [Apply](https://to.indeed.com/aazgsgyvf2vt) | Indeed |
+| UX/UI Designer | Velnir | Pune | Full-time | Mar 03, 2026 | [Apply](https://to.indeed.com/aawh2gvsw8kp) | Indeed |
+| Sr. UI/UX Designer | saveinpe24 innovation | Hadapsar, Pune | Permanent | Mar 09, 2026 | [Apply](https://to.indeed.com/aaw4jtqvh98l) | Indeed |
+| User Experience Designer | Volkswagen Group Digital Solutions | Pune (Hybrid) | Full-time | — | [Search](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Pune) | LinkedIn |
+
+### Remote — New Listings
+
+| Job Title | Company | Location | Work Type | Posted | Link | Source |
+|---|---|---|---|---|---|---|
+| Senior Product Designer | Ocrolus | Remote (Gurugram) | — | Jun 03, 2026 | [Apply](https://to.indeed.com/aanrbqggl8nx) | Indeed/LinkedIn |
+| Senior Product Designer (Designer + Developer) | 3Pillar Global | Remote | — | May 11, 2026 | [Apply](https://to.indeed.com/aasj7yw68jsb) | Indeed |
+| UI/UX Designer | eatOS POS Inc. | Remote | Full-time | Jun 25, 2026 | [Apply](https://to.indeed.com/aawtgkyg96sg) | Indeed |
+| UI/UX Designer | Sofueled | Remote | Full-time | Jun 19, 2026 | [Apply](https://to.indeed.com/aaxxx9nrl97g) | Indeed |
+| UI/UX Designer | Enrope Solutions | Remote | Full-time | Jun 18, 2026 | [Apply](https://to.indeed.com/aaynfnvy8dbv) | Indeed |
+| Senior UI/UX Designer | IntelliSource Tech | Remote | Contract | Jun 16, 2026 | [Apply](https://to.indeed.com/aahvsly7qj4z) | Indeed |
+| UI / UX Designer | Innovins Technologies | Remote | Full-time | Feb 28, 2026 | [Apply](https://to.indeed.com/aanz8jrppgws) | Indeed |
+| Sr. UI/UX Designer | MNJ Software | Remote | Permanent | Feb 26, 2026 | [Apply](https://to.indeed.com/aakgv9jlzpms) | Indeed |
+| UX Designer (Remote) | Hire Feed | Remote (India) | — | — | [Search](https://www.linkedin.com/jobs/search/?keywords=Product%20Designer&location=Pune) | LinkedIn |
+| Product Designer | Vors Strategies | Remote (India) | — | Jun 27, 2026 | [View](https://wellfound.com/role/l/product-designer/bangalore) | Wellfound |
+
+---
+
 ## 🔍 June 18, 2026 — 09:50 AM IST (Scheduled Run #48)
 
 > Indeed API (8 queries: Product Designer + UI UX Designer × Hyderabad/Pune/Bangalore/Remote) + web searches across Naukri, iimjobs, Peerlist, Wellfound, YC Jobs, plus target-company searches (Whatfix, CRED/Groww/PhonePe, Atlassian/Postman/Notion, Freshworks/Zoho/CleverTap/MoEngage). **⚠️ Claude in Chrome was NOT connected this run — STEP 2 (LinkedIn / hirist / Wellfound / Cutshort / Instahyre browser scraping) was skipped.** Most Indeed, Atlassian, PhonePe, and YC results were already tracked from prior runs. **21 new listings found (2 target company, 19 general).**
